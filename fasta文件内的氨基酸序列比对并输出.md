@@ -196,16 +196,20 @@ python /Users/linjunxiang/Downloads/mutants.py
 ```
 这样运行脚本时也不会报错。
 
-
 要不要我顺便把这个脚本也做成可以直接运行的 .ipynb Jupyter Notebook？你可以更方便地调试和看结果。
+
+
+# request 5
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDQyNTY2MSwtMTIwMjMyMjgzLDIxMz
-QxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1NTA3
-NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LD
-cyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
+eyJoaXN0b3J5IjpbLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0xMj
+AyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1
+OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLT
+E1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2
+NzM3XX0=
 -->
