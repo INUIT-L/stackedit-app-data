@@ -66,6 +66,15 @@ print(f"突变信息已写入 {output_csv}")
 |GPR127y3g_design_10.R|None|
 
 你可以把这个脚本保存为 `.py` 文件并运行，前提是你已经安装了 `biopython`：
+```bash
+pip install biopython
+```
+要不要我也帮你把这个脚本改成能在Jupyter Notebook中运行的格式？
+
+# Request 2
+Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py", line 1, in <module> from Bio import SeqIO ModuleNotFoundError: No module named 'Bio'
+
+这个错误说明你还没有安装 `Biopython` 这个库。你可以通过以下命令在终端安装它：
 
 
 
@@ -82,6 +91,6 @@ print(f"突变信息已写入 {output_csv}")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjkyNzM2OSwtMTcxMTcxNzU1LC05Nz
+eyJoaXN0b3J5IjpbLTkxNjM4MTM0NCwtMTcxMTcxNzU1LC05Nz
 E5NjY3MzddfQ==
 -->
