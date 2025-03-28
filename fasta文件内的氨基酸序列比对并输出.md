@@ -200,16 +200,33 @@ python /Users/linjunxiang/Downloads/mutants.py
 
 
 # request 5
+```bash
+(base) linjunxiang@bogon ~ % python /Users/linjunxiang/Downloads/mutants.py
+/opt/anaconda3/lib/python3.12/site-packages/Bio/SeqIO/FastaIO.py:203: BiopythonDeprecationWarning: Previously, the FASTA parser silently ignored comments at the beginning of the FASTA file (before the first sequence).
 
+Nowadays, the FASTA file format is usually understood not to have any such comments, and most software packages do not allow them. Therefore, the use of comments at the beginning of a FASTA file is now deprecated in Biopython.
+
+In a future Biopython release, this deprecation warning will be replaced by a ValueError. To avoid this, there are three options:
+
+(1) Modify your FASTA file to remove such comments at the beginning of the file.
+
+(2) Use SeqIO.parse with the 'fasta-pearson' format instead of 'fasta'. This format is consistent with the FASTA format defined by William Pearson's FASTA aligner software. Thie format allows for comments before the first sequence; lines starting with the ';' character anywhere in the file are also regarded as comment lines and are ignored.
+
+(3) Use the 'fasta-blast' format. This format regards any lines starting with '!', '#', or ';' as comment lines. The 'fasta-blast' format may be safer than the 'fasta-pearson' format, as it explicitly indicates which lines are comments.
+
+warnings.warn(
+
+突变信息已写入 mutations_summary.csv
+```
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0xMj
-AyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1
-OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLT
-E1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2
-NzM3XX0=
+eyJoaXN0b3J5IjpbLTEzOTkyNTQwMjMsLTQxNzUyNjc3MCwxMz
+EwNDI1NjYxLC0xMjAyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5
+MTA2NSw5NjYxNzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OS
+w4NTE3NTAzNTUsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3
+MTc1NSwtOTcxOTY2NzM3XX0=
 -->
