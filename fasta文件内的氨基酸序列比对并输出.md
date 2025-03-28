@@ -176,13 +176,13 @@ Required-by:
 2. 说明你用的是 **Anaconda (base)** 环境下的 Python。
 但之前你运行脚本时报错，可能是你跑脚本的时候 **没用到 Anaconda 的 Python**，而是系统自带的 /usr/bin/python。
 
-**✅解决办法：用 Anaconda 的 Python 来跑你的脚本**
+### ✅解决办法：用 Anaconda 的 Python 来跑你的脚本
 运行下面这个命令：
 ```bash
 /opt/anaconda3/bin/python /Users/linjunxiang/Downloads/mutants.py
 ```
 这个命令明确地指定用 Anaconda 安装的 Python 解释器来运行脚本，这样就一定能找到 biopython。
-**✅ 更简单的办法（推荐）**
+### ✅ 更简单的办法（推荐）
 既然你在用 Anaconda，直接在终端运行：
 ```bash
 python /Users/linjunxiang/Downloads/mutants.py
@@ -195,8 +195,8 @@ python /Users/linjunxiang/Downloads/mutants.py
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5Nj
-YxNzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAz
-NTUsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOT
-cxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbLTEyMDIzMjI4MywyMTM0MTE5MzAxLC0xMT
+cyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUwNzY1MywxMjk4MzMz
+NDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQwNiwtMT
+cxMTcxNzU1LC05NzE5NjY3MzddfQ==
 -->
