@@ -97,6 +97,14 @@ Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py
 安装了biopython之后还是不行
 # reply3
 
+OK，我们来一步一步排查一下，确保你在**正确的 Python 环境**里安装了 `biopython`，并且运行脚本时也是用的这个环境。
+### ✅ 步骤 1：确认你装的 `biopython` 是装在哪个环境的
+```bash
+pip3 show biopython
+```
+
+
+
 
 
 
@@ -117,6 +125,6 @@ Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MT
-E3MTc1NSwtOTcxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcyMj
+Y4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
