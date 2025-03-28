@@ -152,10 +152,27 @@ python3 -m pip show biopython
 它会告诉我们你用的是哪个 Python 和 pip，我们就能对症下药。
 要不要我给你一个不需要 Biopython 的版本，直接用原始文件读取方式来处理？也完全可以做到。
 
-
-
-
-
+# request 4
+```
+(base) linjunxiang@bogon ~ % pip3 show biopython
+Name: biopython
+Version: 1.85
+Summary: Freely available tools for computational molecular biology.
+Home-page: https://biopython.org/
+Author: The Biopython Contributors
+Author-email: biopython@biopython.org
+License:
+Location: /opt/anaconda3/lib/python3.12/site-packages
+Requires: numpy
+Required-by:
+(base) linjunxiang@bogon ~ %
+```
+# reply4
+太好了，我们现在知道几点关键的信息：
+1. 你确实安装好了 biopython，位置在：
+```bash
+/opt/anaconda3/lib/python3.12/site-packages
+```
 
 
 
@@ -167,7 +184,7 @@ python3 -m pip show biopython
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTM0ODQxOSw5NjYxNzA1OTksLTEyOD
+eyJoaXN0b3J5IjpbLTEwNTIxMjI5MSw5NjYxNzA1OTksLTEyOD
 U1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5MjAx
 NTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX0=
 -->
