@@ -117,7 +117,23 @@ Location: /usr/local/lib/python3.x/site-packages
 ```bash
 python3 -m pip install biopython
 ```
-
+### ✅ 步骤 2：确认你运行脚本用的是哪个 Python
+在终端输入以下命令：
+```bash
+which python
+```
+或者
+```bash
+which python3
+```
+它会返回你系统中用的是哪个 Python，比如：
+```bash
+/usr/bin/python3
+```
+然后用这个路径再来运行你的脚本，比如：
+```bash
+/usr/bin/python3 /Users/linjunxiang/Downloads/mutants.py
+```
 
 
 
@@ -141,7 +157,7 @@ python3 -m pip install biopython
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1Mz
-A5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3
-XX0=
+eyJoaXN0b3J5IjpbMTQwNzg0MDgzMSwxMjk4MzMzNDU5LDg1MT
+c1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQwNiwtMTcxMTcxNzU1
+LC05NzE5NjY3MzddfQ==
 -->
