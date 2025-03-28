@@ -7,6 +7,7 @@
 
 # Repley1
 你这个需求可以通过Biopython来处理FASTA文件，然后逐位比较每个突变体与野生型序列之间的差异。以下是一个完整的Python脚本，会输出一个CSV文件，列出每个突变体和其对应的突变信息（格式如：A123V，表示第123位从A突变为V）。
+
 ```python
 # This is a comment
 print("Hello, world!")
@@ -16,6 +17,6 @@ print("Hello, world!")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjYzNjU3OCwtMTcxMTcxNzU1LC05Nz
-E5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbLTExMjA5NTU3MjQsLTE3MTE3MTc1NSwtOT
+cxOTY2NzM3XX0=
 -->
