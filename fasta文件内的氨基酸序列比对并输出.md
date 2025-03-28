@@ -79,8 +79,22 @@ Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py
 pip install biopython
 ```
 如果你使用的是 Python 3，并且系统中同时有 Python 2 和 Python 3 的话，建议使用：
- ```bash
- 
+```bash
+pip3 install biopython
+```
+### 检查是否安装成功
+安装完成后，你可以试着在终端或脚本里运行以下代码，确保没报错：
+```python 
+ from Bio import SeqIO
+print("Biopython 安装成功！")
+```
+如果还不行的话，你可以告诉我你是用什么环境运行这个脚本的（比如 VS Code、终端、Jupyter Notebook、Anaconda 等），我可以帮你更具体地排查。需要吗？
+
+
+# request3
+Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py", line 1, in <module> from Bio import SeqIO ModuleNotFoundError: No module named 'Bio' 
+安装了biopython之后还是不行
+
 
 
 
@@ -98,6 +112,6 @@ pip install biopython
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyNDM2NzEsLTE3MTE3MTc1NSwtOT
+eyJoaXN0b3J5IjpbLTE1NTU1MjUzODUsLTE3MTE3MTc1NSwtOT
 cxOTY2NzM3XX0=
 -->
