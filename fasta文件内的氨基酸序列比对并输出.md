@@ -95,6 +95,9 @@ print("Biopython 安装成功！")
 Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py", line 1, in <module> from Bio import SeqIO ModuleNotFoundError: No module named 'Bio' 
 安装了biopython之后还是不行
 
+# reply3
+
+
 
 
 
@@ -112,6 +115,6 @@ Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU1MjUzODUsLTE3MTE3MTc1NSwtOT
+eyJoaXN0b3J5IjpbLTE4MzYxMTUzNjUsLTE3MTE3MTc1NSwtOT
 cxOTY2NzM3XX0=
 -->
