@@ -62,8 +62,10 @@ print(f"突变信息已写入 {output_csv}")
 
 |Mutant_ID| Mutations |
 |---------|--|
-|   GPR127y3g_design_9.R      | A45V, T132M, ... |
-GPR127y3g_design_10.R
+|GPR127y3g_design_9.R|A45V, T132M, ...|
+|GPR127y3g_design_10.R|None|
+
+你可以把这个脚本保存为 `.py` 文件并运行，前提是你已经安装了 `biopython`：
 
 
 
@@ -74,11 +76,12 @@ GPR127y3g_design_10.R
 
 
 
-None
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkzMzUyMDgsLTE3MTE3MTc1NSwtOT
-cxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbLTQ2MjkyNzM2OSwtMTcxMTcxNzU1LC05Nz
+E5NjY3MzddfQ==
 -->
