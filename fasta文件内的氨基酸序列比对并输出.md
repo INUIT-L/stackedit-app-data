@@ -75,7 +75,9 @@ pip install biopython
 Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py", line 1, in <module> from Bio import SeqIO ModuleNotFoundError: No module named 'Bio'
 
 这个错误说明你还没有安装 `Biopython` 这个库。你可以通过以下命令在终端安装它：
-
+```bash
+pip install biopython
+```
 
 
 
@@ -91,6 +93,6 @@ Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjM4MTM0NCwtMTcxMTcxNzU1LC05Nz
-E5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbOTkzNTQwMjIyLC0xNzExNzE3NTUsLTk3MT
+k2NjczN119
 -->
