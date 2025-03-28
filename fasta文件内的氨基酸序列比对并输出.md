@@ -8,11 +8,7 @@
 print("Hello, world!")
 ```
 
-    # This is a comment
-    print("Hello, world!")
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODU3ODQ3MSwtOTcxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX0=
 -->
