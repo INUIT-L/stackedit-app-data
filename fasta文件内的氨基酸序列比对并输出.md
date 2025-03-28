@@ -200,7 +200,7 @@ python /Users/linjunxiang/Downloads/mutants.py
 
 
 # request 5
-```bash
+```
 (base) linjunxiang@bogon ~ % python /Users/linjunxiang/Downloads/mutants.py
 /opt/anaconda3/lib/python3.12/site-packages/Bio/SeqIO/FastaIO.py:203: BiopythonDeprecationWarning: Previously, the FASTA parser silently ignored comments at the beginning of the FASTA file (before the first sequence).
 
@@ -224,9 +224,9 @@ warnings.warn(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkyNTQwMjMsLTQxNzUyNjc3MCwxMz
-EwNDI1NjYxLC0xMjAyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5
-MTA2NSw5NjYxNzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OS
-w4NTE3NTAzNTUsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3
-MTc1NSwtOTcxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbMTI0NzIyNzk0MSwtNDE3NTI2NzcwLDEzMT
+A0MjU2NjEsLTEyMDIzMjI4MywyMTM0MTE5MzAxLC0xMTcyODkx
+MDY1LDk2NjE3MDU5OSwtMTI4NTUwNzY1MywxMjk4MzMzNDU5LD
+g1MTc1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQwNiwtMTcxMTcx
+NzU1LC05NzE5NjY3MzddfQ==
 -->
