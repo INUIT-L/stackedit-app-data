@@ -183,8 +183,10 @@ Required-by:
 ```
 这个命令明确地指定用 Anaconda 安装的 Python 解释器来运行脚本，这样就一定能找到 biopython。
 **✅ 更简单的办法（推荐）**
-
-
+既然你在用 Anaconda，直接在终端运行：
+```bash
+python /Users/linjunxiang/Downloads/mutants.py
+```
 
 
 
@@ -193,7 +195,8 @@ Required-by:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMj
-g1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIw
-MTU2LDcyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
+eyJoaXN0b3J5IjpbMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5Nj
+YxNzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAz
+NTUsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOT
+cxOTY2NzM3XX0=
 -->
