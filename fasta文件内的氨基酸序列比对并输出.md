@@ -100,7 +100,22 @@ Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py
 OK，我们来一步一步排查一下，确保你在**正确的 Python 环境**里安装了 `biopython`，并且运行脚本时也是用的这个环境。
 ### ✅ 步骤 1：确认你装的 `biopython` 是装在哪个环境的
 ```bash
+pip show biopython
+```
+或者用：
+```bash
 pip3 show biopython
+```
+你会看到类似这样的输出（如果装对了）：
+```vbnet
+Name: biopython
+Version: 1.81
+Location: /usr/local/lib/python3.x/site-packages
+...
+```
+如果没有输出，那就是没有成功安装。你可以试试用下面这个命令：
+```bash
+python3 -m pip install biopython
 ```
 
 
@@ -124,7 +139,9 @@ pip3 show biopython
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcyMj
-Y4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
+eyJoaXN0b3J5IjpbMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1Mz
+A5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3
+XX0=
 -->
