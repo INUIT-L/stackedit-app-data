@@ -192,6 +192,7 @@ python /Users/linjunxiang/Downloads/mutants.py
 
 如果你用的是 VS Code 或 PyCharm，可以手动切换解释器为：
 
+/opt/anaconda3/bin/python
 
 
 
@@ -199,8 +200,8 @@ python /Users/linjunxiang/Downloads/mutants.py
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzOTcwMzM0LC0xMjAyMzIyODMsMjEzND
-ExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLTEyODU1MDc2
-NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5MjAxNTYsNz
-IyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbLTE4ODE5NjMyNzAsLTEyMDIzMjI4MywyMT
+M0MTE5MzAxLC0xMTcyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUw
+NzY1MywxMjk4MzMzNDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Ni
+w3MjI2ODQwNiwtMTcxMTcxNzU1LC05NzE5NjY3MzddfQ==
 -->
