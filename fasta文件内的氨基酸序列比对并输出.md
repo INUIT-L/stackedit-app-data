@@ -2,10 +2,10 @@
 > Written with [StackEdit中文版](https://stackedit.cn/).
 ---
 
-# Request1
+# request1
 我现在手里有一个fasta文件（“/Users/linjunxiang/Downloads/all_designs_full_seq.fasta”），里面的内容如图所示。首先是一个wt_full_seq.R的氨基酸序列。 下面是一些突变体的氨基酸序列（比如>GPR127y3g_design_9.R）。请你写一个python脚本，帮我达到以下目的，将每一个突变体的氨基酸序列和野生型的对比，识别出这个突变体中是哪个位点的氨基酸和野生型对比发生了突变，以及它突变成了哪个氨基酸。最后将他们整理到一个csv文件中。
 
-# Repley1
+# reply1
 你这个需求可以通过Biopython来处理FASTA文件，然后逐位比较每个突变体与野生型序列之间的差异。以下是一个完整的Python脚本，会输出一个CSV文件，列出每个突变体和其对应的突变信息（格式如：A123V，表示第123位从A突变为V）。
 
 ```python
@@ -71,13 +71,18 @@ pip install biopython
 ```
 要不要我也帮你把这个脚本改成能在Jupyter Notebook中运行的格式？
 
-# Request 2
+# request 2
 Traceback (most recent call last): File "/Users/linjunxiang/Downloads/mutants.py", line 1, in <module> from Bio import SeqIO ModuleNotFoundError: No module named 'Bio'
 
 这个错误说明你还没有安装 `Biopython` 这个库。你可以通过以下命令在终端安装它：
 ```bash
 pip install biopython
 ```
+如果你使用的是 Python 3，并且系统中同时有 Python 2 和 Python 3 的话，建议使用：
+ ```bash
+ 
+
+
 
 
 
@@ -93,6 +98,6 @@ pip install biopython
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNTQwMjIyLC0xNzExNzE3NTUsLTk3MT
-k2NjczN119
+eyJoaXN0b3J5IjpbLTEwNTQyNDM2NzEsLTE3MTE3MTc1NSwtOT
+cxOTY2NzM3XX0=
 -->
