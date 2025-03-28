@@ -134,7 +134,9 @@ which python3
 ```bash
 /usr/bin/python3 /Users/linjunxiang/Downloads/mutants.py
 ```
+### ✅ 推荐：直接用下面这个命令运行脚本
 
+这个方式保证你是用安装了 Biopython 的环境来跑脚本：
 
 
 
@@ -157,7 +159,7 @@ which python3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzg0MDgzMSwxMjk4MzMzNDU5LDg1MT
-c1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQwNiwtMTcxMTcxNzU1
-LC05NzE5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NT
+E3NTAzNTUsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1
+NSwtOTcxOTY2NzM3XX0=
 -->
