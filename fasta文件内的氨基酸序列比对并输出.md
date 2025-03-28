@@ -137,7 +137,7 @@ which python3
 ### ✅ 推荐：直接用下面这个命令运行脚本
 
 这个方式保证你是用安装了 Biopython 的环境来跑脚本：
-
+`
 
 
 
@@ -159,7 +159,7 @@ which python3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NT
-E3NTAzNTUsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1
-NSwtOTcxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbNDM3NjcwMzQ1LC0xMjg1NTA3NjUzLDEyOT
+gzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcyMjY4NDA2
+LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
