@@ -173,8 +173,10 @@ Required-by:
 ```bash
 /opt/anaconda3/lib/python3.12/site-packages
 ```
-
-
+2. 说明你用的是 **Anaconda (base)** 环境下的 Python。
+但之前你运行脚本时报错，可能是你跑脚本的时候 **没用到 Anaconda 的 Python**，而是系统自带的 /usr/bin/python。
+### ✅ 解决办法：用 Anaconda 的 Python 来跑你的脚本
+运行下面这个命令：
 
 
 
@@ -184,7 +186,7 @@ Required-by:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIxMjI5MSw5NjYxNzA1OTksLTEyOD
-U1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5MjAx
-NTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX0=
+eyJoaXN0b3J5IjpbLTExODk5NDQ4MTcsOTY2MTcwNTk5LC0xMj
+g1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIw
+MTU2LDcyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
