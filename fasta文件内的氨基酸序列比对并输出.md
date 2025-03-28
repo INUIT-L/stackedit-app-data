@@ -215,6 +215,7 @@ In a future Biopython release, this deprecation warning will be replaced by a Va
 (3) Use the 'fasta-blast' format. This format regards any lines starting with '!', '#', or ';' as comment lines. The 'fasta-blast' format may be safer than the 'fasta-pearson' format, as it explicitly indicates which lines are comments.
 warnings.warn(
 突变信息已写入 mutations_summary.csv
+#因为脚本的开头是 output_csv = "mutations_summary.csv",
 ```
 
 # reply 5
@@ -225,9 +226,9 @@ warnings.warn(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NjIzNjYwLDc2MTIyODE5MywtNDE3NT
-I2NzcwLDEzMTA0MjU2NjEsLTEyMDIzMjI4MywyMTM0MTE5MzAx
-LC0xMTcyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUwNzY1MywxMj
-k4MzMzNDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQw
-NiwtMTcxMTcxNzU1LC05NzE5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbLTE3MjA1MzI1NjAsNzYxMjI4MTkzLC00MT
+c1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMjgzLDIxMzQxMTkz
+MDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1NTA3NjUzLD
+EyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcyMjY4
+NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
