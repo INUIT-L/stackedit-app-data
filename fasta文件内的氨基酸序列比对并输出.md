@@ -191,17 +191,21 @@ python /Users/linjunxiang/Downloads/mutants.py
 ### 💡 Bonus：你可以让 VS Code 或其他 IDE 也用 Anaconda 的 Python**
 
 如果你用的是 VS Code 或 PyCharm，可以手动切换解释器为：
-
+```
 /opt/anaconda3/bin/python
+```
+这样运行脚本时也不会报错。
 
+
+要不要我顺便把这个脚本也做成可以直接运行的 .ipynb Jupyter Notebook？你可以更方便地调试和看结果。
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE5NjMyNzAsLTEyMDIzMjI4MywyMT
-M0MTE5MzAxLC0xMTcyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUw
-NzY1MywxMjk4MzMzNDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Ni
-w3MjI2ODQwNiwtMTcxMTcxNzU1LC05NzE5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbMTMxMDQyNTY2MSwtMTIwMjMyMjgzLDIxMz
+QxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1NTA3
+NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LD
+cyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
