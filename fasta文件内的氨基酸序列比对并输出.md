@@ -187,7 +187,12 @@ Required-by:
 ```bash
 python /Users/linjunxiang/Downloads/mutants.py
 ```
+但**确保你当前在 (base)** 环境下（终端前缀里有 (base) 就表示是）。
+### 💡 Bonus：你可以让 VS Code 或其他 IDE 也用 Anaconda 的 Python**
 
+  
+
+如果你用的是 VS Code 或 PyCharm，可以手动切换解释器为：
 
 
 
@@ -195,8 +200,8 @@ python /Users/linjunxiang/Downloads/mutants.py
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIzMjI4MywyMTM0MTE5MzAxLC0xMT
-cyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUwNzY1MywxMjk4MzMz
-NDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQwNiwtMT
-cxMTcxNzU1LC05NzE5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbOTY2MTg3MDAsLTEyMDIzMjI4MywyMTM0MT
+E5MzAxLC0xMTcyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUwNzY1
+MywxMjk4MzMzNDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Niw3Mj
+I2ODQwNiwtMTcxMTcxNzU1LC05NzE5NjY3MzddfQ==
 -->
