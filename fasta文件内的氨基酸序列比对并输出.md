@@ -137,14 +137,20 @@ which python3
 ### ✅ 推荐：直接用下面这个命令运行脚本
 
 这个方式保证你是用安装了 Biopython 的环境来跑脚本：
-`
-
-
-
-
-
-
-
+```bash
+python3 -m Bio /Users/linjunxiang/Downloads/mutants.py
+```
+```bash
+python3 /Users/linjunxiang/Downloads/mutants.py
+```
+### 如果你还是不确定
+你可以在终端里运行下面这几行调试代码，发给我：
+```bash
+python3 -c "import sys; print(sys.executable)"
+python3 -m pip show biopython
+```
+它会告诉我们你用的是哪个 Python 和 pip，我们就能对症下药。
+要不要我给你一个不需要 Biopython 的版本，直接用原始文件读取方式来处理？也完全可以做到。
 
 
 
@@ -159,7 +165,7 @@ which python3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NjcwMzQ1LC0xMjg1NTA3NjUzLDEyOT
+eyJoaXN0b3J5IjpbOTY2MTcwNTk5LC0xMjg1NTA3NjUzLDEyOT
 gzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcyMjY4NDA2
 LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
