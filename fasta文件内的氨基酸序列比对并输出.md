@@ -327,12 +327,10 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 默认 Finder 是看不到 `/opt` 的，你可以通过以下方式访问：
 
 #### ✅ 方法 1：在 Finder 中打开
-
 1.  打开 Finder
-    
 2.  按下快捷键 `Cmd + Shift + G`
-    
 3.  输入路径：
+4. 
 
 
 
@@ -361,11 +359,11 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzU2MTg3MSwxMDU4NjUxOTQzLDIxMT
-Q1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMxMjQ1NywxNTM3MjQw
-NDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1NjAsNzYxMjI4MTkzLC
-00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMjgzLDIxMzQx
-MTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1NTA3Nj
-UzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcy
-MjY4NDA2XX0=
+eyJoaXN0b3J5IjpbLTEwNDM5OTE1OTMsMTQwMzU2MTg3MSwxMD
+U4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMx
+MjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1Nj
+AsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIw
+MjMyMjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNT
+k5LC0xMjg1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0x
+NTMwOTIwMTU2XX0=
 -->
