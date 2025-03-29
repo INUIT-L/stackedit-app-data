@@ -227,13 +227,25 @@ warnings.warn(
 >wt_full_seq.R
 ```
 前面可能有空行或注释符号，这在严格的 FASTA 规范里是不允许的。虽然现在还是个 warning，将来可能就会报错。
-
+```python
+records = list(SeqIO.parse(fasta_file, "fasta-pearson"))
+```
+或者干脆手动打开你的 .fasta 文件，把最前面那些不标准的注释、空行或说明性文字删掉，只保留标准 FASTA 格式：
+```
+>wt_full_seq.R
+MENDELK...
+...
+>GPR127y3g_design_9.R
+MNEDELK...
+```
+**✅ 文件内容结构检查**
+你现在可以用 Excel 或 Numbers 打开 mutations_summary.csv，会看到每个突变体和其对应的突变信息：
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDAwNzIzMCwtMTcyMDUzMjU2MCw3Nj
-EyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0xMjAyMzIy
-ODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLT
-EyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5
-MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX
-0=
+eyJoaXN0b3J5IjpbLTE2NzEyMzc3NjYsLTE3MjA1MzI1NjAsNz
+YxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMy
+MjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC
+0xMjg1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMw
+OTIwMTU2LDcyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN1
+19
 -->
