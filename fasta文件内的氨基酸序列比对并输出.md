@@ -226,11 +226,11 @@ warnings.warn(
 ```
 >wt_full_seq.R
 ```
-
+前面可能有空行或注释符号，这在严格的 FASTA 规范里是不允许的。虽然现在还是个 warning，将来可能就会报错。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTAxODY2OCwtMTcyMDUzMjU2MCw3Nj
+eyJoaXN0b3J5IjpbMjA1MDAwNzIzMCwtMTcyMDUzMjU2MCw3Nj
 EyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0xMjAyMzIy
 ODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLT
 EyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5
