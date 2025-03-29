@@ -240,9 +240,20 @@ MNEDELK...
 ```
 **✅ 文件内容结构检查**
 你现在可以用 Excel 或 Numbers 打开 mutations_summary.csv，会看到每个突变体和其对应的突变信息：
+|Mutant_ID| Mutations |
+|---------|--|
+|GPR127y3g_design_9.R|A45V, T132M, ...|
+|GPR127y3g_design_10.R|None|
 
+如果你想要扩展这个脚本，比如：
+• 把突变位点导出为列表
+• 统计每个位点出现了多少种突变
+• 可视化突变热图或条形图
+• 区分 conservative vs. radical mutation
+都可以告诉我，我可以直接帮你加上！
+需要我进一步帮你可视化或者处理这些突变数据吗？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzEyMzc3NjYsLTE3MjA1MzI1NjAsNz
+eyJoaXN0b3J5IjpbLTE1OTY2MDE4MTIsLTE3MjA1MzI1NjAsNz
 YxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMy
 MjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC
 0xMjg1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMw
