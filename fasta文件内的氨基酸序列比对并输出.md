@@ -338,9 +338,15 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 cd /opt/anaconda3
 ls
 ```
-你可以看到里面的内容，比如
+你可以看到里面的内容，比如 `bin`, `lib`, `envs`, `etc` 等等。
 
-
+### 补充提示
+如果你经常用 `anaconda3` 下的内容，可以给它创建一个快捷方式，比如：
+```bash
+ln -s /opt/anaconda3 ~/anaconda3
+```
+这样你就可以通过 `~/anaconda3` 快速访问了。
+需要我帮你配置路径、添加环境变量或者设置 VS Code 解释器的路径吗？
 
 
 
@@ -362,7 +368,7 @@ ls
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMxMjYwOTYsMTI3MTkyNjg1LC0xOT
+eyJoaXN0b3J5IjpbLTE4NzA5NTg2ODgsMTI3MTkyNjg1LC0xOT
 QwOTA5NzM5LDE3MTEwNTAwNzcsLTEzNjY5MjYxNTksMTQwMzU2
 MTg3MSwxMDU4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NC
 wtMjA4NzMxMjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3
