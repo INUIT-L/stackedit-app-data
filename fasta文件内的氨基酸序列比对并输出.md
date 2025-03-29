@@ -275,7 +275,8 @@ MNEDELK...
 
 ---
 **方法 2：🔥 推荐 —— 用 VS Code 或 Jupyter Notebook，配合 Anaconda 环境运行**
-你现在的情况已经很适合这样做了：
+你现在的情况已经很适合这样做了.
+
 **✅ 方式 A：使用 Jupyter Notebook（适合你现在这种脚本处理）**
 
 1. 打开终端：
@@ -360,7 +361,7 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE0ODAyNDUsMTQwMzU2MTg3MSwxMD
+eyJoaXN0b3J5IjpbLTEzNjY5MjYxNTksMTQwMzU2MTg3MSwxMD
 U4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMx
 MjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1Nj
 AsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIw
