@@ -299,10 +299,13 @@ jupyter notebook
 
 ### ✅ 总结
 
-|工具|  能否换解释器 | 推荐程度 |
+|工具|能否换解释器 | 推荐程度 |
 |--|--|--|
-| 官方 IDLE | ❌ 不能 | ❌ 不推荐|
-|  |  |  |
+| 官方 IDLE |❌ 不能| ❌ 不推荐|
+|  VS Code| ✅ 可以 | ✅✅✅ 强烈推荐 |
+|  Jupyter| ✅ 可以 | ✅✅✅ 非常适合数据处理 |
+
+如果你愿意，我可以帮你把现在的 `.py` 脚本改造成一个 `.ipynb`（Notebook）文件，让你直接复制过去就能运行！要不要？
 
 
 
@@ -316,22 +319,21 @@ jupyter notebook
 
 
 
-VS Code
 
-✅ 可以
 
-✅✅✅ 强烈推荐
 
-Jupyter
 
-✅ 可以
 
-✅✅✅ 非常适合数据处理
+
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODk0Nzk5MywxNTY0NTgwOTg0LC0yMD
+eyJoaXN0b3J5IjpbLTIyNDc4NjQ3NywxNTY0NTgwOTg0LC0yMD
 g3MzEyNDU3LDE1MzcyNDA0NjgsMTQzMDgwNjg2MSwtMTcyMDUz
 MjU2MCw3NjEyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC
 0xMjAyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYx
