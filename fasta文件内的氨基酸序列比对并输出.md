@@ -267,32 +267,17 @@ MNEDELK...
 ----------
 
 **🧠 所以答案是：**
-
-  
-
 ❌ **IDLE 不支持自由切换 Python 解释器**（也不能用 Anaconda 的解释器，除非你用的是 Anaconda 安装的 IDLE）
 
 ----------
 
 **✅ 那该怎么办？**
-
-  
-
 **方法 1：用 Anaconda 打开自己的 IDLE（不推荐）**
-
-  
-
 虽然可以手动打开 Anaconda 安装的 IDLE，但太麻烦，一般没人这么干。
-
-  
-
 **方法 2：🔥 推荐 —— 用 VS Code 或 Jupyter Notebook，配合 Anaconda 环境运行**
-
-  
-
 你现在的情况已经很适合这样做了：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODI3NTUwOCwxNDMwODA2ODYxLC0xNz
+eyJoaXN0b3J5IjpbMTQ2MDc5NzIyNiwxNDMwODA2ODYxLC0xNz
 IwNTMyNTYwLDc2MTIyODE5MywtNDE3NTI2NzcwLDEzMTA0MjU2
 NjEsLTEyMDIzMjI4MywyMTM0MTE5MzAxLC0xMTcyODkxMDY1LD
 k2NjE3MDU5OSwtMTI4NTUwNzY1MywxMjk4MzMzNDU5LDg1MTc1
