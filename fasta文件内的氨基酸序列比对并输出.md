@@ -332,9 +332,8 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 	/opt
 	```
 4. 然后回车，你就会看到anaconda3文件夹
-
-
-
+#### ✅ 方法 1：在 Finder 中打开
+在终端中直接输入：
 
 
 
@@ -359,11 +358,11 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTkyNjg1LC0xOTQwOTA5NzM5LDE3MT
-EwNTAwNzcsLTEzNjY5MjYxNTksMTQwMzU2MTg3MSwxMDU4NjUx
-OTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMxMjQ1Ny
-wxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1NjAsNzYx
-MjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMj
-gzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0x
-Mjg1NTA3NjUzXX0=
+eyJoaXN0b3J5IjpbLTE4NjMxODM4NjIsMTI3MTkyNjg1LC0xOT
+QwOTA5NzM5LDE3MTEwNTAwNzcsLTEzNjY5MjYxNTksMTQwMzU2
+MTg3MSwxMDU4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NC
+wtMjA4NzMxMjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3
+MjA1MzI1NjAsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNT
+Y2MSwtMTIwMjMyMjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUs
+OTY2MTcwNTk5XX0=
 -->
