@@ -264,14 +264,16 @@ MNEDELK...
 好问题！你用的是 Python 自带的 **IDLE 编辑器**，这是从官网下载安装 Python 后默认附带的开发环境。
 但 **IDLE 的运行环境是跟随你安装的那一套 Python 的**，不像 VS Code 可以切换解释器。
 
-**🧠 所以答案是：**
+** 所以答案是：**
 ❌ **IDLE 不支持自由切换 Python 解释器**（也不能用 Anaconda 的解释器，除非你用的是 Anaconda 安装的 IDLE）
 
 ---
 
-**✅ 那该怎么办？**
+### 那该怎么办？
 **方法 1：用 Anaconda 打开自己的 IDLE（不推荐）**
 虽然可以手动打开 Anaconda 安装的 IDLE，但太麻烦，一般没人这么干。
+
+---
 **方法 2：🔥 推荐 —— 用 VS Code 或 Jupyter Notebook，配合 Anaconda 环境运行**
 你现在的情况已经很适合这样做了：
 **✅ 方式 A：使用 Jupyter Notebook（适合你现在这种脚本处理）**
@@ -282,11 +284,21 @@ jupyter notebook
 ```
 2.在浏览器中打开的页面中，新建一个 .ipynb 文件，把刚才的脚本粘进去，就可以运行了，调试也更方便，还能直接查看 CSV 输出内容。
 
+**✅ 方式 B：使用 VS Code（可以自由选择解释器）**
+
+1. 下载并安装 [Visual Studio Code](https://code.visualstudio.com/)
+
+2. 安装 Python 插件（在扩展商店搜 Python）
+
+3. 打开你的 .py 文件
+
+4. **左下角点击解释器路径（通常在状态栏）**，选择：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODczMTI0NTcsMTUzNzI0MDQ2OCwxND
-MwODA2ODYxLC0xNzIwNTMyNTYwLDc2MTIyODE5MywtNDE3NTI2
-NzcwLDEzMTA0MjU2NjEsLTEyMDIzMjI4MywyMTM0MTE5MzAxLC
-0xMTcyODkxMDY1LDk2NjE3MDU5OSwtMTI4NTUwNzY1MywxMjk4
-MzMzNDU5LDg1MTc1MDM1NSwtMTUzMDkyMDE1Niw3MjI2ODQwNi
-wtMTcxMTcxNzU1LC05NzE5NjY3MzddfQ==
+eyJoaXN0b3J5IjpbMTIzNTk2ODQ3MiwtMjA4NzMxMjQ1NywxNT
+M3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1NjAsNzYxMjI4
+MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMjgzLD
+IxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1
+NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMT
+U2LDcyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
 -->
