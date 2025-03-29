@@ -328,10 +328,10 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 1.  打开 Finder
 2.  按下快捷键 `Cmd + Shift + G`
 3.  输入路径：
-4. **左下角点击解释器路径（通常在状态栏）**，选择：
+	```bash
+	/opt
 	```
-	/opt/anaconda3/bin/python
-	```
+4. 然后回车，你就会看到anaconda3文件夹
 
 
 
@@ -359,11 +359,11 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA5MDk3MzksMTcxMTA1MDA3NywtMT
-M2NjkyNjE1OSwxNDAzNTYxODcxLDEwNTg2NTE5NDMsMjExNDUy
-NDc0NCwxNTY0NTgwOTg0LC0yMDg3MzEyNDU3LDE1MzcyNDA0Nj
-gsMTQzMDgwNjg2MSwtMTcyMDUzMjU2MCw3NjEyMjgxOTMsLTQx
-NzUyNjc3MCwxMzEwNDI1NjYxLC0xMjAyMzIyODMsMjEzNDExOT
-MwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLTEyODU1MDc2NTMs
-MTI5ODMzMzQ1OV19
+eyJoaXN0b3J5IjpbMTI3MTkyNjg1LC0xOTQwOTA5NzM5LDE3MT
+EwNTAwNzcsLTEzNjY5MjYxNTksMTQwMzU2MTg3MSwxMDU4NjUx
+OTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMxMjQ1Ny
+wxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1NjAsNzYx
+MjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMj
+gzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0x
+Mjg1NTA3NjUzXX0=
 -->
