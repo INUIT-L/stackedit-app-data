@@ -297,16 +297,45 @@ jupyter notebook
 
 ---
 
+### ✅ 总结
 
+|工具|  能否换解释器 | 推荐程度 |
+|--|--|--|
+| 官方 IDLE | ❌ 不能 | ❌ 不推荐|
+|  |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+VS Code
+
+✅ 可以
+
+✅✅✅ 强烈推荐
+
+Jupyter
+
+✅ 可以
+
+✅✅✅ 非常适合数据处理
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc4MjM2NjEsMTU2NDU4MDk4NCwtMj
-A4NzMxMjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1
-MzI1NjAsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MS
-wtMTIwMjMyMjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2
-MTcwNTk5LC0xMjg1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMz
-U1LC0xNTMwOTIwMTU2LDcyMjY4NDA2LC0xNzExNzE3NTUsLTk3
-MTk2NjczN119
+eyJoaXN0b3J5IjpbMjA1ODk0Nzk5MywxNTY0NTgwOTg0LC0yMD
+g3MzEyNDU3LDE1MzcyNDA0NjgsMTQzMDgwNjg2MSwtMTcyMDUz
+MjU2MCw3NjEyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC
+0xMjAyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYx
+NzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNT
+UsLTE1MzA5MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcx
+OTY2NzM3XX0=
 -->
