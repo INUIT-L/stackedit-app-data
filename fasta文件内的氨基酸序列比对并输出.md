@@ -367,7 +367,18 @@ ln -s /opt/anaconda3 ~/anaconda3
 	```bash 
 	export PATH="/opt/anaconda3/bin:$PATH"
 	```
-所以只要你打开终端，它默认就用的是 `/opt/anaconda3` 的 Python，哪怕你已经删了 Anaconda 的 App。
+- 所以只要你打开终端，它默认就用的是 `/opt/anaconda3` 的 Python，哪怕你已经删了 Anaconda 的 App。
+
+### ✅ 如何检查你当前的 Python 路径
+在终端里输入：
+```bash
+which python
+```
+你大概率会看到类似：
+```bash
+/opt/anaconda3/bin/python
+```
+这说明你现在用的就是 Anaconda 的 Python。
 
 
 
@@ -389,7 +400,7 @@ ln -s /opt/anaconda3 ~/anaconda3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NTQwMTA2LC0xMTg2NzgxMTg4LC0xOD
+eyJoaXN0b3J5IjpbNDM2ODU4MjAyLC0xMTg2NzgxMTg4LC0xOD
 cwOTU4Njg4LDEyNzE5MjY4NSwtMTk0MDkwOTczOSwxNzExMDUw
 MDc3LC0xMzY2OTI2MTU5LDE0MDM1NjE4NzEsMTA1ODY1MTk0My
 wyMTE0NTI0NzQ0LDE1NjQ1ODA5ODQsLTIwODczMTI0NTcsMTUz
