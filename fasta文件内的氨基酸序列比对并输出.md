@@ -262,9 +262,6 @@ MNEDELK...
 
 # reply 6
 好问题！你用的是 Python 自带的 **IDLE 编辑器**，这是从官网下载安装 Python 后默认附带的开发环境。
-
-  
-
 但 **IDLE 的运行环境是跟随你安装的那一套 Python 的**，不像 VS Code 可以切换解释器。
 
 ----------
@@ -295,7 +292,7 @@ MNEDELK...
 
 你现在的情况已经很适合这样做了：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODc0MTE4MiwxNDMwODA2ODYxLC0xNz
+eyJoaXN0b3J5IjpbMTQ5ODI3NTUwOCwxNDMwODA2ODYxLC0xNz
 IwNTMyNTYwLDc2MTIyODE5MywtNDE3NTI2NzcwLDEzMTA0MjU2
 NjEsLTEyMDIzMjI4MywyMTM0MTE5MzAxLC0xMTcyODkxMDY1LD
 k2NjE3MDU5OSwtMTI4NTUwNzY1MywxMjk4MzMzNDU5LDg1MTc1
