@@ -280,10 +280,10 @@ MNEDELK...
 **✅ 方式 A：使用 Jupyter Notebook（适合你现在这种脚本处理）**
 
 1. 打开终端：
-```bash
-conda activate base
-jupyter notebook
-```
+	```bash
+	conda activate base
+	jupyter notebook
+	```
 2. 在浏览器中打开的页面中，新建一个 .ipynb 文件，把刚才的脚本粘进去，就可以运行了，调试也更方便，还能直接查看 CSV 输出内容。
 
 **  ✅ 方式 B：使用 VS Code（可以自由选择解释器）**
@@ -292,9 +292,9 @@ jupyter notebook
 2. 安装 Python 插件（在扩展商店搜 Python）
 3. 打开你的 .py 文件
 4. **左下角点击解释器路径（通常在状态栏）**，选择：
-```
-/opt/anaconda3/bin/python
-```
+	```
+	/opt/anaconda3/bin/python
+	```
 然后就能正常运行 biopython 相关的脚本了。
 
 ---
@@ -332,8 +332,10 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 1.  打开 Finder
 2.  按下快捷键 `Cmd + Shift + G`
 3.  输入路径：
-4. 
-
+4. **左下角点击解释器路径（通常在状态栏）**，选择：
+	```
+	/opt/anaconda3/bin/python
+	```
 
 
 
@@ -361,11 +363,11 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY5MjYxNTksMTQwMzU2MTg3MSwxMD
-U4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMx
-MjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1Nj
-AsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIw
-MjMyMjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNT
-k5LC0xMjg1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0x
-NTMwOTIwMTU2XX0=
+eyJoaXN0b3J5IjpbMTcxMTA1MDA3NywtMTM2NjkyNjE1OSwxND
+AzNTYxODcxLDEwNTg2NTE5NDMsMjExNDUyNDc0NCwxNTY0NTgw
+OTg0LC0yMDg3MzEyNDU3LDE1MzcyNDA0NjgsMTQzMDgwNjg2MS
+wtMTcyMDUzMjU2MCw3NjEyMjgxOTMsLTQxNzUyNjc3MCwxMzEw
+NDI1NjYxLC0xMjAyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5MT
+A2NSw5NjYxNzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4
+NTE3NTAzNTVdfQ==
 -->
