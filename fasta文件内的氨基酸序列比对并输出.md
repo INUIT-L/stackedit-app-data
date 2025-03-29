@@ -313,7 +313,6 @@ MNEDELK...
 Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件夹
 
 # reply 8
-
 好问题！
 `/opt` 是 macOS 和 Linux 系统中一个标准的系统目录，全路径：
 ```bash
@@ -323,11 +322,8 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 -   `opt` 代表 **optional**（可选软件包）
 -   系统或你手动安装的一些大型软件包（比如 Anaconda、MATLAB、Chrome）通常会放在这里，而不是你的用户目录
 
-
 ### 🔍 如何找到 `/opt` 文件夹
-
 默认 Finder 是看不到 `/opt` 的，你可以通过以下方式访问：
-
 #### ✅ 方法 1：在 Finder 中打开
 1.  打开 Finder
 2.  按下快捷键 `Cmd + Shift + G`
@@ -363,11 +359,11 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTA1MDA3NywtMTM2NjkyNjE1OSwxND
-AzNTYxODcxLDEwNTg2NTE5NDMsMjExNDUyNDc0NCwxNTY0NTgw
-OTg0LC0yMDg3MzEyNDU3LDE1MzcyNDA0NjgsMTQzMDgwNjg2MS
-wtMTcyMDUzMjU2MCw3NjEyMjgxOTMsLTQxNzUyNjc3MCwxMzEw
-NDI1NjYxLC0xMjAyMzIyODMsMjEzNDExOTMwMSwtMTE3Mjg5MT
-A2NSw5NjYxNzA1OTksLTEyODU1MDc2NTMsMTI5ODMzMzQ1OSw4
-NTE3NTAzNTVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDA5MDk3MzksMTcxMTA1MDA3NywtMT
+M2NjkyNjE1OSwxNDAzNTYxODcxLDEwNTg2NTE5NDMsMjExNDUy
+NDc0NCwxNTY0NTgwOTg0LC0yMDg3MzEyNDU3LDE1MzcyNDA0Nj
+gsMTQzMDgwNjg2MSwtMTcyMDUzMjU2MCw3NjEyMjgxOTMsLTQx
+NzUyNjc3MCwxMzEwNDI1NjYxLC0xMjAyMzIyODMsMjEzNDExOT
+MwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLTEyODU1MDc2NTMs
+MTI5ODMzMzQ1OV19
 -->
