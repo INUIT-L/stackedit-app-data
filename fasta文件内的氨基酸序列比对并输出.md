@@ -402,13 +402,20 @@ __conda_setup="$('/opt/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 ```
 把这些都删掉，保存退出（Ctrl+O 回车保存，Ctrl+X 退出）。
 然后执行：
-```
+```bash
 source ~/.zshrc
 ```
+或者重新打开终端窗口。
 
+---
+### ✅ 想保留 Anaconda，就别删 `/opt/anaconda3`
+如果你只是想搞清楚解释器路径，不一定要删掉 Anaconda，只需要在 VS Code 或 IDLE 中指定你要用的 Python 即可。
+需要我帮你**干净卸载 Anaconda**？或者你想保留它、继续用它来跑 bio 相关的脚本？你怎么打算的？
 
+# request 10
+(base) linjunxiang@bogon ~ % /opt/anaconda3/bin/python Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct 4 2024, 08:22:19) [Clang 14.0.6 ] on darwin Type "help", "copyright", "credits" or "license" for more information. >>> 现在终端里的开头变成了>>> ，是什么情况
 
-
+# reply 10
 
 
 
@@ -417,11 +424,11 @@ source ~/.zshrc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTQ0ODkwLDQzNjg1ODIwMiwtMTE4Nj
-c4MTE4OCwtMTg3MDk1ODY4OCwxMjcxOTI2ODUsLTE5NDA5MDk3
-MzksMTcxMTA1MDA3NywtMTM2NjkyNjE1OSwxNDAzNTYxODcxLD
-EwNTg2NTE5NDMsMjExNDUyNDc0NCwxNTY0NTgwOTg0LC0yMDg3
-MzEyNDU3LDE1MzcyNDA0NjgsMTQzMDgwNjg2MSwtMTcyMDUzMj
-U2MCw3NjEyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0x
-MjAyMzIyODNdfQ==
+eyJoaXN0b3J5IjpbLTIxMjE0NDY2OSw0MzY4NTgyMDIsLTExOD
+Y3ODExODgsLTE4NzA5NTg2ODgsMTI3MTkyNjg1LC0xOTQwOTA5
+NzM5LDE3MTEwNTAwNzcsLTEzNjY5MjYxNTksMTQwMzU2MTg3MS
+wxMDU4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4
+NzMxMjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1Mz
+I1NjAsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwt
+MTIwMjMyMjgzXX0=
 -->
