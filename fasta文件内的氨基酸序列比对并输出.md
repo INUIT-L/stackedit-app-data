@@ -380,14 +380,31 @@ which python
 ```
 这说明你现在用的就是 Anaconda 的 Python。
 
-
-
-
-
-
-
-
-
+### ✅ 如何彻底移除 Anaconda（如果你想）
+如果你想彻底卸载 Anaconda 和它的 Python，请执行以下步骤：
+```bash
+rm -rf /opt/anaconda3
+```
+然后打开你的终端配置文件：
+```bash
+nano ~/.zshrc  # 如果你用的是 zsh（macOS 默认）
+```
+或者：
+```bash
+nano ~/.bash_profile  # 如果你用的是 bash
+```
+找到类似这几行：
+```bash
+# >>> conda initialize >>>
+__conda_setup="$('/opt/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+...
+# <<< conda initialize <<<
+```
+把这些都删掉，保存退出（Ctrl+O 回车保存，Ctrl+X 退出）。
+然后执行：
+```
+source ~/.zshrc
+```
 
 
 
@@ -400,11 +417,11 @@ which python
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2ODU4MjAyLC0xMTg2NzgxMTg4LC0xOD
-cwOTU4Njg4LDEyNzE5MjY4NSwtMTk0MDkwOTczOSwxNzExMDUw
-MDc3LC0xMzY2OTI2MTU5LDE0MDM1NjE4NzEsMTA1ODY1MTk0My
-wyMTE0NTI0NzQ0LDE1NjQ1ODA5ODQsLTIwODczMTI0NTcsMTUz
-NzI0MDQ2OCwxNDMwODA2ODYxLC0xNzIwNTMyNTYwLDc2MTIyOD
-E5MywtNDE3NTI2NzcwLDEzMTA0MjU2NjEsLTEyMDIzMjI4Mywy
-MTM0MTE5MzAxXX0=
+eyJoaXN0b3J5IjpbMTc4MTQ0ODkwLDQzNjg1ODIwMiwtMTE4Nj
+c4MTE4OCwtMTg3MDk1ODY4OCwxMjcxOTI2ODUsLTE5NDA5MDk3
+MzksMTcxMTA1MDA3NywtMTM2NjkyNjE1OSwxNDAzNTYxODcxLD
+EwNTg2NTE5NDMsMjExNDUyNDc0NCwxNTY0NTgwOTg0LC0yMDg3
+MzEyNDU3LDE1MzcyNDA0NjgsMTQzMDgwNjg2MSwtMTcyMDUzMj
+U2MCw3NjEyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0x
+MjAyMzIyODNdfQ==
 -->
