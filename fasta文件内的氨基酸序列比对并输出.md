@@ -284,18 +284,14 @@ jupyter notebook
 ```
 2.在浏览器中打开的页面中，新建一个 .ipynb 文件，把刚才的脚本粘进去，就可以运行了，调试也更方便，还能直接查看 CSV 输出内容。
 
-**✅ 方式 B：使用 VS Code（可以自由选择解释器）**
-
+** ✅ 方式 B：使用 VS Code（可以自由选择解释器）**
 1. 下载并安装 [Visual Studio Code](https://code.visualstudio.com/)
-
 2. 安装 Python 插件（在扩展商店搜 Python）
-
 3. 打开你的 .py 文件
-
 4. **左下角点击解释器路径（通常在状态栏）**，选择：
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTk2ODQ3MiwtMjA4NzMxMjQ1NywxNT
+eyJoaXN0b3J5IjpbMTY3MTE1NjQ4OCwtMjA4NzMxMjQ1NywxNT
 M3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1NjAsNzYxMjI4
 MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMjgzLD
 IxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1
