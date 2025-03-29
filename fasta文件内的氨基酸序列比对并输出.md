@@ -221,14 +221,19 @@ warnings.warn(
 # reply 5
 太棒了！🎉 脚本已经成功运行，并且输出的突变信息已经写入到 mutations_summary.csv 文件中了！
 
-
+**⚠️ 关于那个 BiopythonDeprecationWarning 提醒：**
+这是因为你的 FASTA 文件最前面有个非标准的注释行，比如这一行：
+```
+>wt_full_seq.R
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA1MzI1NjAsNzYxMjI4MTkzLC00MT
-c1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMjgzLDIxMzQxMTkz
-MDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC0xMjg1NTA3NjUzLD
-EyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMwOTIwMTU2LDcyMjY4
-NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN119
+eyJoaXN0b3J5IjpbMjAyNTAxODY2OCwtMTcyMDUzMjU2MCw3Nj
+EyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0xMjAyMzIy
+ODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLT
+EyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5
+MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX
+0=
 -->
