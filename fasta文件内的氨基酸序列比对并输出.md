@@ -252,11 +252,21 @@ MNEDELK...
 • 区分 conservative vs. radical mutation
 都可以告诉我，我可以直接帮你加上！
 需要我进一步帮你可视化或者处理这些突变数据吗？
+
+# request 6
+你刚刚提到，Bonus：你可以让 VS Code 或其他 IDE 也用Anaconda 的 Python，如果你用的是 VS Code 或 PyCharm，可以手动切换解释器为：
+```
+/opt/anaconda3/bin/python
+```
+请问如果我用的是直接从python官网上下载的这种IDLE（如图所示）来写和运行的脚本，也可以类似这样切换吗
+
+# reply 6
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY2MDE4MTIsLTE3MjA1MzI1NjAsNz
-YxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIwMjMy
-MjgzLDIxMzQxMTkzMDEsLTExNzI4OTEwNjUsOTY2MTcwNTk5LC
-0xMjg1NTA3NjUzLDEyOTgzMzM0NTksODUxNzUwMzU1LC0xNTMw
-OTIwMTU2LDcyMjY4NDA2LC0xNzExNzE3NTUsLTk3MTk2NjczN1
-19
+eyJoaXN0b3J5IjpbMTQzMDgwNjg2MSwtMTcyMDUzMjU2MCw3Nj
+EyMjgxOTMsLTQxNzUyNjc3MCwxMzEwNDI1NjYxLC0xMjAyMzIy
+ODMsMjEzNDExOTMwMSwtMTE3Mjg5MTA2NSw5NjYxNzA1OTksLT
+EyODU1MDc2NTMsMTI5ODMzMzQ1OSw4NTE3NTAzNTUsLTE1MzA5
+MjAxNTYsNzIyNjg0MDYsLTE3MTE3MTc1NSwtOTcxOTY2NzM3XX
+0=
 -->
