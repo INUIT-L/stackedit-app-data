@@ -277,6 +277,7 @@ MNEDELK...
 **方法 2：🔥 推荐 —— 用 VS Code 或 Jupyter Notebook，配合 Anaconda 环境运行**
 你现在的情况已经很适合这样做了：
 **✅ 方式 A：使用 Jupyter Notebook（适合你现在这种脚本处理）**
+
 1. 打开终端：
 ```bash
 conda activate base
@@ -284,7 +285,7 @@ jupyter notebook
 ```
 2. 在浏览器中打开的页面中，新建一个 .ipynb 文件，把刚才的脚本粘进去，就可以运行了，调试也更方便，还能直接查看 CSV 输出内容。
 
-** ✅ 方式 B：使用 VS Code（可以自由选择解释器）**
+**  ✅ 方式 B：使用 VS Code（可以自由选择解释器）**
 
 1. 下载并安装 [Visual Studio Code](https://code.visualstudio.com/)
 2. 安装 Python 插件（在扩展商店搜 Python）
@@ -359,7 +360,7 @@ Location: /opt/anaconda3/lib/python3.12/site-packages 请问opt是哪个文件�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM5OTE1OTMsMTQwMzU2MTg3MSwxMD
+eyJoaXN0b3J5IjpbLTEzMDE0ODAyNDUsMTQwMzU2MTg3MSwxMD
 U4NjUxOTQzLDIxMTQ1MjQ3NDQsMTU2NDU4MDk4NCwtMjA4NzMx
 MjQ1NywxNTM3MjQwNDY4LDE0MzA4MDY4NjEsLTE3MjA1MzI1Nj
 AsNzYxMjI4MTkzLC00MTc1MjY3NzAsMTMxMDQyNTY2MSwtMTIw
