@@ -364,8 +364,10 @@ ln -s /opt/anaconda3 ~/anaconda3
 #### ✅ **2. 你的 Shell 环境变量还指向 Anaconda**
 
 -   安装 Anaconda 时，它会把路径写入你的 shell 配置文件（比如 `.bash_profile`, `.zshrc`, `.bashrc` 等），像这样：
-- ``````
--  
+	```bash 
+	export PATH="/opt/anaconda3/bin:$PATH"
+	```
+
 
 
 
@@ -386,11 +388,11 @@ ln -s /opt/anaconda3 ~/anaconda3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NzYzMDkwLC0xODcwOTU4Njg4LDEyNz
-E5MjY4NSwtMTk0MDkwOTczOSwxNzExMDUwMDc3LC0xMzY2OTI2
-MTU5LDE0MDM1NjE4NzEsMTA1ODY1MTk0MywyMTE0NTI0NzQ0LD
-E1NjQ1ODA5ODQsLTIwODczMTI0NTcsMTUzNzI0MDQ2OCwxNDMw
-ODA2ODYxLC0xNzIwNTMyNTYwLDc2MTIyODE5MywtNDE3NTI2Nz
-cwLDEzMTA0MjU2NjEsLTEyMDIzMjI4MywyMTM0MTE5MzAxLC0x
-MTcyODkxMDY1XX0=
+eyJoaXN0b3J5IjpbLTExODY3ODExODgsLTE4NzA5NTg2ODgsMT
+I3MTkyNjg1LC0xOTQwOTA5NzM5LDE3MTEwNTAwNzcsLTEzNjY5
+MjYxNTksMTQwMzU2MTg3MSwxMDU4NjUxOTQzLDIxMTQ1MjQ3ND
+QsMTU2NDU4MDk4NCwtMjA4NzMxMjQ1NywxNTM3MjQwNDY4LDE0
+MzA4MDY4NjEsLTE3MjA1MzI1NjAsNzYxMjI4MTkzLC00MTc1Mj
+Y3NzAsMTMxMDQyNTY2MSwtMTIwMjMyMjgzLDIxMzQxMTkzMDEs
+LTExNzI4OTEwNjVdfQ==
 -->
