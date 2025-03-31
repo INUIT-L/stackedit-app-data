@@ -57,6 +57,9 @@ RMSD 的定义公式：
 
 $$ \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} \left| \vec{a}_i - \vec{b}_i \right|^2 } $$
 
+$$
+\text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^N \left\| \vec{a}_i - \vec{b}_i \right\|^2 }
+$$
 
 您可以使用 [KaTeX](https://khan.github.io/KaTeX/) 渲染 LaTeX 数学表达式：
 
@@ -67,8 +70,8 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDA5MTA3OSwxOTE0NzMwNTc5LC0xNT
-E3MzcxODAsMjQ4NTk0OTY1LC0xMzIyMDM4MTQ1LC0xODk4NjA0
-ODQ1LDEzNTAyMzA3MzQsNjgzMzUwODU5LC0xMjg5Mjc4NDEsLT
-E5OTg3MTM4MThdfQ==
+eyJoaXN0b3J5IjpbLTgyMTA2NjQ0LC00NDAwOTEwNzksMTkxND
+czMDU3OSwtMTUxNzM3MTgwLDI0ODU5NDk2NSwtMTMyMjAzODE0
+NSwtMTg5ODYwNDg0NSwxMzUwMjMwNzM0LDY4MzM1MDg1OSwtMT
+I4OTI3ODQxLC0xOTk4NzEzODE4XX0=
 -->
