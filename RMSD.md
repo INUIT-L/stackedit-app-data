@@ -4,7 +4,7 @@
 # request 1
 Although we have recently been able to solubilize CerS5 in a partially active form, we were unable to obtain enough material to determine the three-dimensional structure by cryo-electron microscopy at a high enough resolution. Thus, we persued a computational approach by comparing the predicted structures of CerS5 using RaptorX, trRosetta, RoseTTAfold, and AlphaFold2,. All four programs predicted a structure with a bundle of seven alpha-helices of ~30–50 Å length, with the N-terminus on one side of the membrane and the C-terminus and the Hox-like domain on the other side (Fig. 1B), consistent with earlier predictions. The AlphaFold2 structures of the six human CerS enzymes are very similar (Fig. 1C and Supplementary Table 1), which is expected in light of their high sequence similarity (Supplementary Table 2). 
 请问什么是RMSD Value？
-!1[2022 NC sup table 1](/imgs/2025-03-31/b4rxJ3qgIX1A0lPI.png)
+![2022 NC sup table 1](/imgs/2025-03-31/b4rxJ3qgIX1A0lPI.png)
 
 
 # reply 1
@@ -59,5 +59,5 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg3MTM4MThdfQ==
+eyJoaXN0b3J5IjpbLTEyODkyNzg0MSwtMTk5ODcxMzgxOF19
 -->
