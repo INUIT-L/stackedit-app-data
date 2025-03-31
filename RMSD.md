@@ -69,9 +69,18 @@ RMSD 的定义公式：
 
 $$ \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} \left| \vec{a}_i - \vec{b}_i \right|^2 } $$
 
+
+您可以使用 [KaTeX](https://khan.github.io/KaTeX/) 渲染 LaTeX 数学表达式：
+
+满足 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ 的 *Gamma 函数* 是通过欧拉积分
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDczMDU3OSwtMTUxNzM3MTgwLDI0OD
-U5NDk2NSwtMTMyMjAzODE0NSwtMTg5ODYwNDg0NSwxMzUwMjMw
-NzM0LDY4MzM1MDg1OSwtMTI4OTI3ODQxLC0xOTk4NzEzODE4XX
-0=
+eyJoaXN0b3J5IjpbLTE0NTEyNTg4NTAsMTkxNDczMDU3OSwtMT
+UxNzM3MTgwLDI0ODU5NDk2NSwtMTMyMjAzODE0NSwtMTg5ODYw
+NDg0NSwxMzUwMjMwNzM0LDY4MzM1MDg1OSwtMTI4OTI3ODQxLC
+0xOTk4NzEzODE4XX0=
 -->
