@@ -8,6 +8,7 @@ Although we have recently been able to solubilize CerS5 in a partially active fo
 ![输入图片说明](/imgs/2025-03-31/jwT1i7GxIdm9Rv5l.png)
 
 
+
 # reply 1
 RMSD（Root-Mean-Square Deviation，均方根偏差）是结构生物学中用来衡量两个蛋白质三维结构之间差异的一个数值指标，单位是 Å（埃，1 Å = 0.1 纳米）。
 
@@ -60,6 +61,6 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDIzMDczNCw2ODMzNTA4NTksLTEyOD
-kyNzg0MSwtMTk5ODcxMzgxOF19
+eyJoaXN0b3J5IjpbMzQwNDMzMjQ4LDEzNTAyMzA3MzQsNjgzMz
+UwODU5LC0xMjg5Mjc4NDEsLTE5OTg3MTM4MThdfQ==
 -->
