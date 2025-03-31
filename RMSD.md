@@ -47,6 +47,7 @@ RMSD 衡量的是「两个结构中对应原子的空间距离有多接近」。
 对应原子的位置是：
 那么，**RMSD 的公式是：**
 结构 A 的原子坐标：
+
 $$
 \vec{a}_1, \vec{a}_2, \ldots, \vec{a}_N
 $$
@@ -60,6 +61,7 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg2MDQ4NDUsMTM1MDIzMDczNCw2OD
-MzNTA4NTksLTEyODkyNzg0MSwtMTk5ODcxMzgxOF19
+eyJoaXN0b3J5IjpbLTQ5Njc4MTQzOSwtMTg5ODYwNDg0NSwxMz
+UwMjMwNzM0LDY4MzM1MDg1OSwtMTI4OTI3ODQxLC0xOTk4NzEz
+ODE4XX0=
 -->
