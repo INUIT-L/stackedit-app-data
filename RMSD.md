@@ -1,16 +1,4 @@
 > Written with [StackEdit中文版](https://stackedit.cn/).
-<head>  
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>  
-    <script type="text/x-mathjax-config">  
-        MathJax.Hub.Config({  
-            tex2jax: {  
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],  
-            inlineMath: [['$','$']]  
-            }  
-        });  
-    </script>  
-</head>
-
 
 # request 1
 Although we have recently been able to solubilize CerS5 in a partially active form, we were unable to obtain enough material to determine the three-dimensional structure by cryo-electron microscopy at a high enough resolution. Thus, we persued a computational approach by comparing the predicted structures of CerS5 using RaptorX, trRosetta, RoseTTAfold, and AlphaFold2,. All four programs predicted a structure with a bundle of seven alpha-helices of ~30–50 Å length, with the N-terminus on one side of the membrane and the C-terminus and the Hox-like domain on the other side (Fig. 1B), consistent with earlier predictions. The AlphaFold2 structures of the six human CerS enzymes are very similar (Fig. 1C and Supplementary Table 1), which is expected in light of their high sequence similarity (Supplementary Table 2). 
@@ -79,8 +67,8 @@ $$
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEyNTg4NTAsMTkxNDczMDU3OSwtMT
-UxNzM3MTgwLDI0ODU5NDk2NSwtMTMyMjAzODE0NSwtMTg5ODYw
-NDg0NSwxMzUwMjMwNzM0LDY4MzM1MDg1OSwtMTI4OTI3ODQxLC
-0xOTk4NzEzODE4XX0=
+eyJoaXN0b3J5IjpbLTQ0MDA5MTA3OSwxOTE0NzMwNTc5LC0xNT
+E3MzcxODAsMjQ4NTk0OTY1LC0xMzIyMDM4MTQ1LC0xODk4NjA0
+ODQ1LDEzNTAyMzA3MzQsNjgzMzUwODU5LC0xMjg5Mjc4NDEsLT
+E5OTg3MTM4MThdfQ==
 -->
