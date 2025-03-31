@@ -56,16 +56,9 @@ $$ \vec{b}_1, \vec{b}_2, \ldots, \vec{b}_N $$
 
 
 RMSD 的定义公式：
-$$
-\text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^N \left\| \vec{a}_i - \vec{b}_i \right\|^2 }
-$$
-
-
-$$ \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} \left| \vec{a}_i - \vec{b}_i \right|^2 } $$
-
 RMSD = sqrt( (1/N) * sum[i=1 to N] |aᵢ - bᵢ|² )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ3OTM1MjEsLTEzMjIwMzgxNDUsLT
-E4OTg2MDQ4NDUsMTM1MDIzMDczNCw2ODMzNTA4NTksLTEyODky
-Nzg0MSwtMTk5ODcxMzgxOF19
+eyJoaXN0b3J5IjpbMjQ4NTk0OTY1LC0xMzIyMDM4MTQ1LC0xOD
+k4NjA0ODQ1LDEzNTAyMzA3MzQsNjgzMzUwODU5LC0xMjg5Mjc4
+NDEsLTE5OTg3MTM4MThdfQ==
 -->
