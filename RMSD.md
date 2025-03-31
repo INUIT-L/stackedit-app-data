@@ -65,8 +65,10 @@ RMSD 的定义公式：
 $$
 \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^N \left\| \vec{a}_i - \vec{b}_i \right\|^2 }
 $$
+
+$$ \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} \left| \vec{a}_i - \vec{b}_i \right|^2 } $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjIwMzgxNDUsLTE4OTg2MDQ4NDUsMT
-M1MDIzMDczNCw2ODMzNTA4NTksLTEyODkyNzg0MSwtMTk5ODcx
-MzgxOF19
+eyJoaXN0b3J5IjpbLTE1ODgzOTk4MTIsLTEzMjIwMzgxNDUsLT
+E4OTg2MDQ4NDUsMTM1MDIzMDczNCw2ODMzNTA4NTksLTEyODky
+Nzg0MSwtMTk5ODcxMzgxOF19
 -->
