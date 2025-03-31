@@ -1,4 +1,15 @@
 > Written with [StackEdit中文版](https://stackedit.cn/).
+<head>  
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>  
+    <script type="text/x-mathjax-config">  
+        MathJax.Hub.Config({  
+            tex2jax: {  
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],  
+            inlineMath: [['$','$']]  
+            }  
+        });  
+    </script>  
+</head>
 
 
 # request 1
@@ -59,7 +70,7 @@ RMSD 的定义公式：
 $$ \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} \left| \vec{a}_i - \vec{b}_i \right|^2 } $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODc0OTQ4MiwtMTUxNzM3MTgwLDI0OD
+eyJoaXN0b3J5IjpbMTkxNDczMDU3OSwtMTUxNzM3MTgwLDI0OD
 U5NDk2NSwtMTMyMjAzODE0NSwtMTg5ODYwNDg0NSwxMzUwMjMw
 NzM0LDY4MzM1MDg1OSwtMTI4OTI3ODQxLC0xOTk4NzEzODE4XX
 0=
