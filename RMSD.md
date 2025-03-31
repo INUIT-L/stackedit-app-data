@@ -1,0 +1,37 @@
+> Written with [StackEdit中文版](https://stackedit.cn/).
+
+
+# request 1
+Although we have recently been able to solubilize CerS5 in a partially active form, we were unable to obtain enough material to determine the three-dimensional structure by cryo-electron microscopy at a high enough resolution. Thus, we persued a computational approach by comparing the predicted structures of CerS5 using RaptorX, trRosetta, RoseTTAfold, and AlphaFold2,. All four programs predicted a structure with a bundle of seven alpha-helices of ~30–50 Å length, with the N-terminus on one side of the membrane and the C-terminus and the Hox-like domain on the other side (Fig. 1B), consistent with earlier predictions. The AlphaFold2 structures of the six human CerS enzymes are very similar (Fig. 1C and Supplementary Table 1), which is expected in light of their high sequence similarity (Supplementary Table 2). 
+请问什么是RMSD Value？
+!1[2022 NC sup table 1](/imgs/2025-03-31/b4rxJ3qgIX1A0lPI.png)
+
+
+# reply 1
+RMSD（Root-Mean-Square Deviation，均方根偏差）是结构生物学中用来衡量两个蛋白质三维结构之间差异的一个数值指标，单位是 Å（埃，1 Å = 0.1 纳米）。
+
+简单来说，**RMSD 是衡量两个蛋白质结构是否相似的一个数字**：
+
+-   如果 RMSD 值很小（比如 < 1 Å），说明两个结构几乎一样；
+    
+-   如果 RMSD 值较大（比如 > 2 Å），说明它们在三维空间中存在较大差异。
+
+ 
+### 在你给的图中：
+
+这个表格展示了 AlphaFold2 预测的 6 个 CerS 蛋白之间结构的 RMSD 值。
+
+-   **对角线上方（白格子）是全长蛋白之间的 RMSD**。
+    
+-   **对角线下方（灰格子）是 TMD（跨膜结构域）之间的 RMSD**。
+    
+-   比如，CerS5 和 CerS6 的全长 RMSD 是 1.64 Å，而它们的 TMD RMSD 是 0.30 Å，说明它们的跨膜结构非常相似。
+    
+
+这正好呼应了你给的那段话：尽管 CerS5 活性不高、结构不能用 cryo-EM 解出来，但用 AlphaFold2 的预测结果来看，它的结构和其它 CerS 很相似，特别是在跨膜结构上（这是功能的关键部分之一）。
+
+如果你想，我可以帮你可视化一下这张 RMSD 表的相似度趋势图，也可以讲讲 RMSD 是怎么算出来的。你想深入了解哪部分？
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUzNDMzMDg4OV19
+-->
