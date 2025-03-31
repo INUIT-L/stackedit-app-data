@@ -38,29 +38,29 @@ RMSD（Root-Mean-Square Deviation，均方根偏差）是结构生物学中用�
 
 # reply 2
 当然可以！我们来从**直观概念 → 数学表达 → 在蛋白质结构中的应用**，一步步讲清楚 RMSD 是怎么计算的。
- ### RMSD 是什么？（直观理解）
+
+### RMSD 是什么？（直观理解）
 RMSD 衡量的是「两个结构中对应原子的空间距离有多接近」。
 你可以把它想象成这样：
 > 如果你把两个相似的积木模型叠在一起，RMSD 就是在这些积木点之间测的平均偏差。
 
 假设你有两个结构，每个结构由 NNN 个原子组成，分别叫做结构 A 和结构 B。  
-对应原子的位置是：
+
 结构 A 的原子坐标：
 
 $$ \vec{a}_1, \vec{a}_2, \ldots, \vec{a}_N $$
 
-
 结构 B 的原子坐标：
 
 $$ \vec{b}_1, \vec{b}_2, \ldots, \vec{b}_N $$
-
 
 RMSD 的定义公式：
 
 $$ \text{RMSD} = \sqrt{ \frac{1}{N} \sum_{i=1}^{N} \left| \vec{a}_i - \vec{b}_i \right|^2 } $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTczNzE4MCwyNDg1OTQ5NjUsLTEzMj
-IwMzgxNDUsLTE4OTg2MDQ4NDUsMTM1MDIzMDczNCw2ODMzNTA4
-NTksLTEyODkyNzg0MSwtMTk5ODcxMzgxOF19
+eyJoaXN0b3J5IjpbMTk0ODc0OTQ4MiwtMTUxNzM3MTgwLDI0OD
+U5NDk2NSwtMTMyMjAzODE0NSwtMTg5ODYwNDg0NSwxMzUwMjMw
+NzM0LDY4MzM1MDg1OSwtMTI4OTI3ODQxLC0xOTk4NzEzODE4XX
+0=
 -->
