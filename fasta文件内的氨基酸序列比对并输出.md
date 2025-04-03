@@ -413,32 +413,15 @@ source ~/.zshrc
 需要我帮你**干净卸载 Anaconda**？或者你想保留它、继续用它来跑 bio 相关的脚本？你怎么打算的？
 
 # request 10
-(base) linjunxiang@bogon ~ % /opt/anaconda3/bin/python Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct 4 2024, 08:22:19) [Clang 14.0.6 ] on darwin Type "help", "copyright", "credits" or "license" for more information. >>> 现在终端里的开头变成了>>> ，是什么情况
+```
+(base) linjunxiang@bogon ~ % /opt/anaconda3/bin/python
+ Python 3.12.7 | packaged by Anaconda, Inc. | (main, Oct 4 2024, 08:22:19) [Clang 14.0.6 ] on darwin Type "help", "copyright", "credits" or "license" for more information. >>> 现在终端里的开头变成了>>> ，是什么情况
 
 # reply 10
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTQ5NjAzOSwtMjE0NjE5ODI0MywtMj
+eyJoaXN0b3J5IjpbLTM0NTUwNTAyOSwtMjE0NjE5ODI0MywtMj
 EyMTQ0NjY5LDQzNjg1ODIwMiwtMTE4Njc4MTE4OCwtMTg3MDk1
 ODY4OCwxMjcxOTI2ODUsLTE5NDA5MDk3MzksMTcxMTA1MDA3Ny
 wtMTM2NjkyNjE1OSwxNDAzNTYxODcxLDEwNTg2NTE5NDMsMjEx
