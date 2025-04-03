@@ -3,7 +3,7 @@
 
 ## basic buffer
 
-<img src="/imgs/2025-04-03/yEsFkQAjMxXMvuKr.png" width="600" alt="Supplementary Table 1"/>
+<img src="/imgs/2025-04-03/yEsFkQAjMxXMvuKr.png" width="" alt="Supplementary Table 1"/>
 
 
 ## Illustrated Procedure
@@ -17,6 +17,6 @@ width="1000" alt="Supplementary Table 1"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTkwODE2NCw5MjgyMTEyMDEsNDgxND
+eyJoaXN0b3J5IjpbLTg0NTk4MjAzOCw5MjgyMTEyMDEsNDgxND
 k2ODAzXX0=
 -->
