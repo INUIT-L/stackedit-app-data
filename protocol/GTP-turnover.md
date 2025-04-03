@@ -8,7 +8,7 @@
 
 ## Illustrated Procedure
 <img src="/imgs/2025-04-03/ZU073oa6dpX0WlMe.png" 
-width="1000" alt="Supplementary Table 1"/>
+width="1200" alt="Supplementary Table 1"/>
 
 
 
@@ -17,6 +17,6 @@ width="1000" alt="Supplementary Table 1"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQxMzU0ODYsOTQwODA5OTg1LDkyOD
-IxMTIwMSw0ODE0OTY4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjcyMzQ2ODgsLTE4NDQxMzU0ODYsOT
+QwODA5OTg1LDkyODIxMTIwMSw0ODE0OTY4MDNdfQ==
 -->
