@@ -3,12 +3,12 @@
 
 ## basic buffer
 
-<img src="/imgs/2025-04-03/yEsFkQAjMxXMvuKr.png" width="400" alt="Supplementary Table 1"/>
+<img src="/imgs/2025-04-03/yEsFkQAjMxXMvuKr.png" width="400" alt="GTP-turnover-Basicbuffer-recipe"/>
 
 
 ## Illustrated Procedure
 <img src="/imgs/2025-04-03/ZU073oa6dpX0WlMe.png" 
-width="1200" alt="Supplementary Table 1"/>
+width="1200" alt="GTP-turnover-illustrated-Procedure"/>
 
 
 
@@ -17,6 +17,7 @@ width="1200" alt="Supplementary Table 1"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcyMzQ2ODgsLTE4NDQxMzU0ODYsOT
-QwODA5OTg1LDkyODIxMTIwMSw0ODE0OTY4MDNdfQ==
+eyJoaXN0b3J5IjpbMTAwNjkyNjc1NiwtMTc2NzIzNDY4OCwtMT
+g0NDEzNTQ4Niw5NDA4MDk5ODUsOTI4MjExMjAxLDQ4MTQ5Njgw
+M119
 -->
