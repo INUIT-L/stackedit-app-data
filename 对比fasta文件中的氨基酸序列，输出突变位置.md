@@ -423,8 +423,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 现在终端里的开头变成了>>> ，是什么情况
 
 # reply 10
-
+你现在看到的这个：
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjgyODUyM119
+eyJoaXN0b3J5IjpbMTU1ODA5MTgwMSwtMzkyODI4NTIzXX0=
 -->
