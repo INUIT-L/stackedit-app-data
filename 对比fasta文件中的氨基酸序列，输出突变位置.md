@@ -432,10 +432,15 @@ Type "help", "copyright", "credits" or "license" for more information.
 /opt/anaconda3/bin/python
 ```
 这等价于告诉终端：“现在我想进入 Python 编程环境，来写一些 Python 语句”。
-### ✅ 这是正常的，说明 Anaconda 的 Python 解释器是好的！
+**✅ 这是正常的，说明 Anaconda 的 Python 解释器是好的** 在这个状态下，你可以直接输入 Python 语句，比如：
+```python
+print("Hello world")
+```
+它会直接运行并返回结果。
 
-在这个状态下，你可以直接输入 Python 语句，比如：
+### ❌ 但在这个模式下，不能跑 `.py` 脚本！
+比如你不能直接在 `>>>` 里写：
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjU1ODI4MCwtMzkyODI4NTIzXX0=
+eyJoaXN0b3J5IjpbLTEyOTU0OTU4NSwtMzkyODI4NTIzXX0=
 -->
