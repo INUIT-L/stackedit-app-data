@@ -446,7 +446,12 @@ print("Hello world")
 ```
 这会报错，因为这不是合法的 Python 语法。
 
-
+### ✅ 退出这种交互式模式的方法
+你只需要按下键盘上的：
+```mathematica
+Ctrl + D
+```
+或者输入：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Njk5NzMxNCwtMzkyODI4NTIzXX0=
+eyJoaXN0b3J5IjpbMjM3NjMyMzc1LC0zOTI4Mjg1MjNdfQ==
 -->
