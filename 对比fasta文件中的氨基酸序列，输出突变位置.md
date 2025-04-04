@@ -452,6 +452,17 @@ print("Hello world")
 Ctrl + D
 ```
 或者输入：
+```python
+exit()
+```
+然后你就会退出 Python，回到终端的命令行。
+
+### ✅ 正确运行 `.py` 脚本的方式
+你应该在 正常终端命令行下（不是` >>>`）输入：
+```bash
+/opt/anaconda3/bin/python /Users/linjunxiang/Downloads/mutants.py
+```
+想不想我教你一个更方便的方式，给这个命令做个快捷运行，或者弄个 `.sh` 脚本一键运行？😄
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NjMyMzc1LC0zOTI4Mjg1MjNdfQ==
+eyJoaXN0b3J5IjpbMTk4NDk0ODEwNiwtMzkyODI4NTIzXX0=
 -->
