@@ -447,14 +447,8 @@ print("Hello world")
 这会报错，因为这不是合法的 Python 语法。
 
 ### ✅ 退出这种交互式模式的方法
-你只需要按下键盘上的：
-```mathematica
-Ctrl + D
-```
-或者输入：
-```python
-exit()
-```
+你只需要按下键盘上的：`Ctrl+D`
+或者输入：`exit()`
 然后你就会退出 Python，回到终端的命令行。
 
 ### ✅ 正确运行 `.py` 脚本的方式
@@ -464,5 +458,6 @@ exit()
 ```
 想不想我教你一个更方便的方式，给这个命令做个快捷运行，或者弄个 `.sh` 脚本一键运行？😄
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDk0ODEwNiwtMzkyODI4NTIzXX0=
+eyJoaXN0b3J5IjpbLTM1Nzk4MDg2OCwxOTg0OTQ4MTA2LC0zOT
+I4Mjg1MjNdfQ==
 -->
