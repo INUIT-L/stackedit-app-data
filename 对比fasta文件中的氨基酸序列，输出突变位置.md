@@ -424,7 +424,18 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 # reply 10
 你现在看到的这个：
+```python-repl
+>>>
+```
+说明你已经**进入了 Python 的交互式模式（Interactive Shell）**。换句话说，你刚刚运行了：
+```bash
+/opt/anaconda3/bin/python
+```
+这等价于告诉终端：“现在我想进入 Python 编程环境，来写一些 Python 语句”。
+### ✅ 这是正常的，说明 Anaconda 的 Python 解释器是好的！
+
+在这个状态下，你可以直接输入 Python 语句，比如：
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODA5MTgwMSwtMzkyODI4NTIzXX0=
+eyJoaXN0b3J5IjpbMTUyNjU1ODI4MCwtMzkyODI4NTIzXX0=
 -->
