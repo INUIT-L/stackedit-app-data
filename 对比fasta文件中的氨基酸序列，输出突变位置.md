@@ -441,7 +441,12 @@ print("Hello world")
 
 ### ❌ 但在这个模式下，不能跑 `.py` 脚本！
 比如你不能直接在 `>>>` 里写：
+```python
+/Users/linjunxiang/Downloads/mutants.py
+```
+这会报错，因为这不是合法的 Python 语法。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc1MTAyMDAsLTM5MjgyODUyM119
+eyJoaXN0b3J5IjpbMTk1Njk5NzMxNCwtMzkyODI4NTIzXX0=
 -->
