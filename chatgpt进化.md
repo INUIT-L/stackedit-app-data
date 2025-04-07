@@ -132,8 +132,12 @@ we changed the energy function to one that accounts for the membrane environment
 > 具体做法是引入了 dsTβL 的经验打分表，  
 > 这个打分表描述了不同氨基酸插入到质膜中时的能量倾向性。”
 
+<br>
+<br>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03OD
-IxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
+eyJoaXN0b3J5IjpbMTczMzgwNTMyNiwxODQxODc0OTYsLTE2OD
+Y2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2
+N119
 -->
