@@ -60,11 +60,9 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 # reply3
 很好，这个问题非常关键，因为这篇文章的核心算法（mPROSS）就是把 **phylogenetic analysis** 和 **结构能量计算** 结合起来设计蛋白的。
 
-----------
-### **什么是 phylogenetic analysis（系统发育分析）？**
-简单说：
-> 它就是**从自然界中已经存在的同源蛋白序列中寻找规律**，  
-> 用来指导我们在目标蛋白中哪些位点可以变、哪些不能随便变。
+phylogenetic analysis（系统发育分析）？简单说： 就是从自然界中已经存在的同源蛋白序列中寻找规律  
+用来指导我们在目标蛋白中哪些位点可以变、哪些不能随便变。
+
 ----------
 ### **怎么做的？文章中的具体做法：**
 他们在算法中用 phylogenetic analysis 的步骤大概包括以下几个步骤：
@@ -140,6 +138,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY2MTk2NDksLTc4MjExNDQxNiwxNT
-c3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbMTA3NTg4NjE4NiwtMTY4NjYxOTY0OSwtNz
+gyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
