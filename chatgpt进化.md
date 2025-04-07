@@ -227,10 +227,8 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 越靠后（16–18），PSSM threshold 趋近于 0（= 接受大胆突变）
  
 **③计算 final 能量时用权重调整**
-
 即使突变在 PSSM 中分数偏低，只要没有被 threshold 剔除，  
 它仍然可以参与组合设计，**但 Rosetta 在算 total energy 时会给它打个“进化罚分”**。
-
 这就是 PSSM weight 的作用：
 
 
@@ -289,10 +287,10 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDY4OTM2Niw1MDIwMzU3MDAsMzA5NT
-A4MjAzLC05MTE3MTQyNTEsLTE3MzQ3NTY3NjQsLTEwMTg2NTYy
-MiwtNjg2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxOD
-g4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYx
-OTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX
-0=
+eyJoaXN0b3J5IjpbLTE0MzM5MjgzNDIsLTk0NDY4OTM2Niw1MD
+IwMzU3MDAsMzA5NTA4MjAzLC05MTE3MTQyNTEsLTE3MzQ3NTY3
+NjQsLTEwMTg2NTYyMiwtNjg2MjMxNDk5LDE1Mzc2MDEyMzEsLT
+MyNjUxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4
+NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMi
+wxMjI4NzAyMjY3XX0=
 -->
