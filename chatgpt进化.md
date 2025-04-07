@@ -1,7 +1,7 @@
 > Written with [StackEdit中文版](https://stackedit.cn/).
 
 # request 1
-文章中 "providing detailed information on functionality that complements bulk experiments."  什么是 bulk experiments ?
+文章中 "Furthermore, Kv channels can be investigated at the single-molecule level, providing detailed information on functionality that complements bulk experiments."  什么是 bulk experiments ?
 https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 # reply 1
 文章中这句话：
@@ -21,7 +21,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 
 这句话意思是说：  
 **Kv通道可以被单分子水平研究，提供更细致的功能性信息，从而补充 bulk 实验得到的平均结果。**
-如果你想要我帮你总结这段话的意思或者翻译整句，也可以告诉我。
+
 
 # request 2
 这篇文章好像是拿 Kv channel 来测试他们的算法，我对于钾离子通道了解比较少，请你给我补充一些背景知识，比如 Kv 代表什么的缩写，1.2 和 2.1 是什么
@@ -142,6 +142,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyOD
-cwMjI2N119
+eyJoaXN0b3J5IjpbLTE4NzcwNjU4NDgsLTc4MjExNDQxNiwxNT
+c3MzMwMDIsMTIyODcwMjI2N119
 -->
