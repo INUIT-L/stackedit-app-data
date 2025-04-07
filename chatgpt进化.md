@@ -178,7 +178,7 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 这句话中，eliminate mutations that are rarely observed in the natural diversity，和“不要突变那些非常保守的位点”，是不是差不多的意思？因为非常保守的位点其实也是没什么突变的位点
 
 # reply 7
-你理解得**非常对！而且说得非常精准！👏👏**
+
  **这两个说法在逻辑上几乎是等价的！**
  原句：如果某个位点在大量天然蛋白序列中**几乎总是某个特定氨基酸**，那就**不建议在这个位点做突变**。
  你说的：“不要突变那些非常保守的位点”
@@ -249,8 +249,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTEyMzA3NywxNTM3NjAxMjMxLC0zMj
-Y1MTk5OTUsMTg4ODU0Mjg0NywtMTQxOTY4NTQ2MCwxODQxODc0
-OTYsLTE2ODY2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMT
-IyODcwMjI2N119
+eyJoaXN0b3J5IjpbNDcwNjQ3MzksMTUzNzYwMTIzMSwtMzI2NT
+E5OTk1LDE4ODg1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2
+LC0xNjg2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMj
+g3MDIyNjddfQ==
 -->
