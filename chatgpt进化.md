@@ -208,10 +208,10 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 ## 关键工具：PSSM（Position-Specific Scoring Matrix）
 PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位点上20种氨基酸的出现频率或打分**。  
 每个位置都有一个这样的小表格，比如：
-| 氨基酸 | A | R| N| D | V | L| 
+| 氨基酸 | A | R| N| D | ... | Y| 
 |--|--|--|--|--|--|--
-|pin | 3% | 1%
-||--|--|--|--|--|--
+|频率 |90%| 2%| 1%| 1%|...| 1%|
+|PSSM|+6|--|--|--|--|--
 
 
 
@@ -270,10 +270,10 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjM2MTI1Nyw1MDIwMzU3MDAsMzA5NT
-A4MjAzLC05MTE3MTQyNTEsLTE3MzQ3NTY3NjQsLTEwMTg2NTYy
-MiwtNjg2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxOD
-g4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYx
-OTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX
-0=
+eyJoaXN0b3J5IjpbOTIwNjYzOTU2LDUwMjAzNTcwMCwzMDk1MD
+gyMDMsLTkxMTcxNDI1MSwtMTczNDc1Njc2NCwtMTAxODY1NjIy
+LC02ODYyMzE0OTksMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4OD
+g1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5
+NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ
+==
 -->
