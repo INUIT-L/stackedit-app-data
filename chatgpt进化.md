@@ -93,48 +93,101 @@ we search the non-redundant (nr) sequence database 是什么意思，和系统�
 # reply 4
 这个问题问得特别好，**“search the non-redundant (nr) sequence database”** 和系统发育分析是**强相关**的，是这一步分析的**第一步**。 这句话的意思是：  “我们去搜索非冗余序列数据库（nr数据库）来找目标蛋白的同源序列。”
 
-**non-redundant (nr) sequence database 数据库**是 **NCBI（美国国家生物信息中心）维护的一个蛋白质序列数据库**，叫做：
-
-> **NCBI Non-Redundant Protein Sequence Database**
-
-它的特点是：
-
--   包含了全世界所有公开的蛋白质序列（包括 UniProt、GenBank、RefSeq 等）
-    
--   **对重复序列做了去重处理**（比如两个实验室提交的同样蛋白，只保留一份）
-    
+**non-redundant (nr) sequence database 数据库**是 **NCBI（美国国家生物信息中心）维护的一个蛋白质序列数据库**
+-   包含了全世界所有公开的蛋白质序列（包括 UniProt、GenBank、RefSeq 等）   
+-   **对重复序列做了去重处理**（比如两个实验室提交的同样蛋白，只保留一份）    
 -   经常被用来做 **BLAST 搜索** 找同源蛋白
     
-
-----------
-
 ### 为什么要搜这个数据库？
-
 因为要进行 **phylogenetic analysis（系统发育分析）**，你首先得：
-
-1.  **收集很多“同类”蛋白的序列（同源蛋白）**
-    
-2.  对它们做多序列比对（MSA）
-    
+1.  **收集很多“同类”蛋白的序列（同源蛋白）**    
+2.  对它们做多序列比对（MSA）   
 3.  分析每个位点的保守性（生成 PSSM）
-    
+    而这些“同类蛋白”就要从这个 **nr 库**里用 BLAST 搜索出来。
 
-而这些“同类蛋白”就要从这个 **nr 库**里用 BLAST 搜索出来。
+
+# request 5
+we changed the energy function to one that accounts for the membrane environment(24) by using the dsTβL empirical scale of amino acid insertion into the plasma membrane 这是文章中的一句话，我英语不是特别好，一些词组的意思我能理解，比如using the dsTβL empirical scale，但我不能很好的理解整句话的意思。比如这个empirical scale后面紧跟了一个“of amino acid insertion into the plasma membrane”，连起来我有点不能理解它的意思
+
+太理解你啦！这句话确实结构有点复杂，但没关系，我们一点一点拆开来看，保你完全搞懂。你已经能理解 “using the dsTβL empirical scale” 很不错了，我们就在这个基础上继续往下解读。
 
 ----------
 
-### 总结一下逻辑顺序是这样的：
+原句：
 
-1.  拿你的目标蛋白序列
+> **"we changed the energy function to one that accounts for the membrane environment(24) by using the dsTβL empirical scale of amino acid insertion into the plasma membrane"**
+
+----------
+
+### **逐步拆解：**
+
+1.  **主干部分：**
     
-2.  去 **nr 库**里找它的亲戚（BLAST）
+    -   **we changed the energy function to one...**
+        
+    -   “我们把能量函数改成了一个新的版本……”
+        
+2.  **补充说明这个新的函数有什么特点：**
     
-3.  把这些亲戚序列做对齐（MSA）
+    -   **...that accounts for the membrane environment**
+        
+    -   “这个函数能考虑膜环境的影响”
+        
+    -   👉也就是它不仅考虑蛋白结构能量，还考虑蛋白在膜中时的状态。
+        
+3.  **这个函数是怎么做到的？**
     
-4.  看哪些位点是“保守”的，哪些可以改
+    -   **by using the dsTβL empirical scale**
+        
+    -   “是通过使用 dsTβL 的经验性刻度（经验值表）”
+        
+4.  **什么刻度？**
     
-5.  用这些信息指导后续的计算设计（比如什么突变更可能是“安全”的）
+    -   **empirical scale of amino acid insertion into the plasma membrane**
+        
+    -   这部分你觉得有点绕对吧？我们重点解释一下👇
+        
+
+----------
+
+### **empirical scale of amino acid insertion into the plasma membrane** 是什么意思？
+
+我们可以把它拆成两部分：
+
+-   **amino acid insertion into the plasma membrane**：  
+    指的是 **“氨基酸插入到质膜中的倾向性”**  
+    每种氨基酸插进细胞膜里的“难易程度”是不同的，比如：
+    
+    -   **疏水的 Leu 很容易插进去**
+        
+    -   **带电的 Asp 就很不容易进去**
+        
+-   **empirical scale（经验刻度）**：  
+    这是一张通过实验测得的**打分表**，告诉你：
+    
+    > 每个氨基酸**在膜中不同深度的位置**，插入去需要多少能量（有多“讨厌”这个环境）
+    
+
+所以整句话的这个结构：
+
+> **"the dsTβL empirical scale of amino acid insertion into the plasma membrane"**
+
+其实就是：
+
+> 一张叫 dsTβL 的“经验打分表”，记录了不同氨基酸在细胞膜不同深度插入时的“偏好/能量”。
+
+----------
+
+### **整句话总结翻译：**
+
+> “我们修改了能量函数，使它能够考虑膜环境的影响，  
+> 具体做法是引入了 dsTβL 的经验打分表，  
+> 这个打分表描述了不同氨基酸插入到质膜中时的能量倾向性。”
+
+----------
+
+是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY4MzIzMzMsMTU3NzMzMDAyLDEyMj
+eyJoaXN0b3J5IjpbLTE3MzQyODQ2MTEsMTU3NzMzMDAyLDEyMj
 g3MDIyNjddfQ==
 -->
