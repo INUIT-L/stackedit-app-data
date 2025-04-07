@@ -93,11 +93,7 @@ we search the non-redundant (nr) sequence database 是什么意思，和系统�
 # reply 4
 这个问题问得特别好，**“search the non-redundant (nr) sequence database”** 和系统发育分析是**强相关**的，是这一步分析的**第一步**。 这句话的意思是：  “我们去搜索非冗余序列数据库（nr数据库）来找目标蛋白的同源序列。”
 
-----------
-
-### 那什么是 non-redundant (nr) sequence database？
-
-**nr 数据库**是 **NCBI（美国国家生物信息中心）维护的一个蛋白质序列数据库**，叫做：
+**non-redundant (nr) sequence database 数据库**是 **NCBI（美国国家生物信息中心）维护的一个蛋白质序列数据库**，叫做：
 
 > **NCBI Non-Redundant Protein Sequence Database**
 
@@ -139,6 +135,6 @@ we search the non-redundant (nr) sequence database 是什么意思，和系统�
     
 5.  用这些信息指导后续的计算设计（比如什么突变更可能是“安全”的）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjU4ODY1MSwxNTc3MzMwMDIsMTIyOD
-cwMjI2N119
+eyJoaXN0b3J5IjpbLTEwNzY4MzIzMzMsMTU3NzMzMDAyLDEyMj
+g3MDIyNjddfQ==
 -->
