@@ -185,7 +185,8 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 只不过：前者更像是**从突变角度说的** 。“不要动保守位点” 是**从位点角度说的**
 但本质上是：我们要尊重自然选择留下来的“偏好”。
 
-
+如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。
+你想要更“算法逻辑”的解释，还是继续保持这种“概念理解”的节奏？
 # request 
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
 
@@ -241,8 +242,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg2NTYyMiwtNjg2MjMxNDk5LDE1Mz
-c2MDEyMzEsLTMyNjUxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1
-NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LD
-E1NzczMzAwMiwxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbLTEzMTc4OTYwNTksLTEwMTg2NTYyMiwtNj
+g2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxODg4NTQy
+ODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OS
+wtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
