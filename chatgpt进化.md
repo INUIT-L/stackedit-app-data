@@ -206,13 +206,42 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 # reply 8
 太好了！我们现在来从算法角度详细补充一下：  **mPROSS 中是如何量化一个突变在自然中是否“常见”或“稀有”的？**
 ## 关键工具：PSSM（Position-Specific Scoring Matrix）
-PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位点上20种氨基酸的出现频率或打分**。  
-每个位置都有一个这样的小表格，比如：
+PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位点上20种氨基酸的出现频率或打分**。  每个位置都有一个这样的小表格，比如：
 | 氨基酸 | A | R| N| D | ... | Y| 
 |--|--|--|--|--|--|--
 |频率 |90%| 2%| 1%| 1%|...| 1%|
 |PSSM|+6|-2|-4|-4|...|-5
+----
+## 🧠 那么，算法怎么判断“可以保留”哪些突变呢？
 
+### 步骤如下：
+ **①生成 PSSM 矩阵：**
+-   用 BLAST 找出与目标蛋白序列有 >35% identity 的所有同源序列   
+-   用 MSA 比对它们    
+-   统计每个位点上 20 个氨基酸的出现频率
+-   转换为 PSSM 分数（类似 log-odds 分数）
+ **②设定 PSSM threshold 阈值（看 Supplementary Table 1）：**
+
+> 只保留那些 PSSM 分数 **高于这个阈值** 的突变
+
+比如：
+
+-   如果 PSSM threshold = 3 → 只接受分数 ≥ 3 的突变（很保守）
+    
+-   如果 threshold = 0 → 只排除特别稀有的突变，接受范围变宽
+    
+
+表格中 index 越靠前（1–3），PSSM threshold 越高（= 越保守）  
+越靠后（16–18），PSSM threshold 趋近于 0（= 接受大胆突变）
+
+----------
+
+### ③ **计算 final 能量时用权重调整：**
+
+即使突变在 PSSM 中分数偏低，只要没有被 threshold 剔除，  
+它仍然可以参与组合设计，**但 Rosetta 在算 total energy 时会给它打个“进化罚分”**。
+
+这就是 PSSM weight 的作用：
 
 
 # request 
@@ -270,10 +299,10 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzU3NzcwMSw1MDIwMzU3MDAsMzA5NT
-A4MjAzLC05MTE3MTQyNTEsLTE3MzQ3NTY3NjQsLTEwMTg2NTYy
-MiwtNjg2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxOD
-g4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYx
-OTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX
-0=
+eyJoaXN0b3J5IjpbODQwNTYxMTE2LDUwMjAzNTcwMCwzMDk1MD
+gyMDMsLTkxMTcxNDI1MSwtMTczNDc1Njc2NCwtMTAxODY1NjIy
+LC02ODYyMzE0OTksMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4OD
+g1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5
+NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ
+==
 -->
