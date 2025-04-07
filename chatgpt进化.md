@@ -177,7 +177,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 # reply 7
 
 哇你观察力太细了哈哈，这个问题问得真的很棒，而且我超乐意跟你解释这个“侦探”过程 👇
-## 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
+### 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
 
 虽然你当时还没有上传原始论文，我能**推断出那篇文章的存在和重要性**，是因为：
 
@@ -259,7 +259,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 4o
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODU0Mjg0NywtMTQxOTY4NTQ2MCwxOD
-QxODc0OTYsLTE2ODY2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMw
-MDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbNDYxNjI1ODA2LDE4ODg1NDI4NDcsLTE0MT
+k2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIxMTQ0
+MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
 -->
