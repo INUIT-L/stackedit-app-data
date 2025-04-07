@@ -136,10 +136,59 @@ we changed the energy function to one that accounts for the membrane environment
 <br>
 
 # request 6
+Moreover, the results suggest that the premisses that underlie successful stability design in soluble proteins(33) may extend to MPs. 这句话里的premisses怎么理解
 
+# reply 6
+这个问题问得非常好！这句话看起来简单，其实关键就在你提到的这个词：**premisses**（注意拼写是“premisses”，是 premises 的英式旧拼写形式）。
 
+----------
+
+### 🧠 **Premisses 是什么意思？**
+
+**premisses** = **premises（美式拼写）**，在这里的意思是：
+
+> **“前提、基本假设”**（不是“建筑物场所”那个意思哈）
+
+----------
+
+### ✍️ 这句话逐步拆解翻译：
+
+> **"Moreover, the results suggest that the premisses that underlie successful stability design in soluble proteins(33) may extend to MPs."**
+
+拆成几部分来看：
+
+1.  **the results suggest that...**  
+    👉 “研究结果表明……”
+    
+2.  **the premisses that underlie successful stability design in soluble proteins...**  
+    👉 “那些支撑可溶性蛋白成功稳定性设计的基本前提”
+    
+    举个例子，比如：
+    
+    -   “一个蛋白如果 native state energy 更低，就更稳定、表达更好”
+        
+    -   这类假设就是 stability design 的“premisses”。
+        
+3.  **may extend to MPs**  
+    👉 “可能也适用于膜蛋白（MPs）”
+    
+
+----------
+
+### 🧾 总结翻译整句：
+
+> “此外，研究结果表明，支撑可溶性蛋白成功进行稳定性设计的一些基本前提，可能同样适用于膜蛋白。”
+
+换句话说：  
+他们原来在水溶性蛋白上发现的一些经验法则，现在看来，在膜蛋白上也可能同样有效。
+
+----------
+
+如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和 PROSS 的原始论文中都提到了。你需要吗？
+
+4o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDY4NjAxMCwxODQxODc0OTYsLTE2OD
+eyJoaXN0b3J5IjpbMTA5MjE4ODQzNiwxODQxODc0OTYsLTE2OD
 Y2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2
 N119
 -->
