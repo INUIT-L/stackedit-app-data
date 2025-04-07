@@ -185,8 +185,16 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 只不过：前者更像是**从突变角度说的** 。“不要动保守位点” 是**从位点角度说的**
 但本质上是：我们要尊重自然选择留下来的“偏好”。
 
+在 mPROSS 中，他们会通过**多序列比对（MSA）**统计每个位点的氨基酸频率。如果 **某个氨基酸在该位点出现频率特别高**（比如 95% 是 Ala），  他们就会认为这是一个保守位点，  
+然后：  
+🔒 **不允许突变成稀有的那几种**（V、L、G 等）
+
+----------
+
 如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。
+
 你想要更“算法逻辑”的解释，还是继续保持这种“概念理解”的节奏？
+
 # request 
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
 
@@ -242,8 +250,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc4OTYwNTksLTEwMTg2NTYyMiwtNj
-g2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxODg4NTQy
-ODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OS
-wtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbNTYyODI5ODI5LC0xMDE4NjU2MjIsLTY4Nj
+IzMTQ5OSwxNTM3NjAxMjMxLC0zMjY1MTk5OTUsMTg4ODU0Mjg0
+NywtMTQxOTY4NTQ2MCwxODQxODc0OTYsLTE2ODY2MTk2NDksLT
+c4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
 -->
