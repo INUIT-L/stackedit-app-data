@@ -5,7 +5,6 @@
 https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 # reply 1
 文章中这句话：
-
 > “Kv channels can be investigated at the single-molecule level, providing detailed information on functionality that complements bulk experiments.”
 中的 **“bulk experiments”** 是指**整体层面上的实验**，也叫做**群体实验**，即：
 -   研究的是大量蛋白质分子在一起的**平均行为**，
@@ -119,5 +118,6 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
+eyJoaXN0b3J5IjpbLTE4NjY4OTUyMDQsMTU3NzMzMDAyLDEyMj
+g3MDIyNjddfQ==
 -->
