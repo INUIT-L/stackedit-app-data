@@ -127,18 +127,13 @@ we changed the energy function to one that accounts for the membrane environment
     
 所以这句话就是：一张叫 dsTβL 的“经验打分表”，记录了不同氨基酸在细胞膜不同深度插入时的“偏好/能量”。
 
-----------
-
 ### **整句话总结翻译：**
-
 > “我们修改了能量函数，使它能够考虑膜环境的影响，  
 > 具体做法是引入了 dsTβL 的经验打分表，  
 > 这个打分表描述了不同氨基酸插入到质膜中时的能量倾向性。”
 
-----------
 
-是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIwODM4MjMsLTE2ODY2MTk2NDksLT
-c4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbMTcwMTY2NTU3NiwtMTY4NjYxOTY0OSwtNz
+gyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
