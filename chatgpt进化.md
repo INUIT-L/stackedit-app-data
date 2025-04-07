@@ -187,9 +187,13 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 
 在 mPROSS 中，他们会通过**多序列比对（MSA）**统计每个位点的氨基酸频率。如果 **某个氨基酸在该位点出现频率特别高**（比如 95% 是 Ala），  他们就会认为这是一个保守位点，  
 然后：  
+| A | V | L| 
+|--|--|
+|  |  |
+
 🔒 **不允许突变成稀有的那几种**（V、L、G 等）
 
-----------
+----
 
 如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。
 
@@ -250,8 +254,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyODI5ODI5LC0xMDE4NjU2MjIsLTY4Nj
-IzMTQ5OSwxNTM3NjAxMjMxLC0zMjY1MTk5OTUsMTg4ODU0Mjg0
-NywtMTQxOTY4NTQ2MCwxODQxODc0OTYsLTE2ODY2MTk2NDksLT
-c4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbMTQyNDI2NjQyMCwtMTAxODY1NjIyLC02OD
+YyMzE0OTksMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4ODg1NDI4
+NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC
+03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
 -->
