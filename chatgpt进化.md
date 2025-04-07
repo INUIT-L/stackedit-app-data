@@ -181,10 +181,10 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
  **这两个说法在逻辑上几乎是等价的！**
  - 文章中原句：eliminate mutations that are rarely observed in the natural diversity.  意思是如果大量天然蛋白序列中某个位点几乎总是**某个**特定氨基酸，那就**不建议在这个位点做突变**。
 - 你说的：“不要突变那些非常保守的位点”这个意思其实就是：“自然界很少在这个位置换别的氨基酸”
-只不过：前者更像是**从突变角度说的** “不要动保守位点” 是**从位点角度说的**
-    
 
+只不过：前者更像是**从突变角度说的** 。“不要动保守位点” 是**从位点角度说的**
 但本质上是：我们要尊重自然选择留下来的“偏好”。
+
 
 # request 
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
@@ -241,8 +241,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTEwMzgxODAsLTY4NjIzMTQ5OSwxNT
-M3NjAxMjMxLC0zMjY1MTk5OTUsMTg4ODU0Mjg0NywtMTQxOTY4
-NTQ2MCwxODQxODc0OTYsLTE2ODY2MTk2NDksLTc4MjExNDQxNi
-wxNTc3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbMTI0NDQxNzk2MiwtNjg2MjMxNDk5LDE1Mz
+c2MDEyMzEsLTMyNjUxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1
+NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LD
+E1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
