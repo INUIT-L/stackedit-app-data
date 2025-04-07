@@ -170,11 +170,96 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 
 # request 7
-> `如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”
+> “如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”
+
+可以，帮我列几个premisses的具体例子。不过，你昨天说这句话的时候，我还没有上传“PROSS的原始论文”，也就是2016年molecular cell的文章(Automated Structure- and Sequence-Based Design of Proteins for High Bacterial Expression and Stability，Goldenzweig et al.)，你是怎么知道有这篇文章的？
+
+# reply 7
+
+哇你观察力太细了哈哈，这个问题问得真的很棒，而且我超乐意跟你解释这个“侦探”过程 👇
+## 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
+
+虽然你当时还没有上传原始论文，我能**推断出那篇文章的存在和重要性**，是因为：
+
+### ✅ 你前一天提到的是一篇讲 **mPROSS 算法、Kv 通道实验验证** 的论文
+
+也就是你上传的这篇：
+
+> _“One-shot design elevates functional expression levels of a voltage-gated potassium channel”_
+
+### ✅ 这篇文章中多次提到了 mPROSS 是基于 PROSS 改进的
+
+（比如 introduction 和 methods 都提到了原始 PROSS）
+
+### ✅ 而我知道 PROSS 是 Weizmann Institute 出的一种蛋白稳定性设计算法
+
+> 它的原始论文就是那篇非常有名的：
 > 
-可以，帮我列几个premisses的具体例子 你昨天说这句话的时候，我还没有上传“PROSS的原始论文”，也就是2016年molecular cell的文章(Automated Structure- and Sequence-Based Design of Proteins for High Bacterial Expression and Stability，Goldenzweig et al.)，你是怎么知道有这篇文章的？
+> **Goldenzweig et al., 2016, _Molecular Cell_**  
+> 全名就是你后面上传的那篇： **“Automated Structure- and Sequence-Based Design of Proteins for High Bacterial Expression and Stability”**
+
+所以即使你当时还没上传，我就能从上下文里自然地知道你说的“PROSS”是指哪一篇文章。
+
+----------
+
+## 🧠 现在我们来回答你第一个问题：
+
+### **PROSS 方法背后的“premisses（基本假设）”有哪些？**
+
+以下是几个明确提出或隐含的核心前提（premisses）👇：
+
+----------
+
+### **1️⃣ 自然选择淘汰了有害突变**
+
+> 👉 所以在自然界中常出现的氨基酸组合，更可能是功能上允许、结构上安全的。
+
+这是用 PSSM 做突变筛选的根本依据。
+
+----------
+
+### **2️⃣ 稳定性来自 native state 的能量更低**
+
+> 👉 一个突变如果能让 native 状态的能量降低，通常就能提高表达、热稳定性等。
+
+这就是为什么 Rosetta 的能量变化（∆∆G）是另一个筛选标准。
+
+----------
+
+### **3️⃣ 单点突变对稳定性的贡献大多是可加的**
+
+> 👉 所以 PROSS 用 **单点突变扫描**，然后在这些突变中**做组合设计**，  
+> 避免了非线性耦合效应（context-dependent effects）带来的不确定性。
+
+----------
+
+### **4️⃣ 结构不变，功能就不会被破坏**
+
+> 👉 所以在 Rosetta 设计过程中，只允许 sidechain 变化， backbone 不动；  
+> 活性位点的残基（或邻近）完全不许突变。
+
+这是为了确保保留功能，只改变稳定性。
+
+----------
+
+### **5️⃣ 结构模型是可靠的设计起点**
+
+> PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）足够准确，能支持原子级别打分。
+
+----------
+
+### （Bonus）**多数蛋白天然状态仅是“边缘稳定”**
+
+> 所以有相当大的优化空间，特别是在实验表达环境中（比如细菌、膜环境）。
+
+----------
+
+如果你愿意，我可以把这些 **premisses + 对应设计步骤** 整理成一个表格或者图表形式，方便你复习或展示给别人～要不要？
+
+4o
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODYzOTMxOSwtMTQxOTY4NTQ2MCwxOD
-QxODc0OTYsLTE2ODY2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMw
-MDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbLTIwMTg0NTI4MTcsLTE0MTk2ODU0NjAsMT
+g0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMz
+MDAyLDEyMjg3MDIyNjddfQ==
 -->
