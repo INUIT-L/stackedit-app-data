@@ -141,15 +141,11 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 # reply 6
 这个问题问得非常好！这句话看起来简单，其实关键就在你提到的这个词：**premisses**（注意拼写是“premisses”，是 premises 的英式旧拼写形式）。
 
-----------
+###  **Premisses 是什么意思？**
 
-### 🧠 **Premisses 是什么意思？**
+**premisses** = **premises（美式拼写）**，在这里的意思是：**“前提、基本假设”**（不是“建筑物场所”那个意思哈）
 
-**premisses** = **premises（美式拼写）**，在这里的意思是：
 
-> **“前提、基本假设”**（不是“建筑物场所”那个意思哈）
-
-----------
 
 ### ✍️ 这句话逐步拆解翻译：
 
@@ -188,7 +184,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 4o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjE4ODQzNiwxODQxODc0OTYsLTE2OD
-Y2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2
-N119
+eyJoaXN0b3J5IjpbLTE5MzEzMTAzOTIsMTg0MTg3NDk2LC0xNj
+g2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIy
+NjddfQ==
 -->
