@@ -79,8 +79,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 4.  **在设计时限制突变范围：**   
     -   如果某个突变在自然界中从来没出现过，那它很可能是有害的。        
     -   所以算法会**优先保留“自然界里常见的”氨基酸组合**，这会显著提高突变设计成功的概率。
-        
-
+       
 ----------
 
 ### **通俗理解：**
@@ -89,14 +88,12 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 
 > **“参考自然界进化出来的成功案例，来指导我们做出更靠谱的蛋白设计。”**
 
-就像你要设计一辆新车，也会去看看别的车型是怎么设计的，有哪些零件是必不可少的，哪些地方可以自由创新。
+# request4
+we search the non-redundant (nr) sequence database 是什么意思，和系统发育分析有关系吗
 
-----------
-
-如果你对 PSSM 怎么在算法里使用、或者这个方法怎么跟 Rosetta 结合感兴趣，我也可以继续展开。你需要更“生化一点”解释，还是更“程序逻辑”角度？
-
+# request4
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM4NjUxMjQsMTU3NzMzMDAyLDEyMj
+eyJoaXN0b3J5IjpbLTE4Njk5ODA2ODcsMTU3NzMzMDAyLDEyMj
 g3MDIyNjddfQ==
 -->
