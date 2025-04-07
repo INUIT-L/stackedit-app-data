@@ -153,20 +153,13 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 拆成几部分来看：
 
-1.  **the results suggest that...**  
-    👉 “研究结果表明……”
-    
+1.  **the results suggest that...**   “研究结果表明……”
 2.  **the premisses that underlie successful stability design in soluble proteins...**  
     👉 “那些支撑可溶性蛋白成功稳定性设计的基本前提”
-    
     举个例子，比如：
-    
-    -   “一个蛋白如果 native state energy 更低，就更稳定、表达更好”
-        
+    -   “一个蛋白如果 native state energy 更低，就更稳定、表达更好”      
     -   这类假设就是 stability design 的“premisses”。
-        
-3.  **may extend to MPs**  
-    👉 “可能也适用于膜蛋白（MPs）”
+3.  **may extend to MPs**   “可能也适用于膜蛋白（MPs）”
     
 
 ----------
@@ -176,15 +169,12 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 > “此外，研究结果表明，支撑可溶性蛋白成功进行稳定性设计的一些基本前提，可能同样适用于膜蛋白。”
 
 换句话说：  
-他们原来在水溶性蛋白上发现的一些经验法则，现在看来，在膜蛋白上也可能同样有效。
-
-----------
+他们原来在水溶性蛋白上发现的一些**经验法则**，现在看来，在膜蛋白上也可能同样有效。
 
 如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和**PROSS 的原始论文**中都提到了。你需要吗？
 
-4o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzM0MzMwNCwxODQxODc0OTYsLTE2OD
+eyJoaXN0b3J5IjpbMTQ4NTMyMTUzNSwxODQxODc0OTYsLTE2OD
 Y2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2
 N119
 -->
