@@ -177,8 +177,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 # reply 7
 
 哇你观察力太细了哈哈，这个问题问得真的很棒，而且我超乐意跟你解释这个“侦探”过程 👇
-### 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
-
+## 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
 虽然你当时还没有上传原始论文，我能**推断出那篇文章的存在和重要性**，是因为：你前一天提到的是一篇讲 **mPROSS 算法、Kv 通道实验验证** 的论文
  也就是你上传的这篇：
 > _“One-shot design elevates functional expression levels of a voltage-gated potassium channel”_
@@ -192,15 +191,11 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 所以即使你当时还没上传，我就能从上下文里自然地知道你说的“PROSS”是指哪一篇文章。
 
-----------
-
 ##  现在我们来回答你第一个问题：
 
 ### **PROSS 方法背后的“premisses（基本假设）”有哪些？**
 
 以下是几个明确提出或隐含的核心前提（premisses）👇：
-
-----------
 
 ### **1️⃣ 自然选择淘汰了有害突变**
 
@@ -248,10 +243,10 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 如果你愿意，我可以把这些 **premisses + 对应设计步骤** 整理成一个表格或者图表形式，方便你复习或展示给别人～要不要？
 
-4o
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTE3MjYyMiwxODg4NTQyODQ3LC0xND
-E5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0
-NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbLTIxMzUwNTMwMTQsMTg4ODU0Mjg0NywtMT
+QxOTY4NTQ2MCwxODQxODc0OTYsLTE2ODY2MTk2NDksLTc4MjEx
+NDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
 -->
