@@ -203,6 +203,7 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 > _“如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。”_
 
 请你补充
+
 # reply 8
 太好了！我们现在来从算法角度详细补充一下：  **mPROSS 中是如何量化一个突变在自然中是否“常见”或“稀有”的？**
 ## 关键工具：PSSM（Position-Specific Scoring Matrix）
@@ -212,7 +213,7 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 |频率 |90%| 2%| 1%| 1%|...| 1%|
 |PSSM|+6|-2|-4|-4|...|-5
 ----
-## 🧠 那么，算法怎么判断“可以保留”哪些突变呢？
+##  那么，算法怎么判断“可以保留”哪些突变呢？
 ### 步骤如下：
  **①生成 PSSM 矩阵：**
 -   用 BLAST 找出与目标蛋白序列有 >35% identity 的所有同源序列，用 MSA 比对它们    
@@ -231,6 +232,11 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 这就是 PSSM weight 的作用：
 `Total Score = Rosetta物理能量 + PSSM_weight × (负的PSSM分数)`
 也就是说：如果 weight 很高（比如 0.5），那这个“进化罚分”会很显著； 如果 weight 很低（比如 0.2），就更偏重 Rosetta 物理打分。
+
+
+
+
+
 
 
 # request 
@@ -288,7 +294,7 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODU0ODY4NiwtOTQ0Njg5MzY2LDUwMj
+eyJoaXN0b3J5IjpbLTY4MTQ2MzAwMCwtOTQ0Njg5MzY2LDUwMj
 AzNTcwMCwzMDk1MDgyMDMsLTkxMTcxNDI1MSwtMTczNDc1Njc2
 NCwtMTAxODY1NjIyLC02ODYyMzE0OTksMTUzNzYwMTIzMSwtMz
 I2NTE5OTk1LDE4ODg1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3
