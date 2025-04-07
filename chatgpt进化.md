@@ -179,20 +179,12 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 哇你观察力太细了哈哈，这个问题问得真的很棒，而且我超乐意跟你解释这个“侦探”过程 👇
 ### 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
 
-虽然你当时还没有上传原始论文，我能**推断出那篇文章的存在和重要性**，是因为：
-
-### ✅ 你前一天提到的是一篇讲 **mPROSS 算法、Kv 通道实验验证** 的论文
-
-也就是你上传的这篇：
-
+虽然你当时还没有上传原始论文，我能**推断出那篇文章的存在和重要性**，是因为：你前一天提到的是一篇讲 **mPROSS 算法、Kv 通道实验验证** 的论文
+ 也就是你上传的这篇：
 > _“One-shot design elevates functional expression levels of a voltage-gated potassium channel”_
 
-### ✅ 这篇文章中多次提到了 mPROSS 是基于 PROSS 改进的
-
-（比如 introduction 和 methods 都提到了原始 PROSS）
-
-### ✅ 而我知道 PROSS 是 Weizmann Institute 出的一种蛋白稳定性设计算法
-
+✅ 这篇文章中多次提到了 mPROSS 是基于 PROSS 改进的（比如 introduction 和 methods 都提到了原始 PROSS）
+✅ 而我知道 PROSS 是 Weizmann Institute 出的一种蛋白稳定性设计算法
 > 它的原始论文就是那篇非常有名的：
 > 
 > **Goldenzweig et al., 2016, _Molecular Cell_**  
@@ -202,7 +194,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 ----------
 
-## 🧠 现在我们来回答你第一个问题：
+##  现在我们来回答你第一个问题：
 
 ### **PROSS 方法背后的“premisses（基本假设）”有哪些？**
 
@@ -259,7 +251,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 4o
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNjI1ODA2LDE4ODg1NDI4NDcsLTE0MT
-k2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIxMTQ0
-MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
+eyJoaXN0b3J5IjpbMTUzMTE3MjYyMiwxODg4NTQyODQ3LC0xND
+E5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0
+NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
