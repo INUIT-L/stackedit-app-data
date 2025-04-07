@@ -57,6 +57,9 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 -   Kv通道的结构（比如S1-S6螺旋结构、pore domain、voltage sensor）；
 -   或者它在生理中的作用（比如心脏、神经、胰岛素释放等）； 我也可以继续讲下去！你感兴趣哪个方向？
 
+<br>
+<br>
+
 # request 3
 什么是文章中提到的 phylogenetic analysis
 # reply3
@@ -84,6 +87,9 @@ phylogenetic analysis（系统发育分析）？简单说： 就是从自然界�
 你可以把 phylogenetic analysis 看成是：
 
 > **“参考自然界进化出来的成功案例，来指导我们做出更靠谱的蛋白设计。”**
+
+<br>
+<br>
 
 # request4
 we search the non-redundant (nr) sequence database 是什么意思，和系统发育分析有关系吗
@@ -138,6 +144,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODYyMDE1MSwtMTY4NjYxOTY0OSwtNz
-gyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbLTE0Mzk4OTE1NzUsLTE2ODY2MTk2NDksLT
+c4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
 -->
