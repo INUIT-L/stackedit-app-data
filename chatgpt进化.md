@@ -202,8 +202,9 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 # request 8
 > _“如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。”_
 
+请你补充
 # reply 8
-
+太好了！我们现在来从算法角度详细补充一下：  **mPROSS 中是如何量化一个突变在自然中是否“常见”或“稀有”的？**
 
 
 # request 
@@ -261,9 +262,9 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NTA4MjAzLC05MTE3MTQyNTEsLTE3Mz
-Q3NTY3NjQsLTEwMTg2NTYyMiwtNjg2MjMxNDk5LDE1Mzc2MDEy
-MzEsLTMyNjUxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1NDYwLD
-E4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LDE1Nzcz
-MzAwMiwxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbLTk1OTk2NTA3NSwzMDk1MDgyMDMsLTkxMT
+cxNDI1MSwtMTczNDc1Njc2NCwtMTAxODY1NjIyLC02ODYyMzE0
+OTksMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4ODg1NDI4NDcsLT
+E0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIx
+MTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
 -->
