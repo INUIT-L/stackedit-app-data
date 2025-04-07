@@ -213,7 +213,6 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 |PSSM|+6|-2|-4|-4|...|-5
 ----
 ## 🧠 那么，算法怎么判断“可以保留”哪些突变呢？
-
 ### 步骤如下：
  **①生成 PSSM 矩阵：**
 -   用 BLAST 找出与目标蛋白序列有 >35% identity 的所有同源序列，用 MSA 比对它们    
@@ -231,6 +230,8 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 它仍然可以参与组合设计，**但 Rosetta 在算 total energy 时会给它打个“进化罚分”**。
 这就是 PSSM weight 的作用：
 `Total Score = Rosetta物理能量 + PSSM_weight × (负的PSSM分数)`
+也就是说：如果 weight 很高（比如 0.5），那这个“进化罚分”会很显著； 如果 weight 很低（比如 0.2），就更偏重 Rosetta 物理打分。
+
 
 # request 
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
@@ -287,10 +288,10 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2OTY5NTUxLC05NDQ2ODkzNjYsNTAyMD
-M1NzAwLDMwOTUwODIwMywtOTExNzE0MjUxLC0xNzM0NzU2NzY0
-LC0xMDE4NjU2MjIsLTY4NjIzMTQ5OSwxNTM3NjAxMjMxLC0zMj
-Y1MTk5OTUsMTg4ODU0Mjg0NywtMTQxOTY4NTQ2MCwxODQxODc0
-OTYsLTE2ODY2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMT
-IyODcwMjI2N119
+eyJoaXN0b3J5IjpbLTc5ODU0ODY4NiwtOTQ0Njg5MzY2LDUwMj
+AzNTcwMCwzMDk1MDgyMDMsLTkxMTcxNDI1MSwtMTczNDc1Njc2
+NCwtMTAxODY1NjIyLC02ODYyMzE0OTksMTUzNzYwMTIzMSwtMz
+I2NTE5OTk1LDE4ODg1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3
+NDk2LC0xNjg2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLD
+EyMjg3MDIyNjddfQ==
 -->
