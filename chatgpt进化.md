@@ -108,6 +108,8 @@ we search the non-redundant (nr) sequence database 是什么意思，和系统�
 3.  分析每个位点的保守性（生成 PSSM）
     而这些“同类蛋白”就要从这个 **nr 库**里用 BLAST 搜索出来。
 
+<br>
+<br>
 
 # request 5
 we changed the energy function to one that accounts for the membrane environment(24) by using the dsTβL empirical scale of amino acid insertion into the plasma membrane 这是文章中的一句话，我英语不是特别好，一些词组的意思我能理解，比如using the dsTβL empirical scale，但我不能很好的理解整句话的意思。比如这个empirical scale后面紧跟了一个“of amino acid insertion into the plasma membrane”，连起来我有点不能理解它的意思
@@ -144,6 +146,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk4OTE1NzUsLTE2ODY2MTk2NDksLT
-c4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbMTQ2NjAwMzk2OSwtMTY4NjYxOTY0OSwtNz
+gyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
