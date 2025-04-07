@@ -109,46 +109,8 @@ we search the non-redundant (nr) sequence database 是什么意思，和系统�
 # request 5
 we changed the energy function to one that accounts for the membrane environment(24) by using the dsTβL empirical scale of amino acid insertion into the plasma membrane 这是文章中的一句话，我英语不是特别好，一些词组的意思我能理解，比如using the dsTβL empirical scale，但我不能很好的理解整句话的意思。比如这个empirical scale后面紧跟了一个“of amino acid insertion into the plasma membrane”，连起来我有点不能理解它的意思
 
-太理解你啦！这句话确实结构有点复杂，但没关系，我们一点一点拆开来看，保你完全搞懂。你已经能理解 “using the dsTβL empirical scale” 很不错了，我们就在这个基础上继续往下解读。
-
-----------
-
-原句：
-
-> **"we changed the energy function to one that accounts for the membrane environment(24) by using the dsTβL empirical scale of amino acid insertion into the plasma membrane"**
-
-----------
-
-### **逐步拆解：**
-
-1.  **主干部分：**
-    
-    -   **we changed the energy function to one...**
-        
-    -   “我们把能量函数改成了一个新的版本……”
-        
-2.  **补充说明这个新的函数有什么特点：**
-    
-    -   **...that accounts for the membrane environment**
-        
-    -   “这个函数能考虑膜环境的影响”
-        
-    -   👉也就是它不仅考虑蛋白结构能量，还考虑蛋白在膜中时的状态。
-        
-3.  **这个函数是怎么做到的？**
-    
-    -   **by using the dsTβL empirical scale**
-        
-    -   “是通过使用 dsTβL 的经验性刻度（经验值表）”
-        
-4.  **什么刻度？**
-    
-    -   **empirical scale of amino acid insertion into the plasma membrane**
-        
-    -   这部分你觉得有点绕对吧？我们重点解释一下👇
-        
-
-----------
+# reply 5
+太理解你啦！这句话确实结构有点复杂，但没关系，我们一点一点拆开来看，保你完全搞懂。你已经能理解 “using the dsTβL empirical scale” 很不错了，我们就在这个基础上继续往下解读。（省略拆解解读的部分）
 
 ### **empirical scale of amino acid insertion into the plasma membrane** 是什么意思？
 
@@ -188,6 +150,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQyODQ2MTEsMTU3NzMzMDAyLDEyMj
+eyJoaXN0b3J5IjpbLTEzNzQwODkwMDMsMTU3NzMzMDAyLDEyMj
 g3MDIyNjddfQ==
 -->
