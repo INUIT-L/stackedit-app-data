@@ -219,12 +219,14 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 -   用 BLAST 找出与目标蛋白序列有 >35% identity 的所有同源序列，用 MSA 比对它们    
 -   统计每个位点上 20 个氨基酸的出现频率
 -   转换为 PSSM 分数（类似 log-odds 分数）
-**②设定 PSSM threshold 阈值（看 Supplementary Table 1）：**只保留那些 PSSM 分数 **高于这个阈值** 的突变，比如：
+
+**②设定 PSSM threshold 阈值（看 Supplementary Table 1）：只保留那些 PSSM 分数高于这个阈值的突变，比如** 
 -   如果 PSSM threshold = 3 → 只接受分数 ≥ 3 的突变（很保守）   
 -   如果 threshold = 0 → 只排除特别稀有的突变，接受范围变宽
 表格中 index 越靠前（1–3），PSSM threshold 越高（= 越保守）  
 越靠后（16–18），PSSM threshold 趋近于 0（= 接受大胆突变）
- ** ③计算 final 能量时用权重调整：**
+ 
+**③计算 final 能量时用权重调整**
 
 即使突变在 PSSM 中分数偏低，只要没有被 threshold 剔除，  
 它仍然可以参与组合设计，**但 Rosetta 在算 total energy 时会给它打个“进化罚分”**。
@@ -287,7 +289,7 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzI1MTAyMiw1MDIwMzU3MDAsMzA5NT
+eyJoaXN0b3J5IjpbLTk0NDY4OTM2Niw1MDIwMzU3MDAsMzA5NT
 A4MjAzLC05MTE3MTQyNTEsLTE3MzQ3NTY3NjQsLTEwMTg2NTYy
 MiwtNjg2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxOD
 g4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYx
