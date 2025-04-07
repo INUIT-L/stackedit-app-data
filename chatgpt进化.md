@@ -91,8 +91,54 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 # request4
 we search the non-redundant (nr) sequence database 是什么意思，和系统发育分析有关系吗
 # reply 4
+这个问题问得特别好，**“search the non-redundant (nr) sequence database”** 和系统发育分析是**强相关**的，是这一步分析的**第一步**。 这句话的意思是：  “我们去搜索非冗余序列数据库（nr数据库）来找目标蛋白的同源序列。”
 
+----------
+
+### 那什么是 non-redundant (nr) sequence database？
+
+**nr 数据库**是 **NCBI（美国国家生物信息中心）维护的一个蛋白质序列数据库**，叫做：
+
+> **NCBI Non-Redundant Protein Sequence Database**
+
+它的特点是：
+
+-   包含了全世界所有公开的蛋白质序列（包括 UniProt、GenBank、RefSeq 等）
+    
+-   **对重复序列做了去重处理**（比如两个实验室提交的同样蛋白，只保留一份）
+    
+-   经常被用来做 **BLAST 搜索** 找同源蛋白
+    
+
+----------
+
+### 为什么要搜这个数据库？
+
+因为要进行 **phylogenetic analysis（系统发育分析）**，你首先得：
+
+1.  **收集很多“同类”蛋白的序列（同源蛋白）**
+    
+2.  对它们做多序列比对（MSA）
+    
+3.  分析每个位点的保守性（生成 PSSM）
+    
+
+而这些“同类蛋白”就要从这个 **nr 库**里用 BLAST 搜索出来。
+
+----------
+
+### 总结一下逻辑顺序是这样的：
+
+1.  拿你的目标蛋白序列
+    
+2.  去 **nr 库**里找它的亲戚（BLAST）
+    
+3.  把这些亲戚序列做对齐（MSA）
+    
+4.  看哪些位点是“保守”的，哪些可以改
+    
+5.  用这些信息指导后续的计算设计（比如什么突变更可能是“安全”的）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDg3OTI0MiwxNTc3MzMwMDIsMTIyOD
+eyJoaXN0b3J5IjpbMTgzMjU4ODY1MSwxNTc3MzMwMDIsMTIyOD
 cwMjI2N119
 -->
