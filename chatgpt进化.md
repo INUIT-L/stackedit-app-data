@@ -2,7 +2,7 @@
 
 # request 1
 文章中 "providing detailed information on functionality that complements bulk experiments."  什么是 bulk experiments ?
-
+https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 # reply 1
 文章中这句话：
 
@@ -26,5 +26,5 @@
 # request 2
 这篇文章好像是拿 Kv channel 来测试他们的算法，我对于钾离子通道了解比较少，请你给我补充一些背景知识，比如 Kv 代表什么的缩写，1.2 和 2.1 是什么
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbODM3Njc4MTIzLDEyMjg3MDIyNjddfQ==
 -->
