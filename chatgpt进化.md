@@ -199,11 +199,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 ### **1️⃣ 自然选择淘汰了有害突变**
 
-> 👉 所以在自然界中常出现的氨基酸组合，更可能是功能上允许、结构上安全的。
-
-这是用 PSSM 做突变筛选的根本依据。
-
-----------
+所以在自然界中常出现的氨基酸组合，更可能是功能上允许、结构上安全的。这是用 PSSM 做突变筛选的根本依据。
 
 ### **2️⃣ 稳定性来自 native state 的能量更低**
 
@@ -246,7 +242,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUwNTMwMTQsMTg4ODU0Mjg0NywtMT
-QxOTY4NTQ2MCwxODQxODc0OTYsLTE2ODY2MTk2NDksLTc4MjEx
-NDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbLTYzMTkyODgwLDE4ODg1NDI4NDcsLTE0MT
+k2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIxMTQ0
+MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
 -->
