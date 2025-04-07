@@ -22,6 +22,9 @@
 这句话意思是说：  
 **Kv通道可以被单分子水平研究，提供更细致的功能性信息，从而补充 bulk 实验得到的平均结果。**
 如果你想要我帮你总结这段话的意思或者翻译整句，也可以告诉我。
+
+# request 2
+这篇文章好像是拿 Kv channel 来测试他们的算法，我对于钾离子通道了解比较少，请你给我补充一些背景知识，比如 Kv 代表什么的缩写，1.2 和 2.1 是什么
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4MjY1MjVdfQ==
+eyJoaXN0b3J5IjpbMTIyODcwMjI2N119
 -->
