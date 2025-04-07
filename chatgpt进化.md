@@ -214,20 +214,17 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 ### **5️⃣ 结构模型是可靠的设计起点**
 PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）足够准确，能支持原子级别打分。
 
-----------
+###  _Bonus_ **多数蛋白天然状态仅是“边缘稳定”**
+所以有相当大的优化空间，特别是在实验表达环境中（比如细菌、膜环境）。
 
-### （Bonus）**多数蛋白天然状态仅是“边缘稳定”**
 
-> 所以有相当大的优化空间，特别是在实验表达环境中（比如细菌、膜环境）。
-
-----------
 
 如果你愿意，我可以把这些 **premisses + 对应设计步骤** 整理成一个表格或者图表形式，方便你复习或展示给别人～要不要？
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA3NTM2ODQsMTg4ODU0Mjg0NywtMT
-QxOTY4NTQ2MCwxODQxODc0OTYsLTE2ODY2MTk2NDksLTc4MjEx
-NDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2N119
+eyJoaXN0b3J5IjpbMTA4NTQyOTI1LDE4ODg1NDI4NDcsLTE0MT
+k2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIxMTQ0
+MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
 -->
