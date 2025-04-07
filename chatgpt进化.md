@@ -29,7 +29,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 你说得对，这篇文章的确是拿一个钾离子通道（Kv channel）作为模型系统，用来验证他们设计算法 mPROSS 的效果。他们想看看能不能通过计算方法提高膜蛋白的功能性表达，而 Kv 通道是一个非常经典、同时又比较难表达的膜蛋白，非常适合作为测试对象。
 我来帮你补充一下关于 Kv 通道的背景知识：
 
-----------
+---
 ### **Kv channel 是什么？**
 **Kv** 是 **Voltage-gated potassium channel（电压门控钾通道）** 的缩写。
 -   这是一类**响应膜电位变化而开启或关闭的钾离子通道**，广泛存在于各种细胞，特别是**神经细胞和肌肉细胞**中。
@@ -41,8 +41,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 -   **Kv1.2 和 Kv2.1** 都是从哺乳动物（通常是人或鼠）中克隆出来的不同通道蛋白质，它们属于同一个超家族，但在细节结构上有所不同。
 -   这两个通道亚型的蛋白亚基可以进行某种程度的重组，研究人员常常会将不同亚型的片段组合起来形成**嵌合体（chimera）**，以研究通道结构与功能的关系，或改善表达和稳定性。
     
-----------
-
+---
 ### **那“paddle chimera”又是啥？**
 
 -   这篇文章里用的是一个叫做 **Kv1.2–Kv2.1 paddle chimera** 的通道。
@@ -51,8 +50,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 
 不过这个嵌合体在表达的时候表现得不好（电流小），所以他们就用它来测试 mPROSS 看能不能改善表达量。
 
-----------
-
+---
 如果你还想了解：
 -   Kv通道的结构（比如S1-S6螺旋结构、pore domain、voltage sensor）；
 -   或者它在生理中的作用（比如心脏、神经、胰岛素释放等）； 我也可以继续讲下去！你感兴趣哪个方向？
@@ -142,6 +140,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzcwNjU4NDgsLTc4MjExNDQxNiwxNT
+eyJoaXN0b3J5IjpbLTE2ODY2MTk2NDksLTc4MjExNDQxNiwxNT
 c3MzMwMDIsMTIyODcwMjI2N119
 -->
