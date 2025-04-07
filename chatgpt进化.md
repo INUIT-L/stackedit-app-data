@@ -163,6 +163,10 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 > “此外，研究结果表明，支撑可溶性蛋白成功进行稳定性设计的一些基本前提，可能同样适用于膜蛋白。”
 
+
+----------
+
+
 换句话说：  
 他们原来在水溶性蛋白上发现的一些**经验法则**，现在看来，在膜蛋白上也可能同样有效。
 
@@ -196,7 +200,11 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。你想要更“算法逻辑”的解释，还是继续保持这种“概念理解”的节奏？
 
 # request 8
-> 如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。
+> _“如果你对 **怎么决定“稀有”或“常见”** 是怎么量化的（比如用 PSSM 值、阈值设定），我也可以补充算法细节。”_
+
+# reply 8
+
+
 
 # request 
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
@@ -253,9 +261,9 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTcxNDI1MSwtMTczNDc1Njc2NCwtMT
-AxODY1NjIyLC02ODYyMzE0OTksMTUzNzYwMTIzMSwtMzI2NTE5
-OTk1LDE4ODg1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC
-0xNjg2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3
-MDIyNjddfQ==
+eyJoaXN0b3J5IjpbMzA5NTA4MjAzLC05MTE3MTQyNTEsLTE3Mz
+Q3NTY3NjQsLTEwMTg2NTYyMiwtNjg2MjMxNDk5LDE1Mzc2MDEy
+MzEsLTMyNjUxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1NDYwLD
+E4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LDE1Nzcz
+MzAwMiwxMjI4NzAyMjY3XX0=
 -->
