@@ -112,15 +112,13 @@ we changed the energy function to one that accounts for the membrane environment
 # reply 5
 太理解你啦！这句话确实结构有点复杂，但没关系，我们一点一点拆开来看，保你完全搞懂。你已经能理解 “using the dsTβL empirical scale” 很不错了，我们就在这个基础上继续往下解读。（此处省略gpt拆解解读的部分）
 
-### **empirical scale of amino acid insertion into the plasma membrane** 是什么意思？
-  **amino acid insertion into the plasma membrane**：  指的是 **“氨基酸插入到质膜中的倾向性”**  
-    每种氨基酸插进细胞膜里的“难易程度”是不同的，比如：    
+### **empirical scale of amino acid insertion into the plasma membrane：** 
+  **amino acid insertion into the plasma membrane**：  指的是 **“氨基酸插入到质膜中的倾向性”**  ，每种氨基酸插进细胞膜里的“难易程度”是不同的，比如：    
     -   疏水的 Leu 很容易插进去  
     -   带电的 Asp 就很不容易进去      
--   **empirical scale（经验刻度）**：  
-    这是一张通过实验测得的**打分表**，告诉你：
-    
-    > 每个氨基酸**在膜中不同深度的位置**，插入去需要多少能量（有多“讨厌”这个环境）
+**empirical scale（经验刻度）**：  
+这是一张通过实验测得的**打分表**，告诉你：
+   > 每个氨基酸**在膜中不同深度的位置**，插入去需要多少能量（有多“讨厌”这个环境）
     
 
 所以整句话的这个结构：
@@ -143,6 +141,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYwNjIwNTUsMTU3NzMzMDAyLDEyMj
-g3MDIyNjddfQ==
+eyJoaXN0b3J5IjpbMjAzNTcxNTgxMCwxNTc3MzMwMDIsMTIyOD
+cwMjI2N119
 -->
