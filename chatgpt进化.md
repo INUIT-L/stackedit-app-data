@@ -175,7 +175,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 # request7
 Starting from the amino acid sequence of the target MP, we search the non-redundant (nr) sequence database for homologs and at each position, eliminate mutations that are rarely observed in the natural diversity. 
-这句话中，eliminate mutations that are rarely observed in the natural diversity，和“不要突变那些非常保守的位点”，是不是差不多的意思？因为非常保守的位点其实也是没什么突变的位点
+这句话中，"eliminate mutations that are rarely observed in the natural diversity"，和“不要突变那些非常保守的位点”，是不是差不多的意思？因为非常保守的位点其实也是没什么突变的位点
 
 # reply 7
  **这两个说法在逻辑上几乎是等价的！**
@@ -241,7 +241,7 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDQxNzk2MiwtNjg2MjMxNDk5LDE1Mz
+eyJoaXN0b3J5IjpbLTEwMTg2NTYyMiwtNjg2MjMxNDk5LDE1Mz
 c2MDEyMzEsLTMyNjUxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1
 NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LD
 E1NzczMzAwMiwxMjI4NzAyMjY3XX0=
