@@ -141,18 +141,13 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 # reply 6
 这个问题问得非常好！这句话看起来简单，其实关键就在你提到的这个词：**premisses**（注意拼写是“premisses”，是 premises 的英式旧拼写形式）。
 
-###  **Premisses 是什么意思？**
+###  Premisses 是什么意思？
 
 **premisses** = **premises（美式拼写）**，在这里的意思是：**“前提、基本假设”**（不是“建筑物场所”那个意思哈）
 
 
-
-### ✍️ 这句话逐步拆解翻译：
-
-> **"Moreover, the results suggest that the premisses that underlie successful stability design in soluble proteins(33) may extend to MPs."**
-
-拆成几部分来看：
-
+###  这句话逐步拆解翻译：
+> **"Moreover, the results suggest that the premisses that underlie successful stability design in soluble proteins may extend to MPs."**
 1.  **the results suggest that...**   “研究结果表明……”
 2.  **the premisses that underlie successful stability design in soluble proteins...**  
     👉 “那些支撑可溶性蛋白成功稳定性设计的基本前提”
@@ -174,7 +169,7 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和**PROSS 的原始论文**中都提到了。你需要吗？
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTMyMTUzNSwxODQxODc0OTYsLTE2OD
-Y2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2
-N119
+eyJoaXN0b3J5IjpbNjc3MjU0NDA4LDE4NDE4NzQ5NiwtMTY4Nj
+YxOTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3
+XX0=
 -->
