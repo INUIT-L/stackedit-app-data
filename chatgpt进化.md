@@ -205,6 +205,13 @@ Starting from the amino acid sequence of the target MP, we search the non-redund
 请你补充
 # reply 8
 太好了！我们现在来从算法角度详细补充一下：  **mPROSS 中是如何量化一个突变在自然中是否“常见”或“稀有”的？**
+## 关键工具：PSSM（Position-Specific Scoring Matrix）
+PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位点上20种氨基酸的出现频率或打分**。  
+每个位置都有一个这样的小表格，比如：
+| 氨基酸 | A | R| N| A | V | L| 
+|--|--|--|--|--|--|--
+| 95% | 3% | 1%
+
 
 
 # request 
@@ -262,9 +269,9 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTk2NTA3NSwzMDk1MDgyMDMsLTkxMT
-cxNDI1MSwtMTczNDc1Njc2NCwtMTAxODY1NjIyLC02ODYyMzE0
-OTksMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4ODg1NDI4NDcsLT
-E0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5NjQ5LC03ODIx
-MTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ==
+eyJoaXN0b3J5IjpbLTEzOTEzNjI4NzgsMzA5NTA4MjAzLC05MT
+E3MTQyNTEsLTE3MzQ3NTY3NjQsLTEwMTg2NTYyMiwtNjg2MjMx
+NDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxODg4NTQyODQ3LC
+0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgy
+MTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
 -->
