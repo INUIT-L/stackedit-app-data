@@ -90,10 +90,9 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 
 # request4
 we search the non-redundant (nr) sequence database 是什么意思，和系统发育分析有关系吗
-
-# request4
+# reply 4
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk5ODA2ODcsMTU3NzMzMDAyLDEyMj
-g3MDIyNjddfQ==
+eyJoaXN0b3J5IjpbMjA3NDg3OTI0MiwxNTc3MzMwMDIsMTIyOD
+cwMjI2N119
 -->
