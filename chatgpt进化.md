@@ -171,6 +171,9 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 <br>
 <br>
 
+
+
+
 # request 7
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
 
@@ -226,7 +229,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjUxOTk5NSwxODg4NTQyODQ3LC0xND
-E5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYxOTY0OSwtNzgyMTE0
-NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4OD
+g1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5
+NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ
+==
 -->
