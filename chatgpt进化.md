@@ -6,6 +6,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 # reply 1
 文章中这句话：
 > “Kv channels can be investigated at the single-molecule level, providing detailed information on functionality that complements bulk experiments.”
+
 中的 **“bulk experiments”** 是指**整体层面上的实验**，也叫做**群体实验**，即：
 -   研究的是大量蛋白质分子在一起的**平均行为**，
 -   而不是单个分子的表现。
@@ -141,6 +142,6 @@ we changed the energy function to one that accounts for the membrane environment
 
 是不是一下子清楚多啦？如果你想，我还可以用图来表示这个 dsTβL 是怎么打分的～
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTcxNTgxMCwxNTc3MzMwMDIsMTIyOD
+eyJoaXN0b3J5IjpbLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyOD
 cwMjI2N119
 -->
