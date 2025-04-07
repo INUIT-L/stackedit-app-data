@@ -168,8 +168,12 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和**PROSS 的原始论文**中都提到了。你需要吗？
 
+
+# request 7
+如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？
+可以，帮我列几个premisses的具体例子 你昨天说这句话的时候，我还没有上传“PROSS的原始论文”，也就是2016年molecular cell的文章(Automated Structure- and Sequence-Based Design of Proteins for High Bacterial Expression and Stability，Goldenzweig et al.)，你是怎么知道有这篇文章的？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MjU0NDA4LDE4NDE4NzQ5NiwtMTY4Nj
-YxOTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3
-XX0=
+eyJoaXN0b3J5IjpbLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNj
+g2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIy
+NjddfQ==
 -->
