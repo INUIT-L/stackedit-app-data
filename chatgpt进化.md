@@ -211,7 +211,7 @@ PSSM 是一个矩阵，它统计了在多序列比对（MSA）中，**每个位�
 | 氨基酸 | A | R| N| D | ... | Y| 
 |--|--|--|--|--|--|--
 |频率 |90%| 2%| 1%| 1%|...| 1%|
-|PSSM|+6|--|--|--|--|--
+|PSSM|+6|-2|-4|-4|...|-5
 
 
 
@@ -270,10 +270,10 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNjYzOTU2LDUwMjAzNTcwMCwzMDk1MD
-gyMDMsLTkxMTcxNDI1MSwtMTczNDc1Njc2NCwtMTAxODY1NjIy
-LC02ODYyMzE0OTksMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4OD
-g1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5
-NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ
-==
+eyJoaXN0b3J5IjpbMTI1NzU3NzcwMSw1MDIwMzU3MDAsMzA5NT
+A4MjAzLC05MTE3MTQyNTEsLTE3MzQ3NTY3NjQsLTEwMTg2NTYy
+MiwtNjg2MjMxNDk5LDE1Mzc2MDEyMzEsLTMyNjUxOTk5NSwxOD
+g4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5NiwtMTY4NjYx
+OTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMjI4NzAyMjY3XX
+0=
 -->
