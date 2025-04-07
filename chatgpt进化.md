@@ -47,9 +47,7 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 ### **那“paddle chimera”又是啥？**
 
 -   这篇文章里用的是一个叫做 **Kv1.2–Kv2.1 paddle chimera** 的通道。
-    
 -   它是一个**嵌合通道**，意思是把 **Kv1.2 的主结构骨架** 和 **Kv2.1 的电压感应区（paddle domain）** 结合起来，做出一个人工构建的通道。
-    
 -   这个嵌合体通道的好处是：**已经有了高分辨率晶体结构**（PDB: 2R9R），非常适合做结构导向的设计。
     
 
@@ -62,6 +60,12 @@ https://www.biorxiv.org/content/10.1101/2022.12.28.522065v2
 -   Kv通道的结构（比如S1-S6螺旋结构、pore domain、voltage sensor）；
     
 -   或者它在生理中的作用（比如心脏、神经、胰岛素释放等）； 我也可以继续讲下去！你感兴趣哪个方向？
+
+# request 3
+什么是文章中提到的 phylogenetic analysis
+
+# reply3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzE3ODE0NywxMjI4NzAyMjY3XX0=
+eyJoaXN0b3J5IjpbLTIwNzI2NzA3NTIsMTIyODcwMjI2N119
 -->
