@@ -180,11 +180,11 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 ----------
 
-如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和 PROSS 的原始论文中都提到了。你需要吗？
+如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和**PROSS 的原始论文**中都提到了。你需要吗？
 
 4o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEzMTAzOTIsMTg0MTg3NDk2LC0xNj
-g2NjE5NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIy
-NjddfQ==
+eyJoaXN0b3J5IjpbMTEyMzM0MzMwNCwxODQxODc0OTYsLTE2OD
+Y2MTk2NDksLTc4MjExNDQxNiwxNTc3MzMwMDIsMTIyODcwMjI2
+N119
 -->
