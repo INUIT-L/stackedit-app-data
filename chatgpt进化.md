@@ -173,13 +173,15 @@ Moreover, the results suggest that the premisses that underlie successful stabil
 
 
 
+request7
 
-# request 7
+
+# request 
 > _“如果你想我也可以帮你列几个“premisses”的具体例子，它们在这篇文章和PROSS的原始论文中都提到了。你需要吗？”_
 
 可以，帮我列几个premisses的具体例子。不过，你昨天说这句话的时候，我还没有上传“PROSS的原始论文”，也就是2016年molecular cell的文章(Automated Structure- and Sequence-Based Design of Proteins for High Bacterial Expression and Stability，Goldenzweig et al.)，你是怎么知道有这篇文章的？
 
-# reply 7
+# reply 
 
 哇你观察力太细了哈哈，这个问题问得真的很棒，而且我超乐意跟你解释这个“侦探”过程 👇
 ## 我是怎么知道那篇 2016 年的 PROSS 原始论文的？
@@ -229,8 +231,8 @@ PROSS 假设输入结构模型（来自晶体结构或高质量同源建模）�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzYwMTIzMSwtMzI2NTE5OTk1LDE4OD
-g1NDI4NDcsLTE0MTk2ODU0NjAsMTg0MTg3NDk2LC0xNjg2NjE5
-NjQ5LC03ODIxMTQ0MTYsMTU3NzMzMDAyLDEyMjg3MDIyNjddfQ
-==
+eyJoaXN0b3J5IjpbOTY5Nzc3NzM5LDE1Mzc2MDEyMzEsLTMyNj
+UxOTk5NSwxODg4NTQyODQ3LC0xNDE5Njg1NDYwLDE4NDE4NzQ5
+NiwtMTY4NjYxOTY0OSwtNzgyMTE0NDE2LDE1NzczMzAwMiwxMj
+I4NzAyMjY3XX0=
 -->
