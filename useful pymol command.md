@@ -45,7 +45,8 @@ Setting: opaque_background set to on.
 通过chain 选中GPCR，右键 action → extract object → 将GPCR提取为一个新的object
 剩下的7y3g部分，action → delete object
 修改GPCR的颜色，改成lightblue，然后点击all右侧的S > surface
-
+set transparency, 0.8
+可以得到j
 ```
 <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300" alt="cartoon_highlight"/>
 
@@ -60,8 +61,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5ODYzNjEsMTM2ODI1MTcwNiwxOTk2Mj
-Q1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYs
-MTM0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MD
-UyMDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbMTM5MzI4NjQ5NiwxMzY4MjUxNzA2LDE5OT
+YyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2ODYw
+NiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOTA1NDY4ODkxLC04Mz
+cwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1NTBdfQ==
 -->
