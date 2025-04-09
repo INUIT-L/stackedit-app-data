@@ -20,7 +20,7 @@
 
 ## Cartoon highlight color
 
-This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.此设置允许指定螺旋内表面和股线侧面的对比色。
+This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.
 
 <img src="/imgs/2025-04-09/NFiRwviWFf7lHnqA.png" width="400" alt="cartoon_highlight"/>
 
@@ -53,8 +53,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzIxNjgzNiw3MTM4NTU2OTMsNjc0NT
-YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
-Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
-Y1OTU1MF19
+eyJoaXN0b3J5IjpbNjE0ODY0OTUwLDcxMzg1NTY5Myw2NzQ1Nj
+MzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3
+LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNj
+U5NTUwXX0=
 -->
