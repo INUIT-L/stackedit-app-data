@@ -48,9 +48,11 @@ Setting: opaque_background set to on.
 set transparency, 0.8
 可以得到下图的结果
 ```
-<img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300" alt="GPCR_transparency"/>
 
-<img src="/imgs/2025-04-09/BW0Zx6LFD1SVvJni.png" width="300" alt="GPCR_transparency"/>
+<p float="left">
+  <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300"/>
+  <img src="/imgs/2025-04-09/1nC3Q2VOcVz2nE0n.png" width="300"/>
+</p>
 
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
@@ -59,7 +61,7 @@ set transparency, 0.8
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYyOTA3NDQsLTE4MDM3OTMyNzUsMT
+eyJoaXN0b3J5IjpbLTEzMTg2NzE5NjIsLTE4MDM3OTMyNzUsMT
 M2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMz
 NTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3LD
 kwNTQ2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNjU5
