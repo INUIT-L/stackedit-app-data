@@ -46,14 +46,10 @@ Setting: opaque_background set to on.
 剩下的7y3g部分，action → delete object
 修改GPCR的颜色，改成lightblue，然后点击all右侧的S > surface
 set transparency, 0.8
-可以得到j
+可以得到下图的结果
 ```
 <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300" alt="cartoon_highlight"/>
 
-**Transparency** is used to adjust the transparency of **Surfaces** and  **Slices** .
-```
-set transparency, 0.5
-```
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
 
@@ -61,8 +57,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzI4NjQ5NiwxMzY4MjUxNzA2LDE5OT
-YyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2ODYw
-NiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOTA1NDY4ODkxLC04Mz
-cwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1NTBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTQwMzg4NTQsMTM2ODI1MTcwNiwxOT
+k2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2
+MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtOD
+M3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
 -->
