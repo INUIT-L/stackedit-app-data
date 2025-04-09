@@ -5,14 +5,18 @@
 <br>
 
 
->set cartoon_oval_length, 0.6→设置α-螺旋的宽度；  # default is 1.2
->set cartoon_oval_width , 0.2  # default is 0.25
+>`set cartoon_oval_length, 0.6→设置α-螺旋的宽度；  # default is 1.2`
+>`set cartoon_oval_width , 0.2  # default is 0.25`
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
 
 
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
+
+对齐两个对象：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDc1NTIzOCwtNTI2NTk1NTBdfQ==
+eyJoaXN0b3J5IjpbODEyNTkzMTIxLDEzODQ3NTUyMzgsLTUyNj
+U5NTUwXX0=
 -->
