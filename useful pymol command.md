@@ -56,6 +56,7 @@ set transparency, 0.8
 <p float="left">
   <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300"/>
   <img src="/imgs/2025-04-09/1nC3Q2VOcVz2nE0n.png" width="300"/>
+   <img src="/imgs/2025-04-09/T4mcGeLIMvlCFOgU.png" width="300"/>
 </p>
 
 
@@ -69,11 +70,11 @@ set transparency, 0.8
 
 
 
-<img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
+<img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTI3MjM5OCwxMDg0NDg3OTE0LC03MD
-g5NDE3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1
-NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMT
-M0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUy
-MDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbOTk3NTk2NTMwLDE4ODEyNzIzOTgsMTA4ND
+Q4NzkxNCwtNzA4OTQxNzI2LC0xODAzNzkzMjc1LDEzNjgyNTE3
+MDYsMTk5NjI0NTY5MCw3MTM4NTU2OTMsNjc0NTYzMzU1LC0xNz
+kyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIxNyw5MDU0Njg4
+OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01MjY1OTU1MF19
 -->
