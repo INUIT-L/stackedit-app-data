@@ -23,7 +23,12 @@ set cartoon_oval_width , 0.2  # default is 0.25
 调整颜色
 set cartoon_oval_length, 0.7
 align AF3gpr12model0, AF2gpr12, cycles=50 
+这样之后直接ray的效果如下
 ```
+![输入图片说明](/imgs/2025-04-10/Fiy0J5a4DzIiH1j0.png)
+
+
+
 
 <br>
 <br>
@@ -90,10 +95,11 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OT
-g4NjAyMDYsLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5
-MTQsLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUxNzA2LD
-E5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2
-ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOTA1NDY4ODkxLC
-04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1NTBdfQ==
+eyJoaXN0b3J5IjpbMTI3NjU3MTA4OSwtMjMwNDI3NjUyLC0yMD
+Y2MzczMjk4LDk5ODg2MDIwNiwtNjE5MzcyNTA1LDE4ODEyNzIz
+OTgsMTA4NDQ4NzkxNCwtNzA4OTQxNzI2LC0xODAzNzkzMjc1LD
+EzNjgyNTE3MDYsMTk5NjI0NTY5MCw3MTM4NTU2OTMsNjc0NTYz
+MzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIxNy
+w5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01MjY1
+OTU1MF19
 -->
