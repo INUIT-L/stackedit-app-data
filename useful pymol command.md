@@ -42,7 +42,7 @@ fetch 7y3g
 CmdLoad: "./7y3g.cif" loaded as "7y3g".
 Setting: bg_rgb set to white.   #设置背景颜色为白色
 Setting: opaque_background set to on.
-通过chain 选中GPCR，右键action→extract object→
+通过chain 选中GPCR，右键 action → extract object → 将GPCR提取为一个新的object
 
 ```
 
@@ -57,8 +57,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzkwNDAzLDE5OTYyNDU2OTAsNzEzOD
-U1NjkzLDY3NDU2MzM1NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4
-LDIwMzYyNTUyMTcsOTA1NDY4ODkxLC04MzcwNTIwMTIsMTM4ND
-c1NTIzOCwtNTI2NTk1NTBdfQ==
+eyJoaXN0b3J5IjpbMTUwNjYzNTEwMiwxOTk2MjQ1NjkwLDcxMz
+g1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2
+OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzOD
+Q3NTUyMzgsLTUyNjU5NTUwXX0=
 -->
