@@ -23,9 +23,7 @@
 
 This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.此设置允许指定螺旋内表面和股线侧面的对比色。
 
-
-
-<img src="/imgs/2025-04-09/NFiRwviWFf7lHnqA.png" width="600" alt="cartoon_highlight"/>
+<img src="/imgs/2025-04-09/NFiRwviWFf7lHnqA.png" width="400" alt="cartoon_highlight"/>
 ```
 set cartoon_highlight_color, grey
 set cartoon_highlight_color, grey50   # sets cartoon highlight color to middle-grey
@@ -50,7 +48,7 @@ set transparency, 0.5
 
 ![输入图片说明](/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM0MjQzMjIsNzEzODU1NjkzLDY3ND
+eyJoaXN0b3J5IjpbLTE3OTg3MjkxOTIsNzEzODU1NjkzLDY3ND
 U2MzM1NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUy
 MTcsOTA1NDY4ODkxLC04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNT
 I2NTk1NTBdfQ==
