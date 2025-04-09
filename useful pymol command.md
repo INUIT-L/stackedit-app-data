@@ -10,10 +10,7 @@
 `set cartoon_oval_width , 0.2  # default is 0.25`
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
-
-
-
-
+<br>
 
 ## align对齐两个对象：
 
@@ -26,6 +23,7 @@
 This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.此设置允许指定螺旋内表面和股线侧面的对比色。
 
 <img src="/imgs/2025-04-09/NFiRwviWFf7lHnqA.png" width="400" alt="cartoon_highlight"/>
+
 ```
 set cartoon_highlight_color, grey
 set cartoon_highlight_color, grey50   # sets cartoon highlight color to middle-grey
@@ -55,7 +53,7 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzE3NTM3OCw3MTM4NTU2OTMsNjc0NT
+eyJoaXN0b3J5IjpbLTYzNzIxNjgzNiw3MTM4NTU2OTMsNjc0NT
 YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
 Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
 Y1OTU1MF19
