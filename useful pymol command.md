@@ -31,6 +31,8 @@ set cartoon_highlight_color, grey
 set cartoon_highlight_color, grey50   # sets cartoon highlight color to middle-grey
 set cartoon_highlight_color, -1      # turns this feature off (default)
 ```
+<br>
+<br>
 
 # transparency
 单独的set transparency命令只是去调整surface和slices的透明度
@@ -40,6 +42,7 @@ fetch 7y3g
 CmdLoad: "./7y3g.cif" loaded as "7y3g".
 Setting: bg_rgb set to white.   #设置背景颜色为白色
 Setting: opaque_background set to on.
+选中GPCR 
 
 ```
 
@@ -48,15 +51,14 @@ Setting: opaque_background set to on.
 set transparency, 0.5
 ```
 
-![输入图片说明](/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png)
-
+<img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
 
 
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjU4NDYsMTk5NjI0NTY5MCw3MTM4NT
-U2OTMsNjc0NTYzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgs
-MjAzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0Nz
-U1MjM4LC01MjY1OTU1MF19
+eyJoaXN0b3J5IjpbLTE4MjIyNjQ0OCwxOTk2MjQ1NjkwLDcxMz
+g1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2
+OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzOD
+Q3NTUyMzgsLTUyNjU5NTUwXX0=
 -->
