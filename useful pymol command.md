@@ -31,11 +31,10 @@ set cartoon_highlight_color, -1      # turns this feature off (default)
 ```
 
 # transparency
+**Transparency** is used to adjust the transparency of **Surfaces** and  **Slices** .
 
-
-**Transparency** is used to adjust the transparency of **[Surfaces](https://pymolwiki.org/index.php/Surface "Surface")** and **[Slices](https://pymolwiki.org/index.php/Slice "Slice")**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDAzNjUzOCwyMDM2MjU1MjE3LDkwNT
+eyJoaXN0b3J5IjpbMTM0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNT
 Q2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUw
 XX0=
 -->
