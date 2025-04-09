@@ -21,12 +21,13 @@ align对齐两个对象：
 # Cartoon highlight color
 This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.
 此设置允许指定螺旋内表面和股线侧面的对比色。
+![输入图片说明](/imgs/2025-04-09/NFiRwviWFf7lHnqA.png)
 ```
 set cartoon_highlight_color, grey
 set cartoon_highlight_color, grey50   # sets cartoon highlight color to middle-grey
 set cartoon_highlight_color, -1      # turns this feature off (default)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzQzMzg3NSwtODM3MDUyMDEyLDEzOD
-Q3NTUyMzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbOTA1NDY4ODkxLC04MzcwNTIwMTIsMTM4ND
+c1NTIzOCwtNTI2NTk1NTBdfQ==
 -->
