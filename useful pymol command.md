@@ -17,7 +17,9 @@
 
 align对齐两个对象：
 `align AF3gpr12model0, AF2gpr12, cycles=50 `
+
+set cartoon_highlight_color, grey
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
-Y1OTU1MF19
+eyJoaXN0b3J5IjpbLTEzNTE4OTM0MzIsLTgzNzA1MjAxMiwxMz
+g0NzU1MjM4LC01MjY1OTU1MF19
 -->
