@@ -5,9 +5,8 @@
 <br>
 
 
->`set cartoon_oval_length, 0.6→设置α-螺旋的宽度；  # default is 1.2`
->
->`set cartoon_oval_width , 0.2  # default is 0.25`
+`set cartoon_oval_length, 0.6→设置α-螺旋的宽度；  # default is 1.2`
+`set cartoon_oval_width , 0.2  # default is 0.25`
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
 
@@ -18,8 +17,13 @@
 align对齐两个对象：
 `align AF3gpr12model0, AF2gpr12, cycles=50 `
 
+
+```
 set cartoon_highlight_color, grey
+set cartoon_highlight_color, grey50   # sets cartoon highlight color to middle-grey
+set cartoon_highlight_color, -1      # turns this feature off (default)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE4OTM0MzIsLTgzNzA1MjAxMiwxMz
-g0NzU1MjM4LC01MjY1OTU1MF19
+eyJoaXN0b3J5IjpbMTM2MjExNzUzNywtODM3MDUyMDEyLDEzOD
+Q3NTUyMzgsLTUyNjU5NTUwXX0=
 -->
