@@ -49,6 +49,7 @@ set transparency, 0.8
 可以得到下图的结果
 ```
 <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300" alt="cartoon_highlight"/>
+![输入图片说明](/imgs/2025-04-09/BW0Zx6LFD1SVvJni.png)
 
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
@@ -57,7 +58,7 @@ set transparency, 0.8
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQwMzg4NTQsMTM2ODI1MTcwNiwxOT
+eyJoaXN0b3J5IjpbLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOT
 k2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2
 MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtOD
 M3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
