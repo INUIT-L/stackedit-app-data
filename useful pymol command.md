@@ -16,7 +16,7 @@ set cartoon_oval_width , 0.2  # default is 0.25
 <br>
 
 ## align对齐两个对象：
-
+以AF2 / AF3预测的GPR12为例子。
 
 `align AF3gpr12model0, AF2gpr12, cycles=50 `
 
@@ -85,7 +85,7 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MDQxMzM3LC02MTkzNzI1MDUsMTg4MT
+eyJoaXN0b3J5IjpbOTk4ODYwMjA2LC02MTkzNzI1MDUsMTg4MT
 I3MjM5OCwxMDg0NDg3OTE0LC03MDg5NDE3MjYsLTE4MDM3OTMy
 NzUsMTM2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2Nz
 Q1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMDM2MjU1
