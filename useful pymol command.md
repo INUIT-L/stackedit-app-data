@@ -5,6 +5,7 @@
 <br>
 
 
+## 调整j：
 `set cartoon_oval_length, 0.6→设置α-螺旋的宽度；  # default is 1.2`
 `set cartoon_oval_width , 0.2  # default is 0.25`
 
@@ -12,11 +13,12 @@
 
 
 
->Wizard→Measurement→点中要画的两个原子，形成相互作用；
+
 
 ## align对齐两个对象：
 
 `align AF3gpr12model0, AF2gpr12, cycles=50 `
+<br>
 
 
 ## Cartoon highlight color
@@ -47,9 +49,14 @@ set transparency, 0.5
 ```
 
 ![输入图片说明](/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png)
+
+
+
+
+>Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg3MjkxOTIsNzEzODU1NjkzLDY3ND
-U2MzM1NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUy
-MTcsOTA1NDY4ODkxLC04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNT
-I2NTk1NTBdfQ==
+eyJoaXN0b3J5IjpbMTA3NzcwNDM0Nyw3MTM4NTU2OTMsNjc0NT
+YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
+Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
+Y1OTU1MF19
 -->
