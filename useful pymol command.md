@@ -11,6 +11,7 @@
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
 <br>
+<br>
 
 ## align对齐两个对象：
 
@@ -53,8 +54,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0ODY0OTUwLDcxMzg1NTY5Myw2NzQ1Nj
-MzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3
-LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNj
-U5NTUwXX0=
+eyJoaXN0b3J5IjpbMTk5NjI0NTY5MCw3MTM4NTU2OTMsNjc0NT
+YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
+Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
+Y1OTU1MF19
 -->
