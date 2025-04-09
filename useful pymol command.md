@@ -17,6 +17,7 @@
 
 `align AF3gpr12model0, AF2gpr12, cycles=50 `
 <br>
+<br>
 
 
 ## Cartoon highlight color
@@ -54,8 +55,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjI0NTY5MCw3MTM4NTU2OTMsNjc0NT
-YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
-Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
-Y1OTU1MF19
+eyJoaXN0b3J5IjpbMjA4NjU4NDYsMTk5NjI0NTY5MCw3MTM4NT
+U2OTMsNjc0NTYzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgs
+MjAzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0Nz
+U1MjM4LC01MjY1OTU1MF19
 -->
