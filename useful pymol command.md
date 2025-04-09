@@ -61,6 +61,14 @@ set transparency, 0.8
 
 ```
 在中图的基础上，
+set ray_shadow, off
+set antialias, 2
+set ray_trace_depth_factor, 1
+set ray_trace_depth_factor, 1
+set specular, 0
+set ambient, 0.4
+ray
+得到右图的结果
 ```
 
 
@@ -76,7 +84,7 @@ set transparency, 0.8
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDE3MjkzMywxODgxMjcyMzk4LDEwOD
+eyJoaXN0b3J5IjpbLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwOD
 Q0ODc5MTQsLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUx
 NzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMT
 c5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOTA1NDY4
