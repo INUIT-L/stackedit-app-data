@@ -44,8 +44,9 @@ Setting: bg_rgb set to white.   #设置背景颜色为白色
 Setting: opaque_background set to on.
 通过chain 选中GPCR，右键 action → extract object → 将GPCR提取为一个新的object
 剩下的7y3g部分，action → delete object
-
+修改GPCR的颜色
 ```
+<img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300" alt="cartoon_highlight"/>
 
 **Transparency** is used to adjust the transparency of **Surfaces** and  **Slices** .
 ```
@@ -58,8 +59,8 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMz
-g1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2
-OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzOD
-Q3NTUyMzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbLTEzNTc0NDczNTksMTM2ODI1MTcwNiwxOT
+k2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2
+MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtOD
+M3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
 -->
