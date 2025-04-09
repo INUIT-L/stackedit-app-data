@@ -32,11 +32,13 @@ set cartoon_highlight_color, -1      # turns this feature off (default)
 
 # transparency
 **Transparency** is used to adjust the transparency of **Surfaces** and  **Slices** .
-
+```
+set transparency, 0.5
+```
 
 ![输入图片说明](/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMD
-M2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUy
-MzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbNjc0NTYzMzU1LC0xNzkyMjY4NjA2LDEzND
+E1NjIwNjgsMjAzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1MjAx
+MiwxMzg0NzU1MjM4LC01MjY1OTU1MF19
 -->
