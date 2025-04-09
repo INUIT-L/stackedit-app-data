@@ -7,7 +7,7 @@
 
 ## 调整α-螺旋的宽度
 ```
-set cartoon_oval_length, 0.6  # 设置α-螺旋的宽度；  # default is 1.2
+set cartoon_oval_length, 0.7  # 设置α-螺旋的宽度；  # default is 1.2
 set cartoon_oval_width , 0.2  # default is 0.25
 ```
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
@@ -21,6 +21,7 @@ set cartoon_oval_width , 0.2  # default is 0.25
 ```
 先把两个结构拖进pymol
 调整颜色
+set cartoon_oval_length, 0.7
 align AF3gpr12model0, AF2gpr12, cycles=50 
 ```
 
@@ -89,10 +90,10 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYzNzMyOTgsOTk4ODYwMjA2LC02MT
-kzNzI1MDUsMTg4MTI3MjM5OCwxMDg0NDg3OTE0LC03MDg5NDE3
-MjYsLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1NjkwLD
-cxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2
-MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUyMDEyLD
-EzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OT
+g4NjAyMDYsLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5
+MTQsLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUxNzA2LD
+E5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2
+ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOTA1NDY4ODkxLC
+04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1NTBdfQ==
 -->
