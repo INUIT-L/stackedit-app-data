@@ -5,8 +5,8 @@
 <br>
 
 
-## 调整j：
-`set cartoon_oval_length, 0.6→设置α-螺旋的宽度；  # default is 1.2`
+## 调整α-螺旋的宽度
+`set cartoon_oval_length, 0.6  # 设置α-螺旋的宽度；  # default is 1.2`
 `set cartoon_oval_width , 0.2  # default is 0.25`
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
@@ -55,7 +55,7 @@ set transparency, 0.5
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzcwNDM0Nyw3MTM4NTU2OTMsNjc0NT
+eyJoaXN0b3J5IjpbMjA5MzE3NTM3OCw3MTM4NTU2OTMsNjc0NT
 YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
 Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
 Y1OTU1MF19
