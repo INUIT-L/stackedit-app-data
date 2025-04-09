@@ -16,9 +16,13 @@ set cartoon_oval_width , 0.2  # default is 0.25
 <br>
 
 ## align对齐两个对象：
-以AF2 / AF3预测的GPR12为例子。
+以[AF2](https://github.com/INUIT-L/stackedit-app-data/blob/master/PDB/practice/AF2gpr12.pdb) / [AF3](https://github.com/INUIT-L/stackedit-app-data/blob/master/PDB/practice/AF3gpr12model0.pdb)预测的GPR12为例子。
 
-`align AF3gpr12model0, AF2gpr12, cycles=50 `
+
+```
+先把两个结构拖进pymol
+align AF3gpr12model0, AF2gpr12, cycles=50 
+```
 
 <br>
 <br>
@@ -85,10 +89,10 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4ODYwMjA2LC02MTkzNzI1MDUsMTg4MT
-I3MjM5OCwxMDg0NDg3OTE0LC03MDg5NDE3MjYsLTE4MDM3OTMy
-NzUsMTM2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2Nz
-Q1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMDM2MjU1
-MjE3LDkwNTQ2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUyMzgsLT
-UyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbMjAzODk0MzU3Myw5OTg4NjAyMDYsLTYxOT
+M3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5MTQsLTcwODk0MTcy
+NiwtMTgwMzc5MzI3NSwxMzY4MjUxNzA2LDE5OTYyNDU2OTAsNz
+EzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2ODYwNiwxMzQxNTYy
+MDY4LDIwMzYyNTUyMTcsOTA1NDY4ODkxLC04MzcwNTIwMTIsMT
+M4NDc1NTIzOCwtNTI2NTk1NTBdfQ==
 -->
