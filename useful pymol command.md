@@ -21,8 +21,8 @@
 
 ## Cartoon highlight color
 
-This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.
-此设置允许指定螺旋内表面和股线侧面的对比色。
+This setting allows one to specify a contrasting color for the interior face of helices and the side faces of strands.此设置允许指定螺旋内表面和股线侧面的对比色。
+
 ![输入图片说明](/imgs/2025-04-09/NFiRwviWFf7lHnqA.png)
 ```
 set cartoon_highlight_color, grey
@@ -33,10 +33,10 @@ set cartoon_highlight_color, -1      # turns this feature off (default)
 # transparency
 单独的set transparency命令只是去调整surface和slices的透明度
 比如我参照小红书[“如何绘制残基相互作用图”](https://www.xiaohongshu.com/user/profile/62e4d86a000000001e01d536?xsec_token=ABLNzGWkdT0ygIOPLvu5WINMnyhNmbATmIkw0WuWHs4LY=&xsec_source=pc_collect)教程中所示的：
-```pymol
+```
 fetch 7y3g
 CmdLoad: "./7y3g.cif" loaded as "7y3g".
-Setting: bg_rgb set to white.   #设置背景颜色为绿色
+Setting: bg_rgb set to white.   #设置背景颜色为白色
 Setting: opaque_background set to on.
 
 ```
@@ -48,8 +48,8 @@ set transparency, 0.5
 
 ![输入图片说明](/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDc3OTMwNyw3MTM4NTU2OTMsNjc0NT
-YzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIx
-Nyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01Mj
-Y1OTU1MF19
+eyJoaXN0b3J5IjpbLTE4MjA5MTA2NjQsNzEzODU1NjkzLDY3ND
+U2MzM1NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUy
+MTcsOTA1NDY4ODkxLC04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNT
+I2NTk1NTBdfQ==
 -->
