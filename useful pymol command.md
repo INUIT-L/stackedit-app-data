@@ -46,7 +46,7 @@ Setting: opaque_background set to on.
 剩下的7y3g部分，action → delete object
 修改GPCR的颜色，改成lightblue，然后点击all右侧的S > surface
 set transparency, 0.8
-可以得到下图的结果
+可以得到如左图的结果。 直接 set ray_trace_mode, 1，得到右图的结果。
 ```
 
 <p float="left">
@@ -61,9 +61,9 @@ set transparency, 0.8
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg2NzE5NjIsLTE4MDM3OTMyNzUsMT
-M2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMz
-NTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwyMDM2MjU1MjE3LD
-kwNTQ2ODg5MSwtODM3MDUyMDEyLDEzODQ3NTUyMzgsLTUyNjU5
-NTUwXX0=
+eyJoaXN0b3J5IjpbLTEwNzczMjE1MCwtMTgwMzc5MzI3NSwxMz
+Y4MjUxNzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1
+NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOT
+A1NDY4ODkxLC04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1
+NTBdfQ==
 -->
