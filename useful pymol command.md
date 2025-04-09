@@ -6,16 +6,19 @@
 
 
 ## 调整α-螺旋的宽度
-`set cartoon_oval_length, 0.6  # 设置α-螺旋的宽度；  # default is 1.2`
-`set cartoon_oval_width , 0.2  # default is 0.25`
+```
+set cartoon_oval_length, 0.6  # 设置α-螺旋的宽度；  # default is 1.2`
+set cartoon_oval_width , 0.2  # default is 0.25`
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
+
 <br>
 <br>
 
 ## align对齐两个对象：
 
 `align AF3gpr12model0, AF2gpr12, cycles=50 `
+
 <br>
 <br>
 
@@ -31,6 +34,7 @@ set cartoon_highlight_color, grey
 set cartoon_highlight_color, grey50   # sets cartoon highlight color to middle-grey
 set cartoon_highlight_color, -1      # turns this feature off (default)
 ```
+
 <br>
 <br>
 
@@ -67,9 +71,9 @@ set transparency, 0.8
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDQ4NzkxNCwtNzA4OTQxNzI2LC0xOD
-AzNzkzMjc1LDEzNjgyNTE3MDYsMTk5NjI0NTY5MCw3MTM4NTU2
-OTMsNjc0NTYzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMj
-AzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1
-MjM4LC01MjY1OTU1MF19
+eyJoaXN0b3J5IjpbLTMwNDk3OTQ0MCwxMDg0NDg3OTE0LC03MD
+g5NDE3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1
+NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMT
+M0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUy
+MDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
 -->
