@@ -7,8 +7,9 @@
 
 ## 调整α-螺旋的宽度
 ```
-set cartoon_oval_length, 0.6  # 设置α-螺旋的宽度；  # default is 1.2`
-set cartoon_oval_width , 0.2  # default is 0.25`
+set cartoon_oval_length, 0.6  # 设置α-螺旋的宽度；  # default is 1.2
+set cartoon_oval_width , 0.2  # default is 0.25
+```
 
 ![oval length/width ](/imgs/2025-04-01/bHtEyzMhlu6XrrBV.png)
 
@@ -71,9 +72,9 @@ set transparency, 0.8
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDk3OTQ0MCwxMDg0NDg3OTE0LC03MD
-g5NDE3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1
-NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMT
-M0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3MDUy
-MDEyLDEzODQ3NTUyMzgsLTUyNjU5NTUwXX0=
+eyJoaXN0b3J5IjpbLTEzMzI2MzIwOTYsMTA4NDQ4NzkxNCwtNz
+A4OTQxNzI2LC0xODAzNzkzMjc1LDEzNjgyNTE3MDYsMTk5NjI0
+NTY5MCw3MTM4NTU2OTMsNjc0NTYzMzU1LC0xNzkyMjY4NjA2LD
+EzNDE1NjIwNjgsMjAzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1
+MjAxMiwxMzg0NzU1MjM4LC01MjY1OTU1MF19
 -->
