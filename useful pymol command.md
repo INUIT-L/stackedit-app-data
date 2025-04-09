@@ -14,9 +14,9 @@
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
-对齐两个对象：
-
+align对齐两个对象：
+`align AF3gpr12model0, AF2gpr12, cycles=50 `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNTkzMTIxLDEzODQ3NTUyMzgsLTUyNj
-U5NTUwXX0=
+eyJoaXN0b3J5IjpbLTE2NTU5Njc3NzQsMTM4NDc1NTIzOCwtNT
+I2NTk1NTBdfQ==
 -->
