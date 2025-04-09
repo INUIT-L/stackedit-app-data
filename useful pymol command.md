@@ -23,7 +23,17 @@ set cartoon_oval_width , 0.2  # default is 0.25
 调整颜色
 set cartoon_oval_length, 0.7
 align AF3gpr12model0, AF2gpr12, cycles=50 
-这样之后直接ray的效果如左下
+这样之后直接ray的细节效果如左下
+
+
+set ambient, 0.4
+set specular, 0（似乎没影响）
+set ray_trace_depth_factor, 1
+set ray_trace_disco_factor, 1
+set ray_trace_mode, 1
+set antialias, 2
+set ray_shadow, off
+用滚轮调整虚实，之后ray，如右下
 ```
 
 <p float="left">
@@ -97,11 +107,11 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2ODI3Nzg1LC0xNDY4NTQxMjY5LC0xMz
-A5NjQ2MjExLC0yMzA0Mjc2NTIsLTIwNjYzNzMyOTgsOTk4ODYw
-MjA2LC02MTkzNzI1MDUsMTg4MTI3MjM5OCwxMDg0NDg3OTE0LC
-03MDg5NDE3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2
-MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MD
-YsMTM0MTU2MjA2OCwyMDM2MjU1MjE3LDkwNTQ2ODg5MSwtODM3
-MDUyMDEyXX0=
+eyJoaXN0b3J5IjpbLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwtMT
+MwOTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2MzczMjk4LDk5ODg2
+MDIwNiwtNjE5MzcyNTA1LDE4ODEyNzIzOTgsMTA4NDQ4NzkxNC
+wtNzA4OTQxNzI2LC0xODAzNzkzMjc1LDEzNjgyNTE3MDYsMTk5
+NjI0NTY5MCw3MTM4NTU2OTMsNjc0NTYzMzU1LC0xNzkyMjY4Nj
+A2LDEzNDE1NjIwNjgsMjAzNjI1NTIxNyw5MDU0Njg4OTEsLTgz
+NzA1MjAxMl19
 -->
