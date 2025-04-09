@@ -31,6 +31,7 @@ set cartoon_highlight_color, -1      # turns this feature off (default)
 ```
 
 # transparency
+单独的set transparency命令只是去调整surface和slices的透明度
 **Transparency** is used to adjust the transparency of **Surfaces** and  **Slices** .
 ```
 set transparency, 0.5
@@ -38,7 +39,7 @@ set transparency, 0.5
 
 ![输入图片说明](/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NTYzMzU1LC0xNzkyMjY4NjA2LDEzND
-E1NjIwNjgsMjAzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1MjAx
-MiwxMzg0NzU1MjM4LC01MjY1OTU1MF19
+eyJoaXN0b3J5IjpbLTEzNDc2NzcwMTUsNjc0NTYzMzU1LC0xNz
+kyMjY4NjA2LDEzNDE1NjIwNjgsMjAzNjI1NTIxNyw5MDU0Njg4
+OTEsLTgzNzA1MjAxMiwxMzg0NzU1MjM4LC01MjY1OTU1MF19
 -->
