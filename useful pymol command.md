@@ -35,7 +35,7 @@ set cartoon_highlight_color, -1      # turns this feature off (default)
 <br>
 
 # transparency
-单独的set transparency命令只是去调整surface和slices的透明度
+单独的set transparency命令只是去调整surface和slices的透明度，
 比如我参照小红书[“如何绘制残基相互作用图”](https://www.xiaohongshu.com/user/profile/62e4d86a000000001e01d536?xsec_token=ABLNzGWkdT0ygIOPLvu5WINMnyhNmbATmIkw0WuWHs4LY=&xsec_source=pc_collect)教程中所示的：
 ```
 fetch 7y3g
@@ -67,9 +67,9 @@ set transparency, 0.8
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMz
-Y4MjUxNzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1
-NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOT
-A1NDY4ODkxLC04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTA4NDQ4NzkxNCwtNzA4OTQxNzI2LC0xOD
+AzNzkzMjc1LDEzNjgyNTE3MDYsMTk5NjI0NTY5MCw3MTM4NTU2
+OTMsNjc0NTYzMzU1LC0xNzkyMjY4NjA2LDEzNDE1NjIwNjgsMj
+AzNjI1NTIxNyw5MDU0Njg4OTEsLTgzNzA1MjAxMiwxMzg0NzU1
+MjM4LC01MjY1OTU1MF19
 -->
