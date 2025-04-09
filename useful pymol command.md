@@ -50,7 +50,7 @@ Setting: opaque_background set to on.
 剩下的7y3g部分，action → delete object
 修改GPCR的颜色，改成lightblue，然后点击all右侧的S > surface
 set transparency, 0.8
-可以得到如左图的结果。 直接 set ray_trace_mode, 1，得到右图的结果。
+可以得到如左图的结果。 直接 set ray_trace_mode, 1，得到中图的结果。
 ```
 
 <p float="left">
@@ -60,7 +60,7 @@ set transparency, 0.8
 </p>
 
 ```
-
+在中图的基础上，
 ```
 
 
@@ -76,7 +76,7 @@ set transparency, 0.8
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDc1NDA3OCwxODgxMjcyMzk4LDEwOD
+eyJoaXN0b3J5IjpbLTMzMDE3MjkzMywxODgxMjcyMzk4LDEwOD
 Q0ODc5MTQsLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUx
 NzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMT
 c5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOTA1NDY4
