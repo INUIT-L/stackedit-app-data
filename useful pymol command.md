@@ -55,13 +55,19 @@ set transparency, 0.8
 </p>
 
 
-<img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
+
 
 
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
+
+
+
+
+
+<img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="400" alt="cartoon_highlight"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzczMjE1MCwtMTgwMzc5MzI3NSwxMz
+eyJoaXN0b3J5IjpbLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMz
 Y4MjUxNzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3NDU2MzM1
 NSwtMTc5MjI2ODYwNiwxMzQxNTYyMDY4LDIwMzYyNTUyMTcsOT
 A1NDY4ODkxLC04MzcwNTIwMTIsMTM4NDc1NTIzOCwtNTI2NTk1
