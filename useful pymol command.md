@@ -96,7 +96,7 @@ ray
 ### Selected Surface Elements
 ```
 fetch 7y3g # load a random protein
-set transparency, 0.65, chain R   # 
+set transparency, 0.65, chain R   #将chain R(GPCR)的 
 
 set transparency, 0.65, i. 1-100  
 
@@ -116,11 +116,11 @@ set transparency, 0.65, i. 1-100
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNDcyNDkxLC0yMzExMTc1NDAsMTYzMT
-UwNTg0OSwtMTg1OTQxMzUxMywtOTY3MjY0NzU4LC01NjY4ODU0
-MTIsLTE0Njg1NDEyNjksLTEzMDk2NDYyMTEsLTIzMDQyNzY1Mi
-wtMjA2NjM3MzI5OCw5OTg4NjAyMDYsLTYxOTM3MjUwNSwxODgx
-MjcyMzk4LDEwODQ0ODc5MTQsLTcwODk0MTcyNiwtMTgwMzc5Mz
-I3NSwxMzY4MjUxNzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3
-NDU2MzM1NV19
+eyJoaXN0b3J5IjpbLTE1NzcyNjY3MSwtMjMxMTE3NTQwLDE2Mz
+E1MDU4NDksLTE4NTk0MTM1MTMsLTk2NzI2NDc1OCwtNTY2ODg1
+NDEyLC0xNDY4NTQxMjY5LC0xMzA5NjQ2MjExLC0yMzA0Mjc2NT
+IsLTIwNjYzNzMyOTgsOTk4ODYwMjA2LC02MTkzNzI1MDUsMTg4
+MTI3MjM5OCwxMDg0NDg3OTE0LC03MDg5NDE3MjYsLTE4MDM3OT
+MyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2
+NzQ1NjMzNTVdfQ==
 -->
