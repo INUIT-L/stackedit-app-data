@@ -96,11 +96,11 @@ ray
 ```
 ### Selected Surface Elements
 ```
-fetch 7y3g # 加载蛋白 GPR12-GsGβGγ-Nb35 complex（刘志杰组）
+fetch 7y3g	# 加载蛋白 GPR12-GsGβGγ-Nb35 complex（刘志杰组）
 改变颜色：color-by chain-elementC
-set transparency, 0.65, chain R	#将chain R (GPCR)的透明度变成0.65
-set transparency, 1, chain R  	#将chain R (GPCR)的透明度变成1(完全透明)
-set transparency, 0, chain R （从一个选择模式切到另一个选择模式一定要先手动还原上一步的操作）
+set transparency, 0.65, chain R		#将chain R (GPCR)的透明度变成0.65
+set transparency, 1, chain R		#将chain R (GPCR)的透明度变成1(完全透明)
+set transparency, 0, chain R		#切换选择模式时，先手动还原上一步的操作，这里选择chain变到选择chain中的氨基酸
 set transparency, 0.65, chain R and resi 1-100 #将chain R的1-100个残基的surface变成透明
 set transparency, 0.65, i. 1-100 # resi 1-100和i. 1-100是等价的
 # set the partial transparency for the selected residues
@@ -124,7 +124,7 @@ set transparency, 0.65, i. 1-100 # resi 1-100和i. 1-100是等价的
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzYzMjA3NSwxNDg4MjU4ODI5LC0xMD
+eyJoaXN0b3J5IjpbMjEwNjI0MDU3NiwxNDg4MjU4ODI5LC0xMD
 IyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2NTQ1
 NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNTEzLC
 05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwtMTMw
