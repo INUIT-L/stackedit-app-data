@@ -25,7 +25,7 @@ set cartoon_oval_length, 0.7
 align AF3gpr12model0, AF2gpr12, cycles=50 
 这样之后直接ray的细节效果如左下
 
-cartoon_highlight_color, -1
+set cartoon_highlight_color, -1
 set ambient, 0.4
 set specular, 0（似乎没影响）
 set ray_trace_depth_factor, 1
@@ -125,7 +125,7 @@ set transparency, 0.65, i. 1-100 # i可能也是改残基？不确定
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDQ2MTcxMSwtMTAyMjIwNTY5MCwxNj
+eyJoaXN0b3J5IjpbMTQ4ODI1ODgyOSwtMTAyMjIwNTY5MCwxNj
 k1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0NTU0LC0yMzExMTc1
 NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMywtOTY3MjY0NzU4LC
 01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEzMDk2NDYyMTEsLTIz
