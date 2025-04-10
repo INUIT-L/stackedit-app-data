@@ -141,7 +141,7 @@ set cartoon_color, white   #显示为右下
 set ray_trace_mode, 0 #左
 set ray_trace_mode, 1 #中
 set ray_trace_mode, 3 #右
-
+ray_trace_mode 会加上轮廓线，参数越大阴影越重
 ```
 
 
@@ -165,7 +165,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjY0Mzc2NSwxNTE3MDM5MTkzLC00Nz
+eyJoaXN0b3J5IjpbLTMyNDM1MDYzMiwxNTE3MDM5MTkzLC00Nz
 kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
 NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
 EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
