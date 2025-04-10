@@ -114,10 +114,13 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 <img src="/imgs/2025-04-10/nBEQo7elx3ooAiia.png" width="300"/>
 请教小红书之后得到以下答复：
 >ray_trace_mode设成1，然后给蛋白质设个看不出来的透明度，比如set cartoon_transparency, 0.05，最后ray一下。有透明的结构在ray的时候就不会有轮廓
+>
 
+<p float="left">
+<img src="/imgs/2025-04-10/lWXvUS9Vm2f7WQez.png" width="300"/>
+<img src="/imgs/2025-04-10/XSeujx1CnUTp2xwX.png" width="300"/>
 
-
-
+</p>
 
 
 
@@ -133,11 +136,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjU4OTAxLC03MDY5NzgxODMsMTU3ND
-U0ODU1OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgy
-OSwtMTAyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNT
-U0NjU0NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQx
-MzUxMywtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNj
-ksLTEzMDk2NDYyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5
-OTg4NjAyMDZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk4OTQ5MzIsLTcwNjk3ODE4MywxNT
+c0NTQ4NTU4LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4
+ODI5LC0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LD
+E1NTQ2NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5
+NDEzNTEzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MT
+I2OSwtMTMwOTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2MzczMjk4
+LDk5ODg2MDIwNl19
 -->
