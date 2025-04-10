@@ -117,7 +117,8 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 
 ```
 fetch 8kh5		# 自己组的GPR174 bound to LysoPS 结构
-
+b
+把GPR174 extract出来
 #
 ```
 <p float="left">
@@ -140,7 +141,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MzE0NjQxLC03MDY5NzgxODMsMTU3ND
+eyJoaXN0b3J5IjpbNDQ2NDMxMDY0LC03MDY5NzgxODMsMTU3ND
 U0ODU1OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgy
 OSwtMTAyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNT
 U0NjU0NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQx
