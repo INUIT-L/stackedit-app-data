@@ -153,7 +153,9 @@ ray_trace_mode 会加上轮廓线，参数越大阴影越重
 ```
 set cartoon_transparency, 0.1 
 set ray_trace_mode, 1
-ray #de'd'da
+ray #得到左图
+set ray_shadow, off
+ray #得到右图，基本可以出图了
 ```
 
 <p float="left">
@@ -170,7 +172,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzIyMjY4MywxNTE3MDM5MTkzLC00Nz
+eyJoaXN0b3J5IjpbMTI2MDUzMDkwNSwxNTE3MDM5MTkzLC00Nz
 kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
 NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
 EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
