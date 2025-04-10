@@ -116,7 +116,7 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 >ray_trace_mode设成1，然后给蛋白质设个看不出来的透明度，比如set cartoon_transparency, 0.05，最后ray一下。有透明的结构在ray的时候就不会有轮廓
 
 ```
-fetch 8kh5 (自己组的GPR173 bound to LysoPS 结构)
+fetch 8kh5		# 自己组的GPR174 bound to LysoPS 结构
 
 #
 ```
@@ -140,11 +140,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTI3MzQ4MCwtNzA2OTc4MTgzLDE1Nz
-Q1NDg1NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4
-MjksLTEwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMT
-U1NDY1NDU1NCwtMjMxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0
-MTM1MTMsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMj
-Y5LC0xMzA5NjQ2MjExLC0yMzA0Mjc2NTIsLTIwNjYzNzMyOTgs
-OTk4ODYwMjA2XX0=
+eyJoaXN0b3J5IjpbODc3MzE0NjQxLC03MDY5NzgxODMsMTU3ND
+U0ODU1OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgy
+OSwtMTAyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNT
+U0NjU0NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQx
+MzUxMywtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNj
+ksLTEzMDk2NDYyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5
+OTg4NjAyMDZdfQ==
 -->
