@@ -102,8 +102,7 @@ set transparency, 0.65, chain R	#将chain R (GPCR)的透明度变成0.65
 set transparency, 1, chain R  	#将chain R (GPCR)的透明度变成1(完全透明)
 set transparency, 0, chain R （从一个选择模式切到另一个选择模式一定要先手动还原上一步的操作）
 set transparency, 0.65, chain R and resi 1-100 #将chain R的1-100个残基的surface变成透明
-
-set transparency, 0.65, i. 1-100 # i可能也是改残基？不确定 
+set transparency, 0.65, i. 1-100 # resi 1-100和i. 1-100是等价的
 # set the partial transparency for the selected residues
 
 ```
@@ -125,11 +124,11 @@ set transparency, 0.65, i. 1-100 # i可能也是改残基？不确定
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODI1ODgyOSwtMTAyMjIwNTY5MCwxNj
-k1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0NTU0LC0yMzExMTc1
-NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMywtOTY3MjY0NzU4LC
-01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEzMDk2NDYyMTEsLTIz
-MDQyNzY1MiwtMjA2NjM3MzI5OCw5OTg4NjAyMDYsLTYxOTM3Mj
-UwNSwxODgxMjcyMzk4LDEwODQ0ODc5MTQsLTcwODk0MTcyNiwt
-MTgwMzc5MzI3NV19
+eyJoaXN0b3J5IjpbLTgzMzYzMjA3NSwxNDg4MjU4ODI5LC0xMD
+IyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2NTQ1
+NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNTEzLC
+05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwtMTMw
+OTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2MzczMjk4LDk5ODg2MD
+IwNiwtNjE5MzcyNTA1LDE4ODEyNzIzOTgsMTA4NDQ4NzkxNCwt
+NzA4OTQxNzI2XX0=
 -->
