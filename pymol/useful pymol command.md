@@ -143,18 +143,24 @@ set ray_trace_mode, 1 #中
 set ray_trace_mode, 3 #右
 ray_trace_mode 会加上轮廓线，参数越大阴影越重
 ```
-
-
 <p float="left">
 <img src="/imgs/2025-04-10/lWXvUS9Vm2f7WQez.png" width="300"/>
 <img src="/imgs/2025-04-10/XSeujx1CnUTp2xwX.png" width="300"/>
 <img src="/imgs/2025-04-10/tyaPnhNqlXtfhrjW.png" width="300" />
 </p>
+```
+set ray_trace_mode, 0 #左
+set ray_trace_mode, 1 #中
+set ray_trace_mode, 3 #右
+ray_trace_mode 会加上轮廓线，参数越大阴影越重
+```
+![输入图片说明](/imgs/2025-04-11/M4F0Ea5U3cBEyiPm.png)
 
 
+<p float="left">
+<img src="/imgs/2025-04-10/lWXvUS9Vm2f7WQez.png" width="300"/>
 
-
-
+</p>
 
 
 ### 其他
@@ -165,11 +171,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDM1MDYzMiwxNTE3MDM5MTkzLC00Nz
-kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
-NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
-EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
-NDU1NCwtMjMxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0MTM1MT
-MsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMjY5LC0x
-MzA5NjQ2MjExXX0=
+eyJoaXN0b3J5IjpbLTE1NjM0NTgyNjQsMTUxNzAzOTE5MywtND
+c5MjAzNjg5LC0yMzcyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4
+NTU4LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC
+0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2
+NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNT
+EzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwt
+MTMwOTY0NjIxMV19
 -->
