@@ -96,8 +96,8 @@ ray
 ### Selected Surface Elements
 ```
 fetch 7y3g # 加载蛋白 GPR12-GsGβGγ-Nb35 complex（刘志杰组）
-改变颜色
-set transparency, 0.65, chain R   #将chain R (GPCR)的 
+改变颜色：color-by chain-elementC
+set transparency, 0.65, chain R   #将chain R (GPCR)的透明度变成0.65
 
 set transparency, 0.65, i. 1-100  
 
@@ -117,11 +117,11 @@ set transparency, 0.65, i. 1-100
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA2Nzc2MTEsMTU1NDY1NDU1NCwtMj
-MxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0MTM1MTMsLTk2NzI2
-NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMjY5LC0xMzA5NjQ2Mj
-ExLC0yMzA0Mjc2NTIsLTIwNjYzNzMyOTgsOTk4ODYwMjA2LC02
-MTkzNzI1MDUsMTg4MTI3MjM5OCwxMDg0NDg3OTE0LC03MDg5ND
-E3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1Njkw
-LDcxMzg1NTY5M119
+eyJoaXN0b3J5IjpbMTg4MDYwMTA1LDE1NTQ2NTQ1NTQsLTIzMT
+ExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNTEzLC05NjcyNjQ3
+NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwtMTMwOTY0NjIxMS
+wtMjMwNDI3NjUyLC0yMDY2MzczMjk4LDk5ODg2MDIwNiwtNjE5
+MzcyNTA1LDE4ODEyNzIzOTgsMTA4NDQ4NzkxNCwtNzA4OTQxNz
+I2LC0xODAzNzkzMjc1LDEzNjgyNTE3MDYsMTk5NjI0NTY5MCw3
+MTM4NTU2OTNdfQ==
 -->
