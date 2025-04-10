@@ -138,9 +138,10 @@ set cartoon_color, white   #显示为右下
 
 #### 渲染
 ```
-set ray_trace_mode, 0 
-set ray_trace_mode, 1
-set ray_trace_mode, 3
+set ray_trace_mode, 0 #左
+set ray_trace_mode, 1 #中
+set ray_trace_mode, 3 #右
+
 ```
 
 
@@ -164,11 +165,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU5Njg5OTIsMTUxNzAzOTE5MywtND
-c5MjAzNjg5LC0yMzcyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4
-NTU4LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC
-0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2
-NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNT
-EzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwt
-MTMwOTY0NjIxMV19
+eyJoaXN0b3J5IjpbLTQxNjY0Mzc2NSwxNTE3MDM5MTkzLC00Nz
+kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
+NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
+EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
+NDU1NCwtMjMxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0MTM1MT
+MsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMjY5LC0x
+MzA5NjQ2MjExXX0=
 -->
