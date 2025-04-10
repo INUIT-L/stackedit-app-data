@@ -60,7 +60,8 @@ set cartoon_highlight_color, -1      # turns this feature off (default)
 <br>
 <br>
 
-# transparency
+## transparency
+### Whole Surface
 单独的set transparency命令只是去调整surface和slices的透明度，
 比如我参照小红书[“如何绘制残基相互作用图”](https://www.xiaohongshu.com/user/profile/62e4d86a000000001e01d536?xsec_token=ABLNzGWkdT0ygIOPLvu5WINMnyhNmbATmIkw0WuWHs4LY=&xsec_source=pc_collect)教程中所示的：
 ```
@@ -106,11 +107,11 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTUwNTg0OSwtMTg1OTQxMzUxMywtOT
-Y3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEzMDk2
-NDYyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OTg4NjAyMD
-YsLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5MTQsLTcw
-ODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUxNzA2LDE5OTYyND
-U2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2ODYwNiwx
-MzQxNTYyMDY4XX0=
+eyJoaXN0b3J5IjpbLTQ4MTIyMjU1LDE2MzE1MDU4NDksLTE4NT
+k0MTM1MTMsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQx
+MjY5LC0xMzA5NjQ2MjExLC0yMzA0Mjc2NTIsLTIwNjYzNzMyOT
+gsOTk4ODYwMjA2LC02MTkzNzI1MDUsMTg4MTI3MjM5OCwxMDg0
+NDg3OTE0LC03MDg5NDE3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MT
+cwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3
+OTIyNjg2MDZdfQ==
 -->
