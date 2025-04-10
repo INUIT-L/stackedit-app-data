@@ -97,7 +97,10 @@ ray
 ```
 fetch 7y3g # 加载蛋白 GPR12-GsGβGγ-Nb35 complex（刘志杰组）
 改变颜色：color-by chain-elementC
-set transparency, 0.65, chain R   #将chain R (GPCR)的透明度变成0.65
+set transparency, 0.65, chain R	#将chain R (GPCR)的透明度变成0.65
+set transparency, 1, chain R  	#将chain R (GPCR)的透明度变成0.65
+
+
 
 set transparency, 0.65, i. 1-100  
 
@@ -106,8 +109,11 @@ set transparency, 0.65, i. 1-100
 
 ```
 
+
+<p float="left">
 <img src="/imgs/2025-04-10/18I5mQRWzrWVrSke.png" width="300"/>
-![输入图片说明](/imgs/2025-04-10/cJKoLjLYsqfG7jwa.png)
+<img src="/imgs/2025-04-10/cJKoLjLYsqfG7jwa.png" width="300"/>
+</p>
 
 >Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
@@ -117,7 +123,7 @@ set transparency, 0.65, i. 1-100
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTU4MTQyNywxODgwNjAxMDUsMTU1ND
+eyJoaXN0b3J5IjpbMjAyNjYwNzI3NSwxODgwNjAxMDUsMTU1ND
 Y1NDU1NCwtMjMxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0MTM1
 MTMsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMjY5LC
 0xMzA5NjQ2MjExLC0yMzA0Mjc2NTIsLTIwNjYzNzMyOTgsOTk4
