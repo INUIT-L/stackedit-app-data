@@ -100,7 +100,7 @@ fetch 7y3g # 加载蛋白 GPR12-GsGβGγ-Nb35 complex（刘志杰组）
 set transparency, 0.65, chain R	#将chain R (GPCR)的透明度变成0.65
 set transparency, 1, chain R  	#将chain R (GPCR)的透明度变成1(完全透明)
 set transparency, 0, chain R
-set transpare
+set transparency, 0.65, chain R and resi 1-100 #将chain R的1-100个残基的surface变成透明
 
 
 set transparency, 0.65, i. 1-100  
@@ -127,11 +127,11 @@ set transparency, 0.65, i. 1-100
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg1ODI2MzMsMTg4MDYwMTA1LDE1NT
-Q2NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEz
-NTEzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OS
-wtMTMwOTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2MzczMjk4LDk5
-ODg2MDIwNiwtNjE5MzcyNTA1LDE4ODEyNzIzOTgsMTA4NDQ4Nz
-kxNCwtNzA4OTQxNzI2LC0xODAzNzkzMjc1LDEzNjgyNTE3MDYs
-MTk5NjI0NTY5MF19
+eyJoaXN0b3J5IjpbNzYwMzc3NjgyLDE4ODA2MDEwNSwxNTU0Nj
+U0NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUx
+MywtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLT
+EzMDk2NDYyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OTg4
+NjAyMDYsLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5MT
+QsLTcwODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUxNzA2LDE5
+OTYyNDU2OTBdfQ==
 -->
