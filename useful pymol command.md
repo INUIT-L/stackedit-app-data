@@ -71,7 +71,7 @@ Setting: opaque_background set to on.
 通过chain 选中GPCR，右键 action → extract object → 将GPCR提取为一个新的object
 剩下的7y3g部分，action → delete object
 修改GPCR的颜色，改成lightblue，然后点击all右侧的S > surface
-set transparency, 0.8
+set transparency, 0.8  # show all surfaces with 80% transparency.
 可以得到如左图的结果。 直接 set ray_trace_mode, 1，得到中图的结果。
 ```
 
@@ -106,11 +106,11 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk0MTM1MTMsLTk2NzI2NDc1OCwtNT
-Y2ODg1NDEyLC0xNDY4NTQxMjY5LC0xMzA5NjQ2MjExLC0yMzA0
-Mjc2NTIsLTIwNjYzNzMyOTgsOTk4ODYwMjA2LC02MTkzNzI1MD
-UsMTg4MTI3MjM5OCwxMDg0NDg3OTE0LC03MDg5NDE3MjYsLTE4
-MDM3OTMyNzUsMTM2ODI1MTcwNiwxOTk2MjQ1NjkwLDcxMzg1NT
-Y5Myw2NzQ1NjMzNTUsLTE3OTIyNjg2MDYsMTM0MTU2MjA2OCwy
-MDM2MjU1MjE3XX0=
+eyJoaXN0b3J5IjpbMTYzMTUwNTg0OSwtMTg1OTQxMzUxMywtOT
+Y3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEzMDk2
+NDYyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OTg4NjAyMD
+YsLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5MTQsLTcw
+ODk0MTcyNiwtMTgwMzc5MzI3NSwxMzY4MjUxNzA2LDE5OTYyND
+U2OTAsNzEzODU1NjkzLDY3NDU2MzM1NSwtMTc5MjI2ODYwNiwx
+MzQxNTYyMDY4XX0=
 -->
