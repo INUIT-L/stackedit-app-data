@@ -161,6 +161,7 @@ set ray_trace_disco_factor, 1
 ray #得到右图，disco_factor调成1可以让氨基酸stick表面的线条消失
 set specular, 0 
 ray #specular设置成0能让氨基酸表面的反光消失，默认为1
+
 ```
 <p float="left">
 <img src="/imgs/2025-04-11/M4F0Ea5U3cBEyiPm.png" width="300"/>
@@ -168,8 +169,16 @@ ray #specular设置成0能让氨基酸表面的反光消失，默认为1
 <img src="/imgs/2025-04-11/5hzzTBIPdiT8Y9Hr.png" width="300"/>
 </p>
 
+#### 总结
+```
+set cartoon_transparency, 0.1 
+set ray_trace_mode, 1 
+set ray_shadow, off 
+set ray_trace_disco_factor, 1 
+set specular, 0 
+ray
 
-
+```
 
 ### 其他
 Wizard→Measurement→点中要画的两个原子，形成相互作用；
@@ -179,11 +188,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDU4MDQ5MiwzNDkxNTkwMDYsMTUxNz
-AzOTE5MywtNDc5MjAzNjg5LC0yMzcyNDg3MzEsLTcwNjk3ODE4
-MywxNTc0NTQ4NTU4LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxND
-g4MjU4ODI5LC0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYw
-MTA1LDE1NTQ2NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC
-0xODU5NDEzNTEzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2
-ODU0MTI2OV19
+eyJoaXN0b3J5IjpbMTgxNzQ3MzkyLDExNTA1ODA0OTIsMzQ5MT
+U5MDA2LDE1MTcwMzkxOTMsLTQ3OTIwMzY4OSwtMjM3MjQ4NzMx
+LC03MDY5NzgxODMsMTU3NDU0ODU1OCw1MTkzNDA3MTgsLTExND
+EyMTk4NjIsMTQ4ODI1ODgyOSwtMTAyMjIwNTY5MCwxNjk1Njcx
+ODA5LDE4ODA2MDEwNSwxNTU0NjU0NTU0LC0yMzExMTc1NDAsMT
+YzMTUwNTg0OSwtMTg1OTQxMzUxMywtOTY3MjY0NzU4LC01NjY4
+ODU0MTJdfQ==
 -->
