@@ -93,9 +93,13 @@ set ambient, 0.4
 ray
 得到右图的结果
 ```
+### Selected Surface Elements
+```
+fetch 1rty # load a random protein
+set transparency, 0.65, i. 1-100  # set the partial transparency for the selected residues
 
 
-
+```
 
 
 
@@ -107,11 +111,11 @@ ray
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTIyMjU1LDE2MzE1MDU4NDksLTE4NT
-k0MTM1MTMsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQx
-MjY5LC0xMzA5NjQ2MjExLC0yMzA0Mjc2NTIsLTIwNjYzNzMyOT
-gsOTk4ODYwMjA2LC02MTkzNzI1MDUsMTg4MTI3MjM5OCwxMDg0
-NDg3OTE0LC03MDg5NDE3MjYsLTE4MDM3OTMyNzUsMTM2ODI1MT
-cwNiwxOTk2MjQ1NjkwLDcxMzg1NTY5Myw2NzQ1NjMzNTUsLTE3
-OTIyNjg2MDZdfQ==
+eyJoaXN0b3J5IjpbLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xOD
+U5NDEzNTEzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0
+MTI2OSwtMTMwOTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2MzczMj
+k4LDk5ODg2MDIwNiwtNjE5MzcyNTA1LDE4ODEyNzIzOTgsMTA4
+NDQ4NzkxNCwtNzA4OTQxNzI2LC0xODAzNzkzMjc1LDEzNjgyNT
+E3MDYsMTk5NjI0NTY5MCw3MTM4NTU2OTMsNjc0NTYzMzU1LC0x
+NzkyMjY4NjA2XX0=
 -->
