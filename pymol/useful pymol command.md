@@ -121,7 +121,8 @@ bg_color white
 set opaque_background, on
 chain模式选中GPR174，右键→action→extract object，把GPR174 extract出来，剩下的结构delete
 把互作的氨基酸show sticks，不要show as
-在object menu
+在object menu中，obj01(GPR174)→color→white
+然后点击刚刚shou
 #
 ```
 
@@ -154,7 +155,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMDk4NTg3LDE1MTcwMzkxOTMsLTQ3OT
+eyJoaXN0b3J5IjpbNzMwNDAyODYzLDE1MTcwMzkxOTMsLTQ3OT
 IwMzY4OSwtMjM3MjQ4NzMxLC03MDY5NzgxODMsMTU3NDU0ODU1
 OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMT
 AyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0
