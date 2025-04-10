@@ -123,15 +123,17 @@ set opaque_background, on
 把互作的氨基酸show sticks，不要show as
 
 #
-![输入图片说明](/imgs/2025-04-10/1HwDTxIygiik4t1A.png)
+```
 
 
+<p float="left">
+<img src="/imgs/2025-04-10/ZiwXiVU2Ia3bD2Iw.png" width="300"/>
 
 
 ```
 ```
 
-```
+
 <p float="left">
 <img src="/imgs/2025-04-10/lWXvUS9Vm2f7WQez.png" width="300"/>
 <img src="/imgs/2025-04-10/XSeujx1CnUTp2xwX.png" width="300"/>
@@ -152,7 +154,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzMyNjQ1MCwtNDc5MjAzNjg5LC0yMz
+eyJoaXN0b3J5IjpbMTUxNzAzOTE5MywtNDc5MjAzNjg5LC0yMz
 cyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4NTU4LDUxOTM0MDcx
 OCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC0xMDIyMjA1NjkwLD
 E2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2NTQ1NTQsLTIzMTEx
