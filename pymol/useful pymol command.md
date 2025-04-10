@@ -110,7 +110,9 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 </p>
 
 ### Cartoon transparency
-第一次知道cartoon transparency是因为，
+第一次知道cartoon transparency是因为，想要绘制如下的结构图，其中整体的结构没有轮廓线，突出的氨基酸和配体有轮廓线。请教小红书之后得到以下答复：ray_trace_mode设成1，然后给蛋白质设个看不出来的透明度，比如set cartoon_transparency, 0.05，最后ray一下
+
+![输入图片说明](/imgs/2025-04-10/nBEQo7elx3ooAiia.png)
 
 
 
@@ -128,11 +130,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDU0ODU1OCw1MTkzNDA3MTgsLTExND
-EyMTk4NjIsMTQ4ODI1ODgyOSwtMTAyMjIwNTY5MCwxNjk1Njcx
-ODA5LDE4ODA2MDEwNSwxNTU0NjU0NTU0LC0yMzExMTc1NDAsMT
-YzMTUwNTg0OSwtMTg1OTQxMzUxMywtOTY3MjY0NzU4LC01NjY4
-ODU0MTIsLTE0Njg1NDEyNjksLTEzMDk2NDYyMTEsLTIzMDQyNz
-Y1MiwtMjA2NjM3MzI5OCw5OTg4NjAyMDYsLTYxOTM3MjUwNSwx
-ODgxMjcyMzk4XX0=
+eyJoaXN0b3J5IjpbLTExMjU3MzU3MzcsMTU3NDU0ODU1OCw1MT
+kzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMTAyMjIw
+NTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0NTU0LC
+0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMywtOTY3
+MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEzMDk2ND
+YyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OTg4NjAyMDYs
+LTYxOTM3MjUwNV19
 -->
