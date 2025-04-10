@@ -95,8 +95,13 @@ ray
 ```
 ### Selected Surface Elements
 ```
-fetch 1rty # load a random protein
-set transparency, 0.65, i. 1-100  # set the partial transparency for the selected residues
+fetch 7y3g # load a random protein
+set transparency, 0.65, chain R   # 
+
+set transparency, 0.65, i. 1-100  
+
+
+# set the partial transparency for the selected residues
 
 
 ```
@@ -111,11 +116,11 @@ set transparency, 0.65, i. 1-100  # set the partial transparency for the selecte
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xOD
-U5NDEzNTEzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0
-MTI2OSwtMTMwOTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2MzczMj
-k4LDk5ODg2MDIwNiwtNjE5MzcyNTA1LDE4ODEyNzIzOTgsMTA4
-NDQ4NzkxNCwtNzA4OTQxNzI2LC0xODAzNzkzMjc1LDEzNjgyNT
-E3MDYsMTk5NjI0NTY5MCw3MTM4NTU2OTMsNjc0NTYzMzU1LC0x
-NzkyMjY4NjA2XX0=
+eyJoaXN0b3J5IjpbMzEzNDcyNDkxLC0yMzExMTc1NDAsMTYzMT
+UwNTg0OSwtMTg1OTQxMzUxMywtOTY3MjY0NzU4LC01NjY4ODU0
+MTIsLTE0Njg1NDEyNjksLTEzMDk2NDYyMTEsLTIzMDQyNzY1Mi
+wtMjA2NjM3MzI5OCw5OTg4NjAyMDYsLTYxOTM3MjUwNSwxODgx
+MjcyMzk4LDEwODQ0ODc5MTQsLTcwODk0MTcyNiwtMTgwMzc5Mz
+I3NSwxMzY4MjUxNzA2LDE5OTYyNDU2OTAsNzEzODU1NjkzLDY3
+NDU2MzM1NV19
 -->
