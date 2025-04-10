@@ -75,15 +75,7 @@ Setting: opaque_background set to on.
 修改GPCR的颜色，改成lightblue，然后点击all右侧的S > surface
 set transparency, 0.8  # show all surfaces with 80% transparency.
 可以得到如左图的结果。 直接 set ray_trace_mode, 1，得到中图的结果。
-```
 
-<p float="left">
-  <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300"/>
-  <img src="/imgs/2025-04-09/1nC3Q2VOcVz2nE0n.png" width="300"/>
-  <img src="/imgs/2025-04-09/T4mcGeLIMvlCFOgU.png" width="300"/>
-</p>
-
-```
 在中图的基础上，
 set ray_shadow, off
 set antialias, 2
@@ -94,6 +86,13 @@ set ambient, 0.4
 ray
 得到右图的结果
 ```
+<p float="left">
+  <img src="/imgs/2025-04-09/8rwIx5xo0DVrMmaS.png" width="300"/>
+  <img src="/imgs/2025-04-09/1nC3Q2VOcVz2nE0n.png" width="300"/>
+  <img src="/imgs/2025-04-09/T4mcGeLIMvlCFOgU.png" width="300"/>
+</p>
+
+
 ### Selected Surface Elements
 ```
 fetch 7y3g	# 加载蛋白 GPR12-GsGβGγ-Nb35 complex（刘志杰组）
@@ -120,11 +119,11 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMT
-AyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0
-NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMy
-wtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEz
-MDk2NDYyMTEsLTIzMDQyNzY1MiwtMjA2NjM3MzI5OCw5OTg4Nj
-AyMDYsLTYxOTM3MjUwNSwxODgxMjcyMzk4LDEwODQ0ODc5MTQs
-LTcwODk0MTcyNl19
+eyJoaXN0b3J5IjpbLTYwMDIyMzI3MiwtMTE0MTIxOTg2MiwxND
+g4MjU4ODI5LC0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYw
+MTA1LDE1NTQ2NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC
+0xODU5NDEzNTEzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2
+ODU0MTI2OSwtMTMwOTY0NjIxMSwtMjMwNDI3NjUyLC0yMDY2Mz
+czMjk4LDk5ODg2MDIwNiwtNjE5MzcyNTA1LDE4ODEyNzIzOTgs
+MTA4NDQ4NzkxNF19
 -->
