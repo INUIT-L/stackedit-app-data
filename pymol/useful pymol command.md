@@ -111,10 +111,9 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 
 ### Cartoon transparency
 第一次知道cartoon transparency是因为，想要绘制如下的结构图，其中整体的结构没有轮廓线，突出的氨基酸和配体有轮廓线。
+<img src="/imgs/2025-04-10/nBEQo7elx3ooAiia.png" width="300"/>
 请教小红书之后得到以下答复：
 >ray_trace_mode设成1，然后给蛋白质设个看不出来的透明度，比如set cartoon_transparency, 0.05，最后ray一下。有透明的结构在ray的时候就不会有轮廓
-
-![输入图片说明](/imgs/2025-04-10/nBEQo7elx3ooAiia.png)
 
 
 
@@ -132,7 +131,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTA5NDUxNSwxNTc0NTQ4NTU4LDUxOT
+eyJoaXN0b3J5IjpbLTcwNjk3ODE4MywxNTc0NTQ4NTU4LDUxOT
 M0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC0xMDIyMjA1
 NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2NTQ1NTQsLT
 IzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNTEzLC05Njcy
