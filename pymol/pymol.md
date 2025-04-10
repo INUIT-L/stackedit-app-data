@@ -8,6 +8,8 @@ PyMOL's selection language allows to select atoms based on identifiers and prope
 ```
 PyMOL>show spheres, solvent and chain A
 ```
+
+Selections can be made more precise or inclusive by combining them with logical operators, including the boolean and, or, and not. The boolean and selects only those items that have both (or all) of the named properties, and the boolean or selects items that have either (or any) of them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAxMDYyMV19
+eyJoaXN0b3J5IjpbLTU2NjUyNDI4OCwtMjA5MDEwNjIxXX0=
 -->
