@@ -159,6 +159,7 @@ set ray_shadow, off
 ray #得到中图，基本可以出图了
 set ray_trace_disco_factor, 1
 ray #得到右图，disco_factor调成1可以让氨基酸stick表面的线条消失。
+右图还在中图的基础上拉了下虚实
 set specular, 0 
 ray #specular设置成0能让氨基酸表面的反光消失，默认为1
 
@@ -189,11 +190,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4ODQwMTg1LC0xMzEyODkxNDExLDExNT
-A1ODA0OTIsMzQ5MTU5MDA2LDE1MTcwMzkxOTMsLTQ3OTIwMzY4
-OSwtMjM3MjQ4NzMxLC03MDY5NzgxODMsMTU3NDU0ODU1OCw1MT
-kzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMTAyMjIw
-NTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0NTU0LC
-0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMywtOTY3
-MjY0NzU4XX0=
+eyJoaXN0b3J5IjpbMzc3ODU3MjcsLTEzMTI4OTE0MTEsMTE1MD
+U4MDQ5MiwzNDkxNTkwMDYsMTUxNzAzOTE5MywtNDc5MjAzNjg5
+LC0yMzcyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4NTU4LDUxOT
+M0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC0xMDIyMjA1
+NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2NTQ1NTQsLT
+IzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNTEzLC05Njcy
+NjQ3NThdfQ==
 -->
