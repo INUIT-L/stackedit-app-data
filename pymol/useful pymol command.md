@@ -125,14 +125,14 @@ residue模式下，选中互作的氨基酸，show sticks，不要show as
 选中刚刚show stick的几个氨基酸，sele→color→color by element
 set valence, off  #不显示双键
 显示为左下
-atom模式下
+atom模式下，选中氨基酸的氨基N原子和羧基C原子，hide everything
 #
 ```
-
+![输入图片说明](/imgs/2025-04-11/HDbinYWdzskZNRxt.png)
 
 <p float="left">
 <img src="/imgs/2025-04-10/ZiwXiVU2Ia3bD2Iw.png" width="300"/>
-
+<img src="/imgs/2025-04-10/ZiwXiVU2Ia3bD2Iw.png" width="300"/>
 
 ```
 ```
@@ -158,11 +158,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcyNzY4MDEsMTUxNzAzOTE5MywtND
-c5MjAzNjg5LC0yMzcyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4
-NTU4LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC
-0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2
-NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNT
-EzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwt
-MTMwOTY0NjIxMV19
+eyJoaXN0b3J5IjpbMTA4NTUxMzc0MywxNTE3MDM5MTkzLC00Nz
+kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
+NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
+EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
+NDU1NCwtMjMxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0MTM1MT
+MsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMjY5LC0x
+MzA5NjQ2MjExXX0=
 -->
