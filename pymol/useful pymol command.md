@@ -155,12 +155,15 @@ set cartoon_transparency, 0.1
 set ray_trace_mode, 1
 ray #得到左图
 set ray_shadow, off
-ray #得到右图，基本可以出图了
+ray #得到中图，基本可以出图了
+set ray_trace_disco_factor, 1
+ray #得到右图，disco_factor调成1可以让氨基酸表面的线条xiao's
 ```
 
 <p float="left">
 <img src="/imgs/2025-04-11/M4F0Ea5U3cBEyiPm.png" width="300"/>
 <img src="/imgs/2025-04-11/WyKdlfIYDMSydemE.png" width="300"/>
+<img src="/imgs/2025-04-11/5hzzTBIPdiT8Y9Hr.png" width="300"/>
 </p>
 
 
@@ -172,7 +175,7 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDUzMDkwNSwxNTE3MDM5MTkzLC00Nz
+eyJoaXN0b3J5IjpbMTk1OTQ3MTcyNywxNTE3MDM5MTkzLC00Nz
 kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
 NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
 EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
