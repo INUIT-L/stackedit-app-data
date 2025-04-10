@@ -115,6 +115,8 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 请教小红书之后得到以下答复：
 >ray_trace_mode设成1，然后给蛋白质设个看不出来的透明度，比如set cartoon_transparency, 0.05，最后ray一下。有透明的结构在ray的时候就不会有轮廓
 
+
+
 ```
 fetch 8kh5		# 自己组的GPR174 bound to LysoPS 结构
 bg_color white
@@ -125,15 +127,15 @@ residue模式下，选中互作的氨基酸，show sticks，不要show as
 选中刚刚show stick的几个氨基酸，sele→color→color by element
 set valence, off  #不显示双键
 显示为左下
-atom模式下，选中氨基酸的氨基N原子和羧基C原子，hide everything
+atom模式下，选中氨基酸的氨基N原子和羧基C原子，hide everything #此时螺旋上还会有绿色
 set cartoon_color, white
 #
 ```
-
-
 <p float="left">
 <img src="/imgs/2025-04-10/ZiwXiVU2Ia3bD2Iw.png" width="300"/>
 <img src="/imgs/2025-04-11/HDbinYWdzskZNRxt.png" width="300"/>
+<img src="/imgs/2025-04-11/A7kouiCV9kuMKgE5.png" width="300"/>
+</p>
 
 ```
 ```
@@ -159,11 +161,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyODMwMTIsMTUxNzAzOTE5MywtNDc5Mj
-AzNjg5LC0yMzcyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4NTU4
-LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC0xMD
-IyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2NTQ1
-NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNTEzLC
-05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwtMTMw
-OTY0NjIxMV19
+eyJoaXN0b3J5IjpbLTY4MTM3OTcyLDE1MTcwMzkxOTMsLTQ3OT
+IwMzY4OSwtMjM3MjQ4NzMxLC03MDY5NzgxODMsMTU3NDU0ODU1
+OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMT
+AyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0
+NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMy
+wtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEz
+MDk2NDYyMTFdfQ==
 -->
