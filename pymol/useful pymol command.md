@@ -119,10 +119,13 @@ set transparency, 0.65, chain R and i. 1-100	# resi 1-100和i. 1-100是等价的
 fetch 8kh5		# 自己组的GPR174 bound to LysoPS 结构
 bg_color white
 set opaque_background, on
-chain模式选中GPR174，右键→action→extract object，把GPR174 extract出来，剩下的结构delete
-把互作的氨基酸show sticks，不要show as
+chain模式，选中GPR174，右键→action→extract object，把GPR174 extract出来，剩下的结构delete
+residue模式下，选中互作的氨基酸，show sticks，不要show as
 在object menu中，obj01(GPR174)→color→white
-然后点击刚刚shou
+选中刚刚show stick的几个氨基酸，sele→color→color by element
+set valence, off  #不显示双键
+显示为左下
+atom模式下
 #
 ```
 
@@ -155,11 +158,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNDAyODYzLDE1MTcwMzkxOTMsLTQ3OT
-IwMzY4OSwtMjM3MjQ4NzMxLC03MDY5NzgxODMsMTU3NDU0ODU1
-OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMT
-AyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0
-NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMy
-wtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEz
-MDk2NDYyMTFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzcyNzY4MDEsMTUxNzAzOTE5MywtND
+c5MjAzNjg5LC0yMzcyNDg3MzEsLTcwNjk3ODE4MywxNTc0NTQ4
+NTU4LDUxOTM0MDcxOCwtMTE0MTIxOTg2MiwxNDg4MjU4ODI5LC
+0xMDIyMjA1NjkwLDE2OTU2NzE4MDksMTg4MDYwMTA1LDE1NTQ2
+NTQ1NTQsLTIzMTExNzU0MCwxNjMxNTA1ODQ5LC0xODU5NDEzNT
+EzLC05NjcyNjQ3NTgsLTU2Njg4NTQxMiwtMTQ2ODU0MTI2OSwt
+MTMwOTY0NjIxMV19
 -->
