@@ -157,14 +157,15 @@ ray #得到左图
 set ray_shadow, off
 ray #得到中图，基本可以出图了
 set ray_trace_disco_factor, 1
-ray #得到右图，disco_factor调成1可以让氨基酸表面的线条xiao's
+ray #得到右图，disco_factor调成1可以让氨基酸stick表面的线条消失
 ```
-
 <p float="left">
 <img src="/imgs/2025-04-11/M4F0Ea5U3cBEyiPm.png" width="300"/>
 <img src="/imgs/2025-04-11/WyKdlfIYDMSydemE.png" width="300"/>
 <img src="/imgs/2025-04-11/5hzzTBIPdiT8Y9Hr.png" width="300"/>
 </p>
+
+
 
 
 ### 其他
@@ -175,11 +176,11 @@ Wizard→Measurement→点中要画的两个原子，形成相互作用；
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTQ3MTcyNywxNTE3MDM5MTkzLC00Nz
-kyMDM2ODksLTIzNzI0ODczMSwtNzA2OTc4MTgzLDE1NzQ1NDg1
-NTgsNTE5MzQwNzE4LC0xMTQxMjE5ODYyLDE0ODgyNTg4MjksLT
-EwMjIyMDU2OTAsMTY5NTY3MTgwOSwxODgwNjAxMDUsMTU1NDY1
-NDU1NCwtMjMxMTE3NTQwLDE2MzE1MDU4NDksLTE4NTk0MTM1MT
-MsLTk2NzI2NDc1OCwtNTY2ODg1NDEyLC0xNDY4NTQxMjY5LC0x
-MzA5NjQ2MjExXX0=
+eyJoaXN0b3J5IjpbMzc0NDAwNjAzLDE1MTcwMzkxOTMsLTQ3OT
+IwMzY4OSwtMjM3MjQ4NzMxLC03MDY5NzgxODMsMTU3NDU0ODU1
+OCw1MTkzNDA3MTgsLTExNDEyMTk4NjIsMTQ4ODI1ODgyOSwtMT
+AyMjIwNTY5MCwxNjk1NjcxODA5LDE4ODA2MDEwNSwxNTU0NjU0
+NTU0LC0yMzExMTc1NDAsMTYzMTUwNTg0OSwtMTg1OTQxMzUxMy
+wtOTY3MjY0NzU4LC01NjY4ODU0MTIsLTE0Njg1NDEyNjksLTEz
+MDk2NDYyMTFdfQ==
 -->
