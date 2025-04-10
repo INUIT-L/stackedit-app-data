@@ -95,8 +95,9 @@ ray
 ```
 ### Selected Surface Elements
 ```
-fetch 7y3g # load a random protein
-set transparency, 0.65, chain R   #将chain R(GPCR)的 
+fetch 7y3g # 加载蛋白
+改变颜色
+set transparency, 0.65, chain R   #将chain R (GPCR)的 
 
 set transparency, 0.65, i. 1-100  
 
@@ -116,7 +117,7 @@ set transparency, 0.65, i. 1-100
 
 <img src="/imgs/2025-04-09/IFESN6gRQ0lXCCuM.png" width="300">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcyNjY3MSwtMjMxMTE3NTQwLDE2Mz
+eyJoaXN0b3J5IjpbMTU1NDY1NDU1NCwtMjMxMTE3NTQwLDE2Mz
 E1MDU4NDksLTE4NTk0MTM1MTMsLTk2NzI2NDc1OCwtNTY2ODg1
 NDEyLC0xNDY4NTQxMjY5LC0xMzA5NjQ2MjExLC0yMzA0Mjc2NT
 IsLTIwNjYzNzMyOTgsOTk4ODYwMjA2LC02MTkzNzI1MDUsMTg4
