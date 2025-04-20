@@ -136,10 +136,10 @@
 
 | 状态 | 发生了什么？ | 结果| N| D | ... | Y| 
 |--|--|--|--|--|--|--
-|频率 |90%| 2%| 1%| 1%|...| 1%|
-|PSSM|+6|-2|-4|-4|...|-5
-|PSSM|+6|-2|-4|-4|...|-5
+|Autophagy 正常|p62 和 cargo 被清除| Keap1 正常工作，Nrf2 被降解| 1%| 1%|...| 1%|
+|Autophagy 缺失|p62 聚集、磷酸化并结合 Keap1|Keap1 被 sequestrate，Nrf2 被释放|-4|-4|...|-5
+|Nrf2 被释放|激活抗氧化基因 + 上调 p62 表达|-2|-4|-4|...|-5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDI5NDEyMSwtNDIxNDQxMDY3LC03Mj
-k4Mjg4MDJdfQ==
+eyJoaXN0b3J5IjpbNTI1MDc3ODUzLC00MjE0NDEwNjcsLTcyOT
+gyODgwMl19
 -->
