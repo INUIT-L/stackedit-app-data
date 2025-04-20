@@ -136,11 +136,11 @@
 
 | 状态 | 发生了什么？ | 结果| 
 |--|--|--|
-|正常基础状态|无 stress，p62 水平正常，cargo 不多，p62 和 cargo 被正常地清除| Nrf2 被 Keap1 降解，不活化| 
+|正常基础状态|无 stress，p62 水平正常，cargo 不多，根据需要处理 cargo，p62 和 cargo 被正常地清除| Nrf2 被 Keap1 降解，不活化| 
 |压力状态-选择性自噬被诱导|出现大量 ubiquitinated cargo、p62 上调并磷酸化、Keap1 被 sequestration，p62 和 cargo 被清除| Nrf2 被释放 → 活化| 
 |Autophagy 缺失|cargo + p62 + Keap1 无法降解，持续累积形成聚集体|Keap1 被 sequestrate，Nrf2 被释放|
 |Nrf2 被释放|激活抗氧化基因 + 上调 p62 表达|正反馈 → “noncanonical pathway hyperactivation”|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA3MTgwMzQsLTExMzAwMDk1NTUsLT
-QyMTQ0MTA2NywtNzI5ODI4ODAyXX0=
+eyJoaXN0b3J5IjpbMTkxNjQ1MDg0MiwtMTQyMDcxODAzNCwtMT
+EzMDAwOTU1NSwtNDIxNDQxMDY3LC03Mjk4Mjg4MDJdfQ==
 -->
