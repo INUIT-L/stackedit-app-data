@@ -2,7 +2,7 @@
 
 # request 1
 
-我在读这篇文章，才读完abstract但是好奇一个问题，"Importantly, this noncanonical pathway is hyper-activated in autophagy-deficient mouse livers and tissues of hepatocellular carcinoma." noncanonical指的是p62（Nrf2的靶基因之一）可以和Keap1结合从而减少Nrf2的降解。p62介导的Keap1降解是通过autophagy的，但是为什么这里说在**autophagy-deficient**的mouse liver中这条通路是hyper-activated的？
+我在读这篇文章，才读完abstract但是好奇一个问题，"In addition to this canonical pathway, one Nrf2 target (p62/SQSTM1) competitively binds to Keap1 to activate Nrf2. The p62/SQSTM1-Keap1-Nrf2 axis is linked to selective autophagy and regulated by posttranslational modifications such as sequential phosphorylation and ubiquitination of p62/SQSTM1. Importantly, this noncanonical pathway is hyper-activated in autophagy-deficient mouse livers and tissues of hepatocellular carcinoma." noncanonical指的是p62（Nrf2的靶基因之一）可以和Keap1结合从而减少Nrf2的降解。p62介导的Keap1降解是通过autophagy的，但是为什么这里说在**autophagy-deficient**的mouse liver中这条通路是hyper-activated的？
 
 # reply1
 
@@ -62,5 +62,5 @@
 
 如果你想我帮你画一个图总结这个逻辑机制（canonical vs noncanonical, autophagy sufficient vs deficient），也可以说！这个机制其实是理解癌症、慢性炎症、Nrf2 逃逸等非常核心的内容。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE0MDEzMjYsLTcyOTgyODgwMl19
+eyJoaXN0b3J5IjpbLTc0NjI2ODIwMywtNzI5ODI4ODAyXX0=
 -->
