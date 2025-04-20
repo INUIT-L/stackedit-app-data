@@ -60,7 +60,9 @@
 ----------
 
 如果你想我帮你画一个图总结这个逻辑机制（canonical vs noncanonical, autophagy sufficient vs deficient），也可以说！这个机制其实是理解癌症、慢性炎症、Nrf2 逃逸等非常核心的内容。
+
+# re文章中有提到你说的这些吗
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc0Njg4NDEsLTQyMTQ0MTA2NywtNz
-I5ODI4ODAyXX0=
+eyJoaXN0b3J5IjpbNjc1MDAxMDMzLC00MjE0NDEwNjcsLTcyOT
+gyODgwMl19
 -->
