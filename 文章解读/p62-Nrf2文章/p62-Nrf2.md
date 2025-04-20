@@ -8,7 +8,7 @@
 
 你问的问题非常棒，而且这个机制确实有些“违背直觉” —— **为什么在 autophagy 缺失的情况下，p62 介导的 Keap1 降解（通过 autophagy 实现）这条路径反而被 hyper-activated 了？**
 
-答案其实就在于：**这条“非经典（noncanonical）通路的激活”并不依赖于“成功完成 autophagy”，而是依赖于 p62 的累积和磷酸化状态。**
+答案其实就在于：这条“非经典（noncanonical）通路的激活”并不依赖于**“成功完成 autophagy”**，而是依赖于 **p62 的累积和磷酸化状态**。
 
 ----------
 
@@ -62,5 +62,5 @@
 
 如果你想我帮你画一个图总结这个逻辑机制（canonical vs noncanonical, autophagy sufficient vs deficient），也可以说！这个机制其实是理解癌症、慢性炎症、Nrf2 逃逸等非常核心的内容。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjI2ODIwMywtNzI5ODI4ODAyXX0=
+eyJoaXN0b3J5IjpbLTQyMTQ0MTA2NywtNzI5ODI4ODAyXX0=
 -->
