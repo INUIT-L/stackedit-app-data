@@ -134,12 +134,12 @@
 
 🧠 总结逻辑线（文章全都写了！）：
 
-| 状态 | 发生了什么？ | 结果| N| D | ... | Y| 
-|--|--|--|--|--|--|--
-|Autophagy 正常|p62 和 cargo 被清除| Keap1 正常工作，Nrf2 被降解| 1%| 1%|...| 1%|
-|Autophagy 缺失|p62 聚集、磷酸化并结合 Keap1|Keap1 被 sequestrate，Nrf2 被释放|-4|-4|...|-5
-|Nrf2 被释放|激活抗氧化基因 + 上调 p62 表达|-2|-4|-4|...|-5
+| 状态 | 发生了什么？ | 结果| 
+|--|--|--|
+|Autophagy 正常|p62 和 cargo 被清除| Keap1 正常工作，Nrf2 被降解| 
+|Autophagy 缺失|p62 聚集、磷酸化并结合 Keap1|Keap1 被 sequestrate，Nrf2 被释放|
+|Nrf2 被释放|激活抗氧化基因 + 上调 p62 表达|正反馈 → “noncanonical pathway hyperactivation”|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MDc3ODUzLC00MjE0NDEwNjcsLTcyOT
-gyODgwMl19
+eyJoaXN0b3J5IjpbLTExMzAwMDk1NTUsLTQyMTQ0MTA2NywtNz
+I5ODI4ODAyXX0=
 -->
