@@ -27,7 +27,6 @@
     -   这导致了**磷酸化 p62（尤其是S351）的聚集体形成**，这些聚集体仍然能够强有力地**结合并“隔离”Keap1**；
         
     -   被隔离的 Keap1 无法再结合 Nrf2 → **Nrf2 escape degradation → 持续活化**。
-        
     
     ✅ **即使 Keap1 没有被“降解”，只要它被 p62 拉去做“陪绑”，它就无法再抑制 Nrf2。**
     
@@ -49,7 +48,7 @@
 
 ----------
 
-### 🧪 实验观察支持：
+###  实验观察支持：
 
 -   在 autophagy-deficient mouse livers 中，观察到 **S351 磷酸化的 p62 和 Keap1 的聚集体**；
     
@@ -62,5 +61,6 @@
 
 如果你想我帮你画一个图总结这个逻辑机制（canonical vs noncanonical, autophagy sufficient vs deficient），也可以说！这个机制其实是理解癌症、慢性炎症、Nrf2 逃逸等非常核心的内容。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTQ0MTA2NywtNzI5ODI4ODAyXX0=
+eyJoaXN0b3J5IjpbLTEwNTc0Njg4NDEsLTQyMTQ0MTA2NywtNz
+I5ODI4ODAyXX0=
 -->
