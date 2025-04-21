@@ -55,9 +55,17 @@ match = re.search(r"UniProt:([A-Z0-9]+)", description)
 -   `group(0)` 是整个匹配结果 → `UniProt:P29691`
 -   `group(1)` 是括号里面的捕获组 → `P29691`
 
-### 🧼 改好的脚本如下（只改动了解析函数）
+### 🧼 改好的脚本如下
 
 ```python
+import pandas as pd
+import re
+
+# 读取Excel文件
+file_path = "/Users/linjunxiang/Desktop/K3.xlsx"
+df = pd.read_excel(file_path)
+
+# 定义解析Description列的函数
 def extract_uniprot(description):
     match = re.search(r"UniProt:([A-Z0-9]+)", description)
     if match:
@@ -67,9 +75,21 @@ def extract_uniprot(description):
         uniprot_id = ""
         remaining_desc = description
     return uniprot_id, remaining_desc
+
+# 解析数据
+df[['Uniprot ID', 'Modified Description']] = df['Description'].apply(lambda x: pd.Series(extract_uniprot(str(x))))
+
+# 重新排列列顺序
+df = df[['WormBaseID', 'Uniprot ID', 'Modified Description', 'SQ Length', 'PSM Count', 'Coverage']]
+
+# 保存为CSV文件
+output_path = "/Users/linjunxiang/Desktop/prey_K3.csv"
+df.to_csv(output_path, index=False)
+
+print(f"处理完成，新文件已保存至 {output_path}")
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk3OTg2MjcsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMjg1ODgzOTI3LC0yMDg4NzQ2NjEyXX0=
 -->
