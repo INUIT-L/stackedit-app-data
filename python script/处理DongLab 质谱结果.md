@@ -92,9 +92,36 @@ print(f"处理完成，新文件已保存至 {output_path}")
 
 ## 实验减去对照脚本
 
+```python
+import pandas as pd
 
+def filter_unique_proteins(n2_file, tag_file, output_file):
+    # 读取 CSV 文件
+    n2_df = pd.read_csv(n2_file)
+    tag_df = pd.read_csv(tag_file)
+    
+    # 提取 N2_food.csv 中的所有 Uniprot ID
+    n2_uniprot_ids = set(n2_df['Uniprot ID'])
+    
+    # 过滤 Tag_food.csv 中 Uniprot ID 已存在于 N2_food.csv 的蛋白
+    filtered_proteins = tag_df[~tag_df['Uniprot ID'].isin(n2_uniprot_ids)]
+    
+    # 将结果写入新的 CSV 文件
+    filtered_proteins.to_csv(output_file, index=False)
+    
+    print(f"筛选完成，结果已保存至 {output_file}")
+
+# 文件路径
+n2_file = "/Users/linjunxiang/Desktop/WT.csv"
+tag_file = "/Users/linjunxiang/Desktop/K3.csv"
+output_file = "/Users/linjunxiang/Desktop/WT_K3.csv"
+
+# 运行函数
+filter_unique_proteins(n2_file, tag_file, output_file)
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNjU0MzksMjg1ODgzOTI3LC0yMDg4Nz
-Q2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzOTA0MTY1NDksMjg1ODgzOTI3LC0yMD
+g4NzQ2NjEyXX0=
 -->
