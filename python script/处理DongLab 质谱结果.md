@@ -47,17 +47,29 @@ uniprot_id = match.group(0)  # 保留完整的 "UniProt:P29691"
 它是把整个匹配结果 `"UniProt:P29691"` 作为 `uniprot_id`，所以你最终提取出来的一列就包括了 `"UniProt:"` 这个前缀。
 
 ### ✅ 改进脚本的方法
-
 你其实已经写了正确的正则表达式：
 ```python
 match = re.search(r"UniProt:([A-Z0-9]+)", description)
 ```
-
 它里面 `([A-Z0-9]+)` 是捕获括号，用于匹配并提取 **仅由大写字母和数字组成的 Uniprot ID 部分**，也就是 `"P29691"`。但是你用了 `group(0)` 而不是 `group(1)`。
-
 -   `group(0)` 是整个匹配结果 → `UniProt:P29691`
-    
 -   `group(1)` 是括号里面的捕获组 → `P29691`
+
+### 🧼 改好的脚本如下（只改动了解析函数）
+
+```python
+def extract_uniprot(description):
+    match = re.search(r"UniProt:([A-Z0-9]+)", description)
+    if match:
+        uniprot_id = match.group(1)  # ✅ 提取干净的 ID，比如 "P29691"
+        remaining_desc = description.replace(match.group(0), "").strip()
+    else:
+        uniprot_id = ""
+        remaining_desc = description
+    return uniprot_id, remaining_desc
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc5Mzk0NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTExMzk3OTg2MjcsLTIwODg3NDY2MTJdfQ
+==
 -->
