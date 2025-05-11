@@ -1,4 +1,3 @@
-
 # request 1
 请你翻译这句话
 Although the identification of genes responsible for neurodevelopmental and neuropsychiatric disorders remains a major obstacle, the few causally associated genes are ripe for discovery by focusing efforts to dissect their mechanisms.
@@ -87,5 +86,5 @@ discovery是”第一次发现某个东西“的意思吗？ for discovery 改�
 
 是否需要我帮你重写一下那句话，使其更适合你写作/理解的目的？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NzY4NTM1XX0=
+eyJoaXN0b3J5IjpbMjM0NTc1NzIxLDk1NDc2ODUzNV19
 -->
